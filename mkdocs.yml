@@ -1,4 +1,4 @@
-site_name: FAIR-by-Design Template Repository
+site_name: Minimum Viable Skillsets (MVS)
 docs_dir: resources
 theme:
   name: material
@@ -8,23 +8,35 @@ theme:
   custom_dir: resources/overrides
   features:
     - navigation.footer
+    - navigation.tabs
+    - navigation.tabs.sticky
+markdown_extensions: 
+  - pymdownx.tabbed:
+      alternate_style: true
+  - footnotes
+  - abbr
+  - attr_list
+  - pymdownx.snippets:
+      auto_append:
+        - definitions.md
 plugins:
   - tags
+  - search
+  - macros:
+      module_name: extra/macros
   - mike:
       version_selector: true
+  - bibtex:
+      bib_file: "references.bib"
   - exclude:
       glob:
         - "*Activities/*"
-        - "*Assessment/*"
         - "*Templates/*"
         - "*Feedback/*"
         - "*.tmp"
         - "*.pdf"
         - "*.gz"
         - "*.pptx"
-        - "*_plan.md"
-        - "*_facilitator_guide.md"
-        - "*syllabus.md"
       regex:
         - '.*\.(tmp|bin|tar)$'
 extra:

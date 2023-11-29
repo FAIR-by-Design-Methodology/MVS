@@ -27,3 +27,8 @@ h1, h2, h3, h4 {
 .md-copyright {
   color: white !important;
 }
+
+.md-tabs {
+  background-color: #5b92b9;
+  font-size: 2.5em !important;
+}
