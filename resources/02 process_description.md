@@ -10,8 +10,6 @@ hide:
 
 # MVS Co-creation Approach
 
-this is a multi word definition test
-
 ## Methodology to co-create a MVS Profile
 
 The process followed by Skills4EOSC is a straightforward collaborative authoring and publication process, outlined below as a guide for others interested in applying the approach.
