@@ -1,113 +1,84 @@
 ---
-title: "Scholarly Communications Professionals MVS"
+title: "Scholarly Communications Professional MVS"
 author: "Skills4EOSC T2.1"
 tags: 
     - Minimum Viable Skillset
+    - Scholarly Communication Professional
 ---
 
-# Learning Unit Template
+# Minimum Viable Skills for **Scholarly Communication Professional**
 
-Introduction
+According to UNESCO, “Scholarly communication is the process of sharing, disseminating and publishing research findings of academics and researchers so that the generated academic contents are made available to the global academic communities”. The Minimum Viable Skillset for Scholarly Communication Professionals describes the Open Science and Data Management skills required for those roles contributing to the creation, curation, and dissemination of scholarly outputs, with a particular attention to publications. Publications and scholarly outputs in general are not only the result of scientific activities, but a component of the open science  ecosystem and therefore requiring the same OS and RDM skills as other OS products.
 
-## Learning Objectives
+## Subtypes: Publisher, Editor, Librarian
 
-- min one learning objective using the verbs from the Blooms taxonomy
+*Organisational context*:
 
-## Target Audience
-
-- who is this learning unit meant for
-
-## Duration
-
-- time needed to learn the provided content
-
-## Prerequisites
-
-- list any knowledge that is required so that the learning unit can be followed
-
-## Learning Tools
-
-- list any tools that are necessary to be used to complete the learning unit
-- examples include required software, access to resources, etc.
-
-## Learning Content Topic
-
-Here goes the content of the learning unit divided into a number of subtopics and any additional headings as necessary.
-
-Use blank rows to divide between paragraphs.
-
-References to external or internal content provided elsewhere should be linked with [hyperlinks](https://pages.github.com/).
-
-### Sub-subtitle
-
-Refer to a different learning unit using a relative link. For an example, see the [Syllabus](../../index.md) file.
-
-*Example italic text*
-
-**Example bold text**
-
-### Lists
-
-Example numbered bullets:
-
-1. numbered list one
-2. two
-3. three
-
-Example unnumbered list.
-
-- unnumbered list
-- item two
-- item three
-    - subitem
-    - use 4 spaces to create nested subitem
-
-You can also create mixed lists:
-
-- mixed list
-    1. now numbered subitem
-    2. subitem number two
-- back to mixed list level 1 bullet
-
-### Images
-
-To add an image, first place the image in the /attachments folder and then use a relative link similar to above using a ! in front. 
-All images should be located in the attachments folder that is on the same level with the content file. 
-
-![alternative text for accessibility an image of a macaw parrot](attachments/macaw-g8f80c4f64_640.jpg)
-
-Caption: Macaw Parrot
-Image by [Karina Copa](https://pixabay.com/users/kayuli-781524) from [Pixabay](https://pixabay.com)
+- Libraries
+- Research Performing Organizations (learned societies, universities, research centers)
+- Scientific publishers
+- Research Infrastructures
 
 
-Don't forget attribution if the image was not created by you. If you are reusing images or text clear attribution should be provided as in the example above. Same applies in case of reusing text or other type of content. Be careful to follow the attribution rules as provided by the image source (in the example above it is Pixabay).
+### Mission
+The Scholarly Communication Professional (SCP) deals with Scholarly Communication Artifacts, which entail, but are not limited to: articles, books, posts, annotations. SCPs engaged in Open Science ensure open access to the Scholarly Communication Artifacts, and more broadly their full integration into the OS environment. SCPs not only apply OS and RDM principles to the traditional and innovative forms of Scholarly Communication Artifacts, but they  also address OS aspects beyond RDM best practices. 
 
-### Accessibility
+In that prospect, the SCP designs and/or implements OS policies and recommendations and applies methods and standards to ensure high- quality, accessible and reproducible research outputs.
 
-Using headings and subheadings, lists and alternative text for images is extremely important so as to ensure accessibility of the content for people with impairments. Also, take care to choose the appropriate color pallette for images.
+### OS Activities 
 
-### Tables
+- Maintains and/or uses a publishing platform or a repository providing interoperable contents
+- Guides and supports users in disseminating standardized and FAIRified scholarly communication artifacts
+- Guides and supports users in enhancing their data literacy skills and  working effectively with various types of data
+- Negotiates with publishers for open access publishing
+- Curates and enriches the data to ensure semantic and technical interoperability with a range of aggregators’ specifications
+- Uses tools and follows procedures to achieve sustainability of published resources
+- Ensures compliance of published output with ethical and legal recommendations
+- Organises and monitors processes of content creation, review and dissemination
+- Integrates the aspects of diversity, inclusiveness and integrity in the process of information sharing
+- Participates and contributes in trans-professional networks (including librarians, publishers, IT experts, legal experts, etc.)
 
-Tables are a bit tricky in md, the easiest way to create them is to use a tool that will generate the md code that you can then just copy paste in your content file.
-One such tool that can be used is the [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) available online. The provided example table has been generated using this tool. 
+### OS Outcomes
+The SCP manages Scholarly Communication Artifacts as research data, following OS and RDM principles, including the FAIR principles, both for the contents (e.g. using interoperable standard structured formats), and for their metadata (e.g., using PIDs and standard metadata schemas). The SCP ensures this way that Scholarly Communication Artifacts are not only disseminated as research results, but made available as reusable research data. 
 
-| **Column 1 title** | **Column 2 title**  |
-|--------------------|---------------------|
-| content 1          |      content 4      |
-| content 2          |      content 5      |
-| content 3          | content 6 content 7 |
+LIBER (Association of European Research Libraries) identifies the following contributions to OS proper to librarians that also characterize any SCP’s activity:
 
-### Related Learning Materials
+- Scholarly publishing
+- Research integrity
+- Citizen Science
+- FAIR data
+- Metrics and Awards
 
-Refer to exercises, quizzes, games or other types of learning materials where ever they should be included in the unit and provide links to this content.
+## Essential Skills and Competences
 
+### Technical skills and competences
 
-## Summary
+- Expertise in data literacy both as a practitioner and a trainer
+- Knowledge of repositories and aggregators types, scope, and requirements
+- Capacity to generate and/or understand bibliometrics, altmetrics, and usage metrics
+- Knowledge of open publication models(green, gold, diamond)
+- Expertise in persistent identification of contents
+- Good knowledge of discipline-specific output types and standards
+- Expertise in standard metadata generation and storage
+- Capacity to apply FAIR principles to a variety of scholarly outputs
+- Knowledge about Linked Open Data and semantic interoperability
+- Expert-level awareness of legal aspects related to IP/copyright/privacy, as well as the use of data and information which may be considered sensitive, balance data protection requirements with open science/FAIR principles (taken from Senior Researcher MVS)
+- Capacity to understand and apply Responsible Research and Innovation (RRI) and the CARE (Collective benefit, Authority to control, Responsibility, Ethics) principles
+- Ability to organize, and manage physical and digital events
+- Ability to design, organize, and manage physical and digital trainings
 
-At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
+### Soft/ transversal skills
 
-## Suggested Reading
+- These are personal attributes or aptitudes required for interpersonal, communication, or leadership dimensions of an OS activity, and which are improved with practice. 
+- Select terms as above but referring to the list of ESCO transversal terms.
 
-- provide a list of references for further reading that should help clarify the content of the learning unit and elevate the knowledge level
-- [Markdown guide](https://www.markdownguide.org/), free and open-source reference guide that explains how to use Markdown.
+## Related MVS
+Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
+## Reference sources
+
++ Avanço, K. & Gingold, A., (2022) [FAIRifying a scholarly publishing service: Methodology based on the OpenEdition’s internal FAIR audit](https://doi.org/10.3998/jep.1540), The Journal of Electronic Publishing 25(2). doi: https://doi.org/10.3998/jep.1540
+
++ Federer, L., Foster, E. D., Glusker, A., Henderson, M., Read, K., & Zhao, S. (2020). [The Medical Library Association Data Services Competency: A framework for data science and open science skills development](https://doi.org/10.5195/jmla.2020.909). Journal of the Medical Library Association, 108(2). https://doi.org/10.5195/jmla.2020.909  
+
++ McCaffrey, Ciara, Meyer, Thorsten, Riera Quintero, Clara, Swiatek, Cecile, Marcerou-Ramel, Nathalie, Gillén, Camilla, Clavel, Karin, Wojciechowska, Anna, Brinken, Helene, Prevoo, Mariëlle, & Egerton, Frank. (2020). [Open Science Skills Visualisation - Visualisation des compétences en science ouverte](https://doi.org/10.5281/zenodo.4727592) (Version 2). Zenodo. https://doi.org/10.5281/zenodo.4727592 
