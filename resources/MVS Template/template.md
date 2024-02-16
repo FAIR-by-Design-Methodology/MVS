@@ -1,8 +1,12 @@
 ---
-title: "Civil Servant MVS"
-author: "Skills4EOSC T2.1"
+title: "Skills4EOSC MVS Template v1.0"
+author: "Angus Whyte"
 tags: 
-    - Minimum Viable Skillset
+    - Minimum Viable Skillset Template
+    - v1.0
+    - by Angus Whyte
+    - from 9 February 2024
+    - available under  CC-BY 4.0
 ---
 
 # Minimum Viable Skills for [Role name]
@@ -48,4 +52,3 @@ Publicly accessible sources that have informed the MVS by describing the role, i
 
 +  Author list, version date, licence (CC-BY)
 
-> [Based on the Skills4EOSC MVS Template v1.0 developed by Angus Whyte](../../MVS%20Template/template.md)
