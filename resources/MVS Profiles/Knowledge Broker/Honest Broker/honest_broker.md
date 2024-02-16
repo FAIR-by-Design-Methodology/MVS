@@ -8,7 +8,7 @@ tags:
 
 # Minimum Viable Skills for **Honest Broker**
 
-An honest broker is an impartial mediator who ** helps to facilitate communication and decision-making** among individuals or groups with differing interests or values. The role of an honest broker is to **remain neutral and unbiased**, to provide all parties with accurate information, and to help them negotiate and find common ground. Honest brokers are often used in situations where there is a need for a fair and transparent process, such as in conflict resolution or public policy development. 
+An honest broker is an impartial mediator who **helps to facilitate communication and decision-making** among individuals or groups with differing interests or values. The role of an honest broker is to **remain neutral and unbiased**, to provide all parties with accurate information, and to help them negotiate and find common ground. Honest brokers are often used in situations where there is a need for a fair and transparent process, such as in conflict resolution or public policy development. 
 
 *Organisational context*:
 
