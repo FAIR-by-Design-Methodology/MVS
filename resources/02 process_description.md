@@ -151,55 +151,55 @@ research community the MVS is applicable to,
     CSCCE  Glossary: 45 terms listed according to 5 dimensions, selecting those included in 'skills wheel' for scientific community managers
 
     - **Interpersonal**
-        - Engagement
-        - Collaboration
-        - Teaching and training
-        - Networking
-        - Mentoring
-        - Moderation, mediation and intervention
-        - Emotional integration
-        - Cultural competence
-        - Consultation and listening
+        - [Engagement](https://www.cscce.org/glossary/engagement/)
+        - [Collaboration](https://www.cscce.org/glossary/collaboration/)
+        - [Teaching and training](https://www.cscce.org/glossary/teaching-and-training/)
+        - [Networking](https://www.cscce.org/glossary/networking/)
+        - [Mentoring](https://www.cscce.org/glossary/mentoring/)
+        - [Moderation, mediation and intervention](https://www.cscce.org/glossary/moderation-mediation-and-intervention/)
+        - [Emotional integration](https://www.cscce.org/glossary/emotional-integration/)
+        - [Cultural competence](https://www.cscce.org/glossary/cultural-competence/)
+        - [Consultation and listening](https://www.cscce.org/glossary/consultation-and-listening/)
     - **Program management (= Leadership)**
-        - Operational planning and implementation
-        - Time management
-        - Record-keeping
-        - Project Reporting
-        - Evaluation and assessment
-        - Event planning
-        - Financial management
-        - Community governance
-        - Meeting facilitation
+        - [Operational planning and implementation](https://www.cscce.org/glossary/operational-planning-and-implementation/)
+        - [Time management](https://www.cscce.org/glossary/time-management/)
+        - [Record-keeping](https://www.cscce.org/glossary/record-keeping/)
+        - [Project Reporting](https://www.cscce.org/glossary/reporting/)
+        - [Evaluation and assessment](https://www.cscce.org/glossary/evaluation-and-assessment/)
+        - [Event planning](https://www.cscce.org/glossary/event-planning/)
+        - [Financial management](https://www.cscce.org/glossary/financial-management/)
+        - [Community governance](https://www.cscce.org/glossary/community-governance/)
+        - [Meeting facilitation](https://www.cscce.org/glossary/meeting-facilitation/)
     - **Program development (= Domain)**
-        - Strategy development
-        - Landscape analysis
-        - Business Modeling
-        - Proposal development
-        - Advancement, growth and sustainability
-        - Advocacy
-        - Project/programme design
-        - Change management
-        - Recruitment, welcoming and onboarding
+        - [Strategy development](https://www.cscce.org/glossary/strategy-development/)
+        - [Landscape analysis](https://www.cscce.org/glossary/analysis/)
+        - [Business Modeling](https://www.cscce.org/glossary/synthesis/)
+        - [Proposal development](https://www.cscce.org/glossary/proposal-development/)
+        - [Advancement, growth and sustainability](https://www.cscce.org/glossary/advancement-growth-and-sustainability/)
+        - [Advocacy](https://www.cscce.org/glossary/advocacy/)
+        - [Project/programme design](https://www.cscce.org/glossary/program-design/)
+        - [Change management](https://www.cscce.org/glossary/change-management/)
+        - [Recruitment, welcoming and onboarding](https://www.cscce.org/glossary/recruitment-welcoming-and-onboarding/)
     - **Communication**
-        - Content planning
-        - Content creation and curation
-        - Copywriting and editing
-        - Marketing and branding
-        - Knowledge brokering
-        - Media relations
-        - Outreach
-        - Speaking and presenting
-        - Social media
+        - [Content planning](https://www.cscce.org/glossary/content-planning/)
+        - [Content creation and curation](https://www.cscce.org/glossary/content-creation-and-curation/)
+        - [Copywriting and editing](https://www.cscce.org/glossary/editorial/)
+        - [Marketing and branding](https://www.cscce.org/glossary/marketing-and-branding/)
+        - [Knowledge brokering](https://www.cscce.org/glossary/knowledge-brokering/)
+        - [Media relations](https://www.cscce.org/glossary/media-relations/)
+        - [Outreach](https://www.cscce.org/glossary/outreach/)
+        - [Speaking and presenting](https://www.cscce.org/glossary/speaking-and-presenting/)
+        - [Social media](https://www.cscce.org/glossary/social-media/)
     - **Technical** 
-        - Media production
-        - Data analysis
-        - Data visualization
-        - Data management
-        - Systems administration and maintenance
-        - Product management of technology platforms
-        - Web and UI design
-        - Content Management System (CMS) administration
-        - Technical support
+        - [Media production](https://www.cscce.org/glossary/media-production/)
+        - [Data analysis](https://www.cscce.org/glossary/data-analysis/)
+        - [Data visualization](https://www.cscce.org/glossary/data-visualization/)
+        - [Data management](https://www.cscce.org/glossary/data-management/)
+        - [Systems administration and maintenance](https://www.cscce.org/glossary/systems-administration-and-maintenance/)
+        - [Product management of technology platforms](https://www.cscce.org/glossary/product-management-of-technology-platforms/)
+        - [Web and UI design](https://www.cscce.org/glossary/web-and-ui-design/)
+        - [Content Management System (CMS) administration](https://www.cscce.org/glossary/content-management-system-cms-administration/)
+        - [Technical support](https://www.cscce.org/glossary/technical-support/)
 
 === "ResearchComp"
     [ResearchComp](https://research-and-innovation.ec.europa.eu/system/files/2023-04/ec_rtd_research-competence-presentation.pdf)
@@ -209,21 +209,17 @@ research community the MVS is applicable to,
         1.  Abstract thinking
             - Demonstrate the ability to use concepts in order to make and understand generalisations, and relate or connect them to other items, events, or experiences.
         2.  Critical thinking
-            - Exercise critical judgement and thinking, develop own assumptions, and establish a way of working based on critical
-thinking.
+            - Exercise critical judgement and thinking, develop own assumptions, and establish a way of working based on critical thinking.
         3.  Analytical thinking
-            - Using logic and reasoning to develop alternative solutions, conclusions or approaches to problems and identify their
-strengths and weaknesses.
+            - Using logic and reasoning to develop alternative solutions, conclusions or approaches to problems and identify their strengths and weaknesses.
         4.  Strategic thinking
             - Develop a vision to turn ideas into action. Obtain and synthesize information to identify and explore trends, opportunities, threats (also based on intuition and creativity) to achieve a long-term goal and to thrive in a competitive, changing environment. Identify alternative paths to turn ideas into action, select the most appropriate approach and adjust where necessary.
         5.  Systemic thinking
-            - Understand and take account of the characteristics of (inter)national research systems where researchers interact with all relevant stakeholders and of the position of individual researchers and their organisation within the system.
-Situate research activities within the wider context to improve the understanding of complex issues and identify linkages with related issues.
+            - Understand and take account of the characteristics of (inter)national research systems where researchers interact with all relevant stakeholders and of the position of individual researchers and their organisation within the system. Situate research activities within the wider context to improve the understanding of complex issues and identify linkages with related issues.
         6.  Problem solving
             - Develop and implement solutions to practical, operational or conceptual problems which arise in the execution of work in a wide range of contexts.
         7.  Creativity
-            - Develop several ideas and opportunities to create value, including better solutions to existing and new challenges.
-Explore and experiment with innovative approaches. Combine knowledge and resources to achieve valuable effects.
+            - Develop several ideas and opportunities to create value, including better solutions to existing and new challenges. Explore and experiment with innovative approaches. Combine knowledge and resources to achieve valuable effects.
     
     **Self management**
 
@@ -241,13 +237,11 @@ Explore and experiment with innovative approaches. Combine knowledge and resourc
         12.  Interact professionally
             - Show consideration to others and professional collegial behaviour. Listen, give and receive feedback and respond perceptively to others. Engage effectively and in a goal-directed manner with other people in a professional setting, also involving staff supervision and leadership.
         13.  Develop networks
-            - Develop alliances, contacts or partnerships, and exchange information with others. Foster integrated and open collaborations where different stakeholders co-create shared value research and innovations. Develop your personal
-profile or brand and make yourself visible and accessible in face-to-face and online networking environments.
+            - Develop alliances, contacts or partnerships, and exchange information with others. Foster integrated and open collaborations where different stakeholders co-create shared value research and innovations. Develop your personal profile or brand and make yourself visible and accessible in face-to-face and online networking environments.
         14.  Work in teams
             - Work confidently within a group with each doing their part in the service of the whole.
         15.  Ensure wellbeing at work
-            - Understand the links between work, physical and mental health and wellbeing. Be adequately informed about health promotion and disease prevention to take responsibility for the personal work situation considering the impact on
-others to create a healthy work environment.
+            - Understand the links between work, physical and mental health and wellbeing. Be adequately informed about health promotion and disease prevention to take responsibility for the personal work situation considering the impact on others to create a healthy work environment.
         16.  Build mentor-mentee relationships
             - Mentor individuals by providing emotional support, sharing experiences and giving advice to the individual to help them in their personal development, as well as adapting the support and guidance to the specific needs of the individual and heeding their requests and expectations. Vice versa, as a mentee, seek support and advice provided by the mentor.
         17.  Promote inclusion & diversity
@@ -264,30 +258,25 @@ others to create a healthy work environment.
         21.  Write research documents
             - Draft and edit research, academic or technical texts on different subjects.
         22.  Apply research ethics and integrity principles
-            - Apply fundamental ethical principles and legislation to research and innovation, including issues of research integrity.
-Perform, review, or report research avoiding misconducts such as fabrication, falsification, and plagiarism.
+            - Apply fundamental ethical principles and legislation to research and innovation, including issues of research integrity. Perform, review, or report research avoiding misconducts such as fabrication, falsification, and plagiarism.
     
     **Managing research**
 
         23.  Mobilise resources
-            - Identify key relevant funding sources and prepare research grant applications in order to obtain funds and grants.
-Write research proposals and pitch ideas to convince potential investors (internal or external to the organisation) of the need to fund research initiatives.
+            - Identify key relevant funding sources and prepare research grant applications in order to obtain funds and grants. Write research proposals and pitch ideas to convince potential investors (internal or external to the organisation) of the need to fund research initiatives.
         24.  Manage projects
             - Manage and plan various resources, such as human resources, budget, deadline, results, and quality necessary for a specific project and for a project portfolio, and monitor the progress in order to achieve a specific goal within a set time and budget using project management tools.
         25.  Negotiate
             - Exchange ideas while analysing issues and interests at stake, enabling opposing sides to resolve disputes and reach an agreement, or making decisions to resolve disputes.
         26.  Evaluate research
-            - Reflect on research activities and learn from successes and failures based on personal experience, feedback from
-others or monitoring and evaluation. Assess proposals, progress, impact and outcomes of peer researchers.
+            - Reflect on research activities and learn from successes and failures based on personal experience, feedback from others or monitoring and evaluation. Assess proposals, progress, impact and outcomes of peer researchers.
         27.  Promote open access publishing
-            - Develop a strategy to publish your research and identify the appropriate publication channel(s) to implement that strategy. Use open publication strategies when possible. Be familiar with the use of information technology to support research, and with the development and management of CRIS (current research information systems) and institutional repositories. Provide licensing and copyright advice, use bibliometric indicators, and measure and report
-research impact.
+            - Develop a strategy to publish your research and identify the appropriate publication channel(s) to implement that strategy. Use open publication strategies when possible. Be familiar with the use of information technology to support research, and with the development and management of CRIS (current research information systems) and institutional repositories. Provide licensing and copyright advice, use bibliometric indicators, and measure and report research impact.
     
     **Managing research tools**
 
         28.  Manage research data
-            - Produce and analyse research data originating from qualitative and quantitative research methods. Store and maintain the data in research databases. Support the re-use of research data and be familiar with data management principles, including FAIR (Findable, Accessible, Interoperable, and Reusable) principles. Make data as
-open as possible, and as closed as necessary
+            - Produce and analyse research data originating from qualitative and quantitative research methods. Store and maintain the data in research databases. Support the re-use of research data and be familiar with data management principles, including FAIR (Findable, Accessible, Interoperable, and Reusable) principles. Make data as open as possible, and as closed as necessary.
         29.  Promote citizen science
             - Engage citizens in scientific and research activities and promote their contribution in terms of knowledge, time or resources invested.
         30.  Manage intellectual property rights
@@ -298,22 +287,16 @@ open as possible, and as closed as necessary
     **Making an Impact**
 
         32.  Participate in publication process
-            - Submit, revise and publish academic research through the most appropriate dissemination means and participate in
-peer review processes, including open peer review.
+            - Submit, revise and publish academic research through the most appropriate dissemination means and participate in peer review processes, including open peer review.
         33.  Disseminate results to the research community
-            - Publicly disclose research results by any appropriate means, including training, conferences, workshops, colloquia and
-research publications.
+            - Publicly disclose research results by any appropriate means, including training, conferences, workshops, colloquia and research publications.
         34.  Teach in academic or vocational context
             - Instruct students in the theory and practice of academic or vocational subjects, transferring the content of own and others’ research activities.
         35.  Communicate to the broad public
-            - Communicate about scientific findings to a non-scientific audience, including the general public. Tailor the
-communication of scientific concepts, debates, findings to the audience, using a variety of methods to different
-target groups, including visual presentations and various forms of written, spoken and digital communication
+            - Communicate about scientific findings to a non-scientific audience, including the general public. Tailor the communication of scientific concepts, debates, findings to the audience, using a variety of methods to different target groups, including visual presentations and various forms of written, spoken and digital communication
         36.  Promote the transfer of knowledge
             - Deploy broad awareness and knowledge of processes of knowledge valorisation aimed to maximise the two–way flow of tools, content material, technology, intellectual property, expertise and capability between the research base and relevant stakeholders within the research field.
         37.  Increase the impact of science on policy and society
-            - Increase the impact and use of research findings in policy making, by providing input to and maintaining professional
-relationships with policymakers and other stakeholders.
+            - Increase the impact and use of research findings in policy making, by providing input to and maintaining professional relationships with policymakers and other stakeholders.
         38.  Promote open innovation
-            - Apply techniques, models, methods, and strategies that contribute to the promotion of steps towards innovation
-through collaboration with external people and organizations.
+            - Apply techniques, models, methods, and strategies that contribute to the promotion of steps towards innovation through collaboration with external people and organizations.
