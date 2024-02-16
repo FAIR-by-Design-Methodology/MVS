@@ -8,13 +8,30 @@ tags:
 
 # Minimum Viable Skills for **Civil Servant**
 
-### Mission
 Civil servants  are usually - but not always - in practice employed by 'Ministers' - so most civil servants work in government departments and are therefore employed by Government Ministers. Civil servant perform the Executive power in a State. The exact nature of civil service employment can vary depending on the country and the specific role, but generally, civil servants are responsible for carrying out a range of administrative, regulatory, or policy-related functions. Examples of civil service roles may include clerks, analysts, policy advisors, inspectors, and managers.One important aspect of civil service employment is that it is typically non-political, meaning that civil servants are expected to remain neutral and non-partisan in their work. This is important to ensure that government and public sector organizations operate fairly and effectively, without being influenced by political bias or favoritism.
+
+Organisational context:
+
+- Sector of government performing the executive power 
+- Non elected nor appointed professionals in public bodies
+- Public administration
+
+
+### Mission
+
+Civil Servant creates and supports open access to scientific knowledge, data, and research results and serves the public interest also through the appropriate re-use of data produced and shared by research actions.
+
 
 ### OS Activities 
 
-- creates and supports open access to scientific knowledge, data, and research results 
-- serves the public interest also through the appropriate re-use of data produced and shared by research actions
+- Clarify and shape OS strategy and priorities for the national and international interest 
+- Involve and engage the right stakeholders and partners in making recommendations or decisions on OS 
+- Shape strategies and plans which help put into practice OS (give a long-term direction)  
+- Develop the capabilities in OS of the staff
+- Engage in the open research process 
+- Ensure compliance with ethical, legal and regulatory criteria 
+- Communicate / actively promote OS 
+- Facilitate the engagement of different stakeholders in co-creation actions
 
 ### OS Outcomes
 The main objective is to support Open Science and foster the re-use of Open Science products in policy and decision making. 
@@ -42,7 +59,6 @@ Around 10 statements of 10-20 words, using sub-headings for technical skills and
 - Evaluating the impact of OS practices and make recommendations for  future improvement
 - Good understanding of data management, including data storing, analysis and sharing according to the FAIR and OS principles
  
-
 ### Soft/ transversal skills
 
 - Communication
@@ -54,7 +70,6 @@ Around 10 statements of 10-20 words, using sub-headings for technical skills and
 - Strategic and analytical skills
 - Teamwork
 - Adaptability to changes
-
 
 ## Related MVS
 Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
