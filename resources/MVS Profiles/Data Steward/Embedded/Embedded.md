@@ -12,7 +12,7 @@ Embedded Data Stewards are directly involved in research teams and offer support
 
 **Associated function titles**: 
 
-- Data Steward, 
+- [Data Steward](../data_steward.md), 
 - Data Manager, 
 - Data Curator, 
 - Research Data Manager

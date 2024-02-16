@@ -12,7 +12,7 @@ Coordinator Data Stewards act as a *centralised knowledge and communication hub*
 
 **Associated function titles**: 
 
-- Data Steward, 
+- [Data Steward](../data_steward.md), 
 - Data Librarian, 
 - Research Data Management Specialist, 
 - Research Data Manager, 
