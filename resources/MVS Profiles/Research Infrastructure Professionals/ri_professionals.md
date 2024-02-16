@@ -5,109 +5,97 @@ tags:
     - Minimum Viable Skillset
 ---
 
-# Learning Unit Template
+# Minimum Viable Skills for **Civil Servant**
 
-Introduction
+Civil servants  are usually - but not always - in practice employed by 'Ministers' - so most civil servants work in government departments and are therefore employed by Government Ministers. Civil servant perform the Executive power in a State. The exact nature of civil service employment can vary depending on the country and the specific role, but generally, civil servants are responsible for carrying out a range of administrative, regulatory, or policy-related functions. Examples of civil service roles may include clerks, analysts, policy advisors, inspectors, and managers.One important aspect of civil service employment is that it is typically non-political, meaning that civil servants are expected to remain neutral and non-partisan in their work. This is important to ensure that government and public sector organizations operate fairly and effectively, without being influenced by political bias or favoritism.
 
-## Learning Objectives
+*Organisational context*:
 
-- min one learning objective using the verbs from the Blooms taxonomy
-
-## Target Audience
-
-- who is this learning unit meant for
-
-## Duration
-
-- time needed to learn the provided content
-
-## Prerequisites
-
-- list any knowledge that is required so that the learning unit can be followed
-
-## Learning Tools
-
-- list any tools that are necessary to be used to complete the learning unit
-- examples include required software, access to resources, etc.
-
-## Learning Content Topic
-
-Here goes the content of the learning unit divided into a number of subtopics and any additional headings as necessary.
-
-Use blank rows to divide between paragraphs.
-
-References to external or internal content provided elsewhere should be linked with [hyperlinks](https://pages.github.com/).
-
-### Sub-subtitle
-
-Refer to a different learning unit using a relative link. For an example, see the [Syllabus](../../index.md) file.
-
-*Example italic text*
-
-**Example bold text**
-
-### Lists
-
-Example numbered bullets:
-
-1. numbered list one
-2. two
-3. three
-
-Example unnumbered list.
-
-- unnumbered list
-- item two
-- item three
-    - subitem
-    - use 4 spaces to create nested subitem
-
-You can also create mixed lists:
-
-- mixed list
-    1. now numbered subitem
-    2. subitem number two
-- back to mixed list level 1 bullet
-
-### Images
-
-To add an image, first place the image in the /attachments folder and then use a relative link similar to above using a ! in front. 
-All images should be located in the attachments folder that is on the same level with the content file. 
-
-![alternative text for accessibility an image of a macaw parrot](attachments/macaw-g8f80c4f64_640.jpg)
-
-Caption: Macaw Parrot
-Image by [Karina Copa](https://pixabay.com/users/kayuli-781524) from [Pixabay](https://pixabay.com)
+- Sector of government performing the executive power 
+- Non elected nor appointed professionals in public bodies
+- Public administration
 
 
-Don't forget attribution if the image was not created by you. If you are reusing images or text clear attribution should be provided as in the example above. Same applies in case of reusing text or other type of content. Be careful to follow the attribution rules as provided by the image source (in the example above it is Pixabay).
+### Mission
 
-### Accessibility
-
-Using headings and subheadings, lists and alternative text for images is extremely important so as to ensure accessibility of the content for people with impairments. Also, take care to choose the appropriate color pallette for images.
-
-### Tables
-
-Tables are a bit tricky in md, the easiest way to create them is to use a tool that will generate the md code that you can then just copy paste in your content file.
-One such tool that can be used is the [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) available online. The provided example table has been generated using this tool. 
-
-| **Column 1 title** | **Column 2 title**  |
-|--------------------|---------------------|
-| content 1          |      content 4      |
-| content 2          |      content 5      |
-| content 3          | content 6 content 7 |
-
-### Related Learning Materials
-
-Refer to exercises, quizzes, games or other types of learning materials where ever they should be included in the unit and provide links to this content.
+Civil Servant creates and supports open access to scientific knowledge, data, and research results and serves the public interest also through the appropriate re-use of data produced and shared by research actions.
 
 
-## Summary
+### OS Activities 
 
-At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
+- Clarify and shape OS strategy and priorities for the national and international interest 
+- Involve and engage the right stakeholders and partners in making recommendations or decisions on OS 
+- Shape strategies and plans which help put into practice OS (give a long-term direction)  
+- Develop the capabilities in OS of the staff
+- Engage in the open research process 
+- Ensure compliance with ethical, legal and regulatory criteria 
+- Communicate / actively promote OS 
+- Facilitate the engagement of different stakeholders in co-creation actions
 
-## Suggested Reading
+### OS Outcomes
+The main objective is to support Open Science and foster the re-use of Open Science products in policy and decision making. 
+This is mainly achieved through the following:
 
-- provide a list of references for further reading that should help clarify the content of the learning unit and elevate the knowledge level
-- [Markdown guide](https://www.markdownguide.org/), free and open-source reference guide that explains how to use Markdown.
+- working towards making research more transparent, accessible, and reproducible, as well as fostering collaboration and knowledge sharing within the scientific community and beyond
+- making scientific knowledge and research results openly available, to ensure that taxpayers' money is being used effectively and efficiently, and that the benefits of research are being shared widely
+- working to implement policies that support open access to research publications and data, encouraging researchers to make their work openly available 
+- facilitating collaboration and knowledge-sharing between researchers, government agencies, and the public
+- promoting open science practices through training and education, and engaging with stakeholders to understand their needs and priorities
+- ensuring the appropriate re-use of data produced and shared by research actions in decision making context
 
+
+## Essential Skills and Competences
+
+### Technical skills and competences
+
+- Good understanding of OS principles and practices, open data, open research and open access
+- Developing policies and guidelines that promote OS
+- Solid understanding of OS research ethics
+- Being familiar with technology and tools used to support OS practices
+- Managing projects related to OS
+- Providing training and education to researchers, policymakers, and public citizens about OS practices 
+- Evaluating the impact of OS practices and make recommendations for  future improvement
+- Good understanding of data management, including data storing, analysis and sharing according to the FAIR and OS principles
+ 
+### Soft/ transversal skills
+
+- Communication
+- Collaboration
+- Leadership
+- Citizen Engagement skills
+- Negotiation and diplomacy
+- Innovative thinking
+- Strategic and analytical skills
+- Teamwork
+- Adaptability to changes
+
+## Related MVS
+Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
+
+## Reference sources
+
++ [What is a Civil Servant?](https://www.civilservant.org.uk/information-definitions.html) (website)
+
++ [Digital, Data and Technology Profession Capability Framework](https://www.gov.uk/government/publications/civil-service-competency-framework) (website, last update 2018)
+
++ Benoit Guerin, Alex Thomas, Rhys Clyne, Suhasini Vira. (2020). [Finding the right skills for the civil service](https://www.instituteforgovernment.org.uk/sites/default/files/publications/civil-service-skills.pdf)
+
++ Salome Scholtens, Petronella Anbeek, Jasmin Böhmer, Mirjam Brullemans-Spansier, Marije van der Geest, Mijke Jetten, Christine Staiger, Inge Slouwerhof, & Celia W G van Gelder. (2019). [Life sciences data steward function matrix (V1.1)](https://doi.org/10.5281/zenodo.2561723). Zenodo. 
+
++ Angus Whyte, Jerry de Vries, Rahul Thorat, Eileen Kuehn, Gergely Sipos, Valentino Cavalli, Vasso Kalaitzi, Kevin Ashley (2028). [EOSCpilot FAIR4S (Skills and Capability Framework)](https://eoscpilot.eu/sites/default/files/eoscpilot-d7.3.pdf)
+
++ C. Sharff et al. (2020). [Skills Expander: Upskill civil servants now to serve citizens better in a digital age](https://www.pwc.lu/en/upskilling/docs/pwc-skills-expander-civil-servants.pdf)
+
++ OECD (2017), [Skills for a High Performing Civil Service](https://doi.org/10.1787/9789264280724-en), OECD Public Governance Reviews, OECD Publishing, Paris
+         
++ Working Group Report on AI Capacity Building. 2022. [Artificial Intelligence and Digital Transformation Competencies for Civil Servants](https://www.broadbandcommission.org/wp-content/uploads/2022/09/Artificial-Intelligence-and-Digital-Transformation-Competencies-for-Civil-Servants.pdf)
+
++ Zsóka Magyar. 2022. [What knowledge is essential for the future civil servants?](http://real.mtak.hu/147567/1/2732-2688-article-p79.pdf)
+
++ UK Government Office for Science. 2013. [The future of the Civil Service: Making the most of scientists and engineers in government](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/283200/13-594-review-science-engineering-in-civil-service.pdf)
+
++ Kragh, Gitte, & Nielsen, Kristian H. (2022). [TIME4CS WP4 Mapping of citizen science training resources](https://doi.org/10.5281/zenodo.6840274) (Version v1) [Data set]. Zenodo. 
+
++ Yahong Zhang, Robert Lee & Kaifeng Yang (2012) [Knowledge and Skills for Policy Making: Stories from Local Public Managers in Florida](https://doi.org/10.1080/15236803.2012.12001677), Journal of Public Affairs Education, 18:1, 183-208, DOI: 10.1080/15236803.2012.12001677
+
++ HM Government. 2018. [Success profiles - civil service behaviours](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/717275/CS_Behaviours_2018.pdf)
