@@ -6,7 +6,7 @@ tags:
     - Early Career Researcher
 ---
 
-# Minimum Viable Skills for **Role name**
+# Minimum Viable Skills for **Early Career Researcher**
 
 A key principle of Open Science (OS) is that research is conducted openly and transparently leading to better science. Subsequently, researchers at every career stage have a key role in the promotion of Open Science and its practice. Early career researchers for the purposes of this Minimum Viable Skillset (MVS) include PhD students, postdoctoral researchers, and other researchers within 5 to 8 years of completion of their doctorate degree. The MVS addresses the competencies and skills needed by researchers in the early stages of their research career as is related to Open OS.
 
