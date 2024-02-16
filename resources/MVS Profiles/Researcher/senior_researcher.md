@@ -38,7 +38,6 @@ The main objective of the Senior Researcher is to conduct and oversee high quali
 - Integrating Open Science knowledge into their own teaching and research practices
 
 ## Essential Skills and Competences
-Around 10 statements of 10-20 words, using sub-headings for technical skills and competences, and soft/ transversal skills. Statements should be each have up to 5 Open Science Skills terms selected from the list available, to summarise the learning outcomes needed for a learner to become competent in the role.
 
 ### Technical skills and competences
 
