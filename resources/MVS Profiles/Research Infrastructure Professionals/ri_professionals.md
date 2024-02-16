@@ -1,101 +1,118 @@
 ---
-title: "Research Infrastructure Professionals"
+title: "Research Infrastructure Professionals MVS"
 author: "Skills4EOSC T2.1"
 tags: 
     - Minimum Viable Skillset
+    - Research Infrastructure Professionals
 ---
 
-# Minimum Viable Skills for **Civil Servant**
+# Minimum Viable Skills for **Research Infrastructure Professionals**
 
-Civil servants  are usually - but not always - in practice employed by 'Ministers' - so most civil servants work in government departments and are therefore employed by Government Ministers. Civil servant perform the Executive power in a State. The exact nature of civil service employment can vary depending on the country and the specific role, but generally, civil servants are responsible for carrying out a range of administrative, regulatory, or policy-related functions. Examples of civil service roles may include clerks, analysts, policy advisors, inspectors, and managers.One important aspect of civil service employment is that it is typically non-political, meaning that civil servants are expected to remain neutral and non-partisan in their work. This is important to ensure that government and public sector organizations operate fairly and effectively, without being influenced by political bias or favoritism.
+Research Infrastructure (RI) professionals contribute to open science development by being “operators who have experience and insights into scientific or technical issues whilst also being a professional manager”. RI professionals also play a specific role in coordinating and engaging the scientific community. 
 
-*Organisational context*:
+**Associated functions titles**: 
 
-- Sector of government performing the executive power 
-- Non elected nor appointed professionals in public bodies
-- Public administration
-
+- Infrastructure manager, 
+- Project manager, 
+- Service manager, 
+- Chief Technology Officer, 
+- Data manager, 
+- Data steward, 
+- Researcher
 
 ### Mission
 
-Civil Servant creates and supports open access to scientific knowledge, data, and research results and serves the public interest also through the appropriate re-use of data produced and shared by research actions.
+The OS missions of RI professionals therefore entail: spreading a Responsible Research and Innovation (RRI) and OS culture; managing the RI; providing, handling and maintaining services, resources, and tools; harmonizing and improving a common EU OS space; supporting and monitoring FAIRification; providing training, sharing best practices, and building a research community.
 
 
 ### OS Activities 
 
-- Clarify and shape OS strategy and priorities for the national and international interest 
-- Involve and engage the right stakeholders and partners in making recommendations or decisions on OS 
-- Shape strategies and plans which help put into practice OS (give a long-term direction)  
-- Develop the capabilities in OS of the staff
-- Engage in the open research process 
-- Ensure compliance with ethical, legal and regulatory criteria 
-- Communicate / actively promote OS 
-- Facilitate the engagement of different stakeholders in co-creation actions
+**Service**
+- Provide knowledge-related facilities and resources such as collections, archives or scientific data infrastructures; computing systems, communication networks, and any other infrastructure
+- Provide technological alignment, standards implementation
+- Provide guidance about FAIR principles and FAIR implementation 
+- Ensure technical policy consistency throughout projects and activities of the RI
+
+**Support**
+
+- Coordinate and engage the research community’s relevant stakeholders with a special attention to young generation
+- Set up and offer foundational and specialized digital skills training for scientific community, data professionals, ELSI experts, Data Protection Officers; 
+- Facilitate in-person and online training and development of communities of practice
+- Support the application of RRI principles through the consideration of impact’s anticipation, inclusiveness and transparency dimensions of research
+- Instruct researchers on open licensing and open software according the legislation on the reuse of public funded research data
+
+**Coordination**
+
+- Foster new partnerships and innovative services through internal and external collaboration 
+- Share knowledge to address socio-economic challenges, and take care of users’ needs.
+- Position the RI in the local, national and international environment; identify regional research priorities and set consistent strategies
+- Identify and negotiate with potential funders; identify new funding tools (private-public partnerships, special projects, commercial funding, fee for service, consultancy)
 
 ### OS Outcomes
-The main objective is to support Open Science and foster the re-use of Open Science products in policy and decision making. 
-This is mainly achieved through the following:
 
-- working towards making research more transparent, accessible, and reproducible, as well as fostering collaboration and knowledge sharing within the scientific community and beyond
-- making scientific knowledge and research results openly available, to ensure that taxpayers' money is being used effectively and efficiently, and that the benefits of research are being shared widely
-- working to implement policies that support open access to research publications and data, encouraging researchers to make their work openly available 
-- facilitating collaboration and knowledge-sharing between researchers, government agencies, and the public
-- promoting open science practices through training and education, and engaging with stakeholders to understand their needs and priorities
-- ensuring the appropriate re-use of data produced and shared by research actions in decision making context
+The European Commission describes the main objectives of RIs and these represent OS outcomes provided by the RI professionals:
+
+- Generalize OS practices and reduce fragmentation of the research ecosystem
+- Avoid duplication of effort
+- Facilitate and support research outputs sharing
+- Produce open, usable and accessible research data and publications
+- Boost innovation and research projects
+- Facilitate cross-disciplinarity and cooperation with industry
 
 
 ## Essential Skills and Competences
 
 ### Technical skills and competences
 
-- Good understanding of OS principles and practices, open data, open research and open access
-- Developing policies and guidelines that promote OS
-- Solid understanding of OS research ethics
-- Being familiar with technology and tools used to support OS practices
-- Managing projects related to OS
-- Providing training and education to researchers, policymakers, and public citizens about OS practices 
-- Evaluating the impact of OS practices and make recommendations for  future improvement
-- Good understanding of data management, including data storing, analysis and sharing according to the FAIR and OS principles
+- Expertise and competence in RRI, OS and research governance, as well as diverse EU research policies and systems
+- Technical knowledge and skills needed for service development and provision, including data use agreements, information security and risk management
+- Expertise in innovation and business development 
+- Staff management and project management skills
+- Ability to empower people to implement OS by establishing transparent, accountable and sustainable processes
+- Ability to plan and implement FAIR and open science principles and meet the requirements for reproducible research.
+- Ability to identify and meet scientific communities’ needs
+- Expertise in developing guidelines in multidisciplinary areas
+- Fostering a common vision among various stakeholders
+- Ability to understand ethical and legal implications of research: Intellectual property rights and non-personal data Management, Knowledge of the Ethical principles, frameworks and codes of conduct, Legal issues related to personal data governance, Responsible use of data-driven technologies 
+- Ability to create, plan, coordinate public events, public in-formation pathways 
  
 ### Soft/ transversal skills
 
-- Communication
-- Collaboration
-- Leadership
-- Citizen Engagement skills
-- Negotiation and diplomacy
-- Innovative thinking
-- Strategic and analytical skills
-- Teamwork
-- Adaptability to changes
+- Networking in inclusive/pluralist/participatory environments
+- Community engagement expertise
+- Team building and teamwork 
+- Leadership and coordination 
+- Sharing knowledge and processes
+- Pedagogical skills 
+- Analytical and research skills
+- Flexibility and adaptability
+- Proactiveness and responsiveness
 
 ## Related MVS
 Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-+ [What is a Civil Servant?](https://www.civilservant.org.uk/information-definitions.html) (website)
++ Coordination, N. O. S. and R., Nykyri, S., Päällysaho, S., Rosti, T., Sunikka, A., Neuvonen, A., & Kuusniemi, M. E. (2021). [Open research data and methods National policy and executive plan by the higher education and research community for 2021–2025](https://edition.fi/tsv/catalog/view/64/166/575-1). Tieteellisten Seurain Valtuuskunta. 
 
-+ [Digital, Data and Technology Profession Capability Framework](https://www.gov.uk/government/publications/civil-service-competency-framework) (website, last update 2018)
++ Demchenko, Y., Stoy, L., Engelhardt, C., & Gaillard, V. (2021). [D7.3 FAIR Competence Framework for Higher Education (Data Stewardship Professional Competence Framework)](https://doi.org/10.5281/zenodo.5361917). Zenodo. https://doi.org/10.5281/zenodo.5361917
 
-+ Benoit Guerin, Alex Thomas, Rhys Clyne, Suhasini Vira. (2020). [Finding the right skills for the civil service](https://www.instituteforgovernment.org.uk/sites/default/files/publications/civil-service-skills.pdf)
++ EOSC Executive Board; Skills and Training Working Group & European Commission. Directorate General for Research and Innovation. (2021). [Digital skills for FAIR and Open Science: Report from the EOSC Executive Board Skills and Training Working Group](https://data.europa.eu/doi/10.2777/59065). (p. 71) `[Expert]`. Publications Office. https://data.europa.eu/doi/10.2777/59065
 
-+ Salome Scholtens, Petronella Anbeek, Jasmin Böhmer, Mirjam Brullemans-Spansier, Marije van der Geest, Mijke Jetten, Christine Staiger, Inge Slouwerhof, & Celia W G van Gelder. (2019). [Life sciences data steward function matrix (V1.1)](https://doi.org/10.5281/zenodo.2561723). Zenodo. 
++ ESFRI Innovation Working Group. (2018). [Innovation-oriented cooperation of Research Infrastructures](https://research-and-innovation.ec.europa.eu/system/files/2018-07/esfri_scripta_vol3_2018.pdf). 
 
-+ Angus Whyte, Jerry de Vries, Rahul Thorat, Eileen Kuehn, Gergely Sipos, Valentino Cavalli, Vasso Kalaitzi, Kevin Ashley (2028). [EOSCpilot FAIR4S (Skills and Capability Framework)](https://eoscpilot.eu/sites/default/files/eoscpilot-d7.3.pdf)
++ European Commission. (2018, July 10). [European Research Infrastructures](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures_en). 
 
-+ C. Sharff et al. (2020). [Skills Expander: Upskill civil servants now to serve citizens better in a digital age](https://www.pwc.lu/en/upskilling/docs/pwc-skills-expander-civil-servants.pdf)
++ Group, E. G. I. (2020). [EOSC Glossary](https://doi.org/10.5281/zenodo.4472643). Zenodo. https://doi.org/10.5281/zenodo.4472643
 
-+ OECD (2017), [Skills for a High Performing Civil Service](https://doi.org/10.1787/9789264280724-en), OECD Public Governance Reviews, OECD Publishing, Paris
-         
-+ Working Group Report on AI Capacity Building. 2022. [Artificial Intelligence and Digital Transformation Competencies for Civil Servants](https://www.broadbandcommission.org/wp-content/uploads/2022/09/Artificial-Intelligence-and-Digital-Transformation-Competencies-for-Civil-Servants.pdf)
++ OECD. (2016). [Skills for a Digital World: 2016 Ministerial Meeting on the Digital Economy Background Report](https://doi.org/10.1787/5jlwz83z3wnw-en). OECD Digital Economy Papers, Vol. 250, p. 56. https://doi.org/10.1787/5jlwz83z3wnw-en
 
-+ Zsóka Magyar. 2022. [What knowledge is essential for the future civil servants?](http://real.mtak.hu/147567/1/2732-2688-article-p79.pdf)
++ Prandner, Dimitri, & Sinner, Philip. (2022). [Identifying and Updating Training Needs in European Research Infrastructures and Core Facilities](https://doi.org/10.5281/ZENODO.7542429). https://doi.org/10.5281/ZENODO.7542429
 
-+ UK Government Office for Science. 2013. [The future of the Civil Service: Making the most of scientists and engineers in government](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/283200/13-594-review-science-engineering-in-civil-service.pdf)
++ RItrain. (n.d.). [The RItrain organisational competency profile](http://ritrain.eu/competency-profile). [http://Ritrain.Eu/Home](http://Ritrain.Eu/Home). Retrieved April 18, 2023.
 
-+ Kragh, Gitte, & Nielsen, Kristian H. (2022). [TIME4CS WP4 Mapping of citizen science training resources](https://doi.org/10.5281/zenodo.6840274) (Version v1) [Data set]. Zenodo. 
++ Università Milano Bicocca. (n.d.). [Executive Masters in Management of Research Infrastructures](https://emmri.unimib.it/programme-content/). [https://Emmri.Unimib.It/](https://Emmri.Unimib.It/). Retrieved April 18, 2023.
 
-+ Yahong Zhang, Robert Lee & Kaifeng Yang (2012) [Knowledge and Skills for Policy Making: Stories from Local Public Managers in Florida](https://doi.org/10.1080/15236803.2012.12001677), Journal of Public Affairs Education, 18:1, 183-208, DOI: 10.1080/15236803.2012.12001677
++ Verhulst, S. G. (2023). [Wanted: Data Stewards—Drafting the Job Specs for A Re-imagined Data Stewardship Role](https://medium.com/data-stewards-network/wanted-data-stewards-drafting-the-job-specs-for-a-re-imagined-data-stewardship-role-f7cd28a83379).
 
-+ HM Government. 2018. [Success profiles - civil service behaviours](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/717275/CS_Behaviours_2018.pdf)
++ Wildgaard, L., Vlachos, E., Nondal, L., Larsen, A. V., & Svendsen, M. (2020). [National Coordination of Data Steward Education in Denmark: Final report to the National Forum for Research Data Management (DM Forum)](https://doi.org/10.5281/ZENODO.3609515) (Version 1). Zenodo. https://doi.org/10.5281/ZENODO.3609515
