@@ -17,3 +17,4 @@
 *[RPO]: Research Performing Organisation
 *[RSE]: Research Software Engineer
 *[T4fs]: Terms for FAIR skills
+*[multi word definition]: this is a multi word definition
