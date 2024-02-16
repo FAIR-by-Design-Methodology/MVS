@@ -51,8 +51,6 @@ The MVS Catalogue is currently a document collection in the Zenodo repository, m
 - Contains a reference list of relevant sources used,
 - Has been been reviewed by a user group e.g. trainers or curriculum developers, and considered suitable for the intended use case(s).
 
-> This Git book is based on the instructions provided in [@filiposka_2023_10063110].
-
 ## List of OS Skills Terms
 
 === "t4FS"
