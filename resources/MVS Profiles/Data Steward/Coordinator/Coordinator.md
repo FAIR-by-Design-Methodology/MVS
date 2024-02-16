@@ -31,8 +31,8 @@ Coordinator Data Stewards act as a *centralised knowledge and communication hub*
 Data Stewards put Open Science principles into practice.They work with stakeholders to establish, govern and maintain processes to collect research data, make it usable for research objectives, facilitate its transformation into research output, assist in quality assurance, and support informed decision-making on its openness for reuse according to ethical, legal and social expectations.
 
 ### OS Activities 
--
- Contributes to Open Science policy development by engaging with (inter)national policy-making, bringing the cross-disciplinary expertise needed for local policy development, implementation and monitoring.
+
+- Contributes to Open Science policy development by engaging with (inter)national policy-making, bringing the cross-disciplinary expertise needed for local policy development, implementation and monitoring.
 - Understands research stakeholder needs and contributes to developing, implementing and monitoring institutional RDM policy and Data Governance, along with tools and services to support these. Promotes and communicates the importance of Open Science and FAIR to all levels within the organization (e.g. policy makers, senior management, researchers, postgraduates etc.)
 - Analyses trends in data management infrastructure, tools, and methods that potentially improve the organisation’s implementation of FAIR and CARE principles to enhance support  for decision-making on Open Science. Advises on (meta)data standards and contextual documentation for data archiving.
 - Monitors RDM skills of researchers and research support staff in the institute and refers researchers to RDM related facilities and services.
