@@ -203,7 +203,8 @@ research community the MVS is applicable to,
 === "ResearchComp"
     [ResearchComp](https://research-and-innovation.ec.europa.eu/system/files/2023-04/ec_rtd_research-competence-presentation.pdf)
 
-    Cognitive abilities
+    **Cognitive abilities**
+
         1.  Abstract thinking
         2.  Critical thinking
         3.  Analytical thinking
@@ -211,36 +212,48 @@ research community the MVS is applicable to,
         5.  Systemic thinking
         6.  Problem solving
         7.  Creativity
-    Self management
+    
+    **Self management**
+
         8.  Manage personal professional development
         9.  Show entrepreneurial spirit
         10.  Plan self-organisation
         11.  Cope with pressure
-    Working with others
+    
+    **Working with others**
+
         12.  Interact professionally
         13.  Develop networks
         14.  Work in teams
         15.  Ensure wellbeing at work
         16.  Build mentor-mentee relationships
         17.  Promote inclusion & diversity
-    Doing research
+    
+    **Doing research**
+
         18.  Disciplinary expertise
         19.  Perform scientific research
         20.  Conduct interdisciplinary research
         21.  Write research documents
         22.  Apply research ethics and integrity principles
-    Managing research
+    
+    **Managing research**
+
         23.  Mobilise resources
         24.  Manage projects
         25.  Negotiate
         26.  Evaluate research
         27.  Promote open access publishing
-    Managing research tools
+    
+    **Managing research tools**
+
         28.  Manage research data
         29.  Promote citizen science
         30.  Manage intellectual property rights
         31.  Operate open source software
-    Making an Impact
+    
+    **Making an Impact**
+
         32.  Participate in publication process
         33.  Disseminate results to the research community
         34.  Teach in academic or vocational context
