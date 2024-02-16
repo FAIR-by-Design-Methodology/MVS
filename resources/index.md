@@ -2,75 +2,84 @@
 # RDA learning materials metadata minimal set
 title: "Introduction"
 author: 
-    - Name of entity(ies) 
-    - authoring the resource
+    - Angus Whyte
+    - Dominique Green
+    - Karla Avanço
+    - Sara Di Giorgio
+    - Arnaud Gingold
+    - Laurence Horton
+    - Bojana Koteska
+    - Katerina Kyprianou
+    - Ognjen Prnjat
+    - Päivi Rauste
+    - Luca Schirru
+    - Claire Sowinski
+    - Gabriela Torres Ramos
+    - Nida van Leersum
 tags: 
-    - Keywords
-    - Tags 
-    - Resource Description
+    - MVS Catalogue
+    - OS Career Profile 
+    - MVS Design Process
 
-abstract: "A brief synopsis about or description of the learning resource."
-primaryLanguage: "two letter code, Language in which the resource was originally published or made available."
-license: "A license document that applies to this content, typically indicated by URL"
-versionDate: "YYYY-MM-DD Version date for the most recently published or broadcast resource."
+abstract: "The catalogue of Minimum Viable Skillset (MVS) Profiles describes key skills and competences for roles that enable researchers, professionals, and stakeholders to practice Open Science (OS) with the support of the European Open Science Cloud (EOSC). MVS Profiles draw on available skills resources, including competence frameworks, and are proposed as an aid to developing skills through curricula and course design. Each MVS Profile relates the essential skills to the Open Science (OS) practices, activities, and outcomes that may typically be expected of the role concerned."
+primaryLanguage: "EN"
+license: "http://creativecommons.org/licenses/by/4.0/"
+versionDate: "2024-02-16"
 urlToResource: "https://doi.org/10.5072/zenodo.1234567"
 resourceURLType: "URL"
-targetGroup: "Principle users(s) for which the resource was designed."
-learningResourceType: "The predominant type or kind that characterizes the learning resource."
+targetGroup: "learning materials developers"
+learningResourceType: "catalogue"
 learningOutcome: 
-    - Descriptions of what knowledge, 
-    - skills or 
-    - abilities 
-    - students should acquire on completion of the resource.
-accessCost: "Choice stating whether or not there is a fee for use of the resource (CV = Y/N/Maybe with recommendation that further explanation of “Maybe” goes in the Description field"
-expertiseLevel: "Target skill level in the topic being taught; example values include: beginner, intermediate, advanced"
+    - describe key skills and competences for roles that enable researchers, professionals, and stakeholders to practice Open Science
+accessCost: "N"
+expertiseLevel: "beginner"
 hide:
   - navigation
 ---
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# Minimum Viable Skills
+# Minimum Viable Skillsets
 
-# Catalogue
+# Catalogue of Open Science Career Profiles
 
 ## Description
 
-- what is the main goal/purpose
-- short description
+The catalogue of Minimum Viable Skillset (MVS) Profiles describes key skills and competences for roles that enable researchers, professionals, and stakeholders to practice Open Science (OS) with the support of the European Open Science Cloud (EOSC). MVS Profiles draw on available skills resources, including competence frameworks, and are proposed as an aid to developing skills through curricula and course design. Each MVS Profile relates the essential skills to the Open Science (OS) practices, activities, and outcomes that may typically be expected of the role concerned.
 
-## Target audience: target audience description
+## Objectives
 
-## Expertise Level / Skill Level: Beginner / Intermediate / Advanced
+- describe key skills and competences for roles that enable researchers, professionals, and stakeholders to practice Open Science
+
+## Target audience: Learning materials developers
+
+## Expertise Level / Skill Level: Beginner
 
 ## Primary Language: English
 
 ## Access Cost: N
 
-## Prerequisites
-
-- if any
+## Prerequisites: None
 
 ## Keywords
 
-Keywords or tags used to describe.
+- MVS Catalogue
+- OS Career Profile 
+- MVS Design Process
 
 ## Resources and Materials
 
-- location of available resources
+- GitBook: [https://fair-by-design-methodology.github.io/MVS/latest/](https://fair-by-design-methodology.github.io/MVS/latest/)
+- GitHub repo: [https://github.com/FAIR-by-Design-Methodology/MVS](https://github.com/FAIR-by-Design-Methodology/MVS)
 
-## Certification Information
-
-- if any
 
 ## Author(s)
 
-- List of people involved in preparing the training
-- format: Name Surname, comma separated
+Angus Whyte, Dominique Green, Karla Avanço, Sara Di Giorgio, Arnaud Gingold, Laurence Horton, Bojana Koteska, Katerina Kyprianou, Ognjen Prnjat, Päivi Rauste, Luca Schirru, Claire Sowinski, Gabriela Torres Ramos, Nida van Leersum
 
 ## Contact information
 
-- how to reach out to training organizers
+[A.Whyte@ed.ac.uk](mailto:A.Whyte@ed.ac.uk)
 
 ## License
 
