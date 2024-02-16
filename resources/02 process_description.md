@@ -59,92 +59,93 @@ research community the MVS is applicable to,
 === "t4FS"
     t4FS: 84 (of 223 in total) 'data stewardship activity' terms, selected for relevance and appropriate level of granularity, mainly from 2nd level of t4FS hierarchy; sorted alphabetically here; italicised terms have been reworded for clarity.
 
-    - Access control & authorisation management
-    - Assessment on FAIR data criteria
-    - Audit and evaluation
-    - Change management
-    - Cloud environment management
-    - Community building
-    - Creativity
-    - Crediting research contributors
-    - Data access risk assessment and mitigation
-    - Data acquisition
-    - Data analysis 
-    - Data anonymisation and de-identification
-    - Data archiving
-    - Data categorisation
-    - Data citation
-    - Data costs management 
-    - Data curation
-    - Data destruction
-    - Data discovery 
-    - Data driven decision management
-    - Data exploration
-    - Data governance
-    - Data harmonization
-    - Data ingestion
-    - Data integration
-    - Data mining
-    - Data modeling
-    - Data policy
-    - Data processing
-    - Data production
-    - Data profiling
-    - Data quality assessment
-    - Data quality assessment & review
-    - Data recovery
-    - Data registration
-    - Data repository management
-    - Data rescue
-    - Data scaling
-    - Data selection
-    - Data sharing and publication
-    - Data stewardship coordination
-    - Data transformation
-    - Data validation and cleaning
-    - Data wrangling
-    - Depositing in repository
-    - Digital archiving
-    - Digital format and media migration
-    - Digital scholarship
-    - Digitisation
-    - knowledge to contextualise fair principles to domain
-    - Ethical application of patents, licenses
-    - Evaluating repositories for data deposit/sharing
-    - Identity management
-    - Information governance
-    - Information security
-    - Interface testing
-    - Meeting/conference organisation
-    - Mentoring on open and fair methods
-    - Metadata catalog management
-    - Metadata creation
-    - Metadata exposure
-    - Open access publishing
-    - Open innovation
-    - Open peer review
-    - Persistent identifiers management
-    - Preservation 
-    - Preservation costs management
-    - Privacy governance
-    - Programme governance
-    - Project management
-    - Provenance information management
-    - Research governance
-    - Research integrity process design
-    - Research integrity, attribution, impact awareness
-    - Research management
-    - Resource management 
-    - Securing networks for data integrity
-    - Securing sustainable funding
-    - Selecting appropriate data handling methods
-    - Service level management
-    - Software preservation
-    - Stakeholder engagement on societal impact
-    - Storage management
-    - Strategic/long-term planning
-    - Training in open and fair methods
-    - User acceptance testing
+    - [Access control & authorisation management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000142?lang=en)
+    - [Assessment on FAIR data criteria](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000252?lang=en)
+    - [Audit and evaluation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000225?lang=en)
+    - [Change management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000411?lang=en)
+    - [Cloud environment management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000479?lang=en)
+    - [Community building](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000249?lang=en)
+    - [Creativity](https://purl.obolibrary.org/obo/T4FS_0000165)
+    - [Crediting research contributors](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000183?lang=en)
+    - [Data access risk assessment and mitigation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000209?lang=en)
+    - [Data acquisition](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000231?lang=en)
+    - [Data analysis](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000352?lang=en)
+    - [Data anonymisation and de-identification](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000414?lang=en)
+    - [Data archiving](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000534?lang=en)
+    - [Data categorisation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000018?lang=en)
+    - [Data citation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000302?lang=en)
+    - [Data costs management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000232?lang=en)
+    - [Data curation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000132?lang=en)
+    - [Data destruction](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000161?lang=en)
+    - [Data discovery](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000076?lang=en)
+    - [Data driven decision management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000504?lang=en)
+    - [Data exploration](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000354?lang=en)
+    - [Data governance](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000458?lang=en)
+    - [Data harmonization](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000375?lang=en)
+    - [Data ingestion](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000290?lang=en)
+    - [Data integration](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000487?lang=en)
+    - [Data mining](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000533?lang=en)
+    - [Data modeling](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000065?lang=en)
+    - [Data policy](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000333)
+    - [Data processing](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000044?lang=en)
+    - [Data production](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000108?lang=en)
+    - [Data profiling](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000516?lang=en)
+    - [Data quality assessment](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000153?lang=en)
+    - [Data quality assessment & review](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000406?lang=en)
+    - [Data recovery](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000173?lang=en)
+    - [Data registration](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000019?lang=en)
+    - [Data repository management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000544?lang=en)
+    - [Data rescue](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000046?lang=en)
+    - [Data scaling](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000522?lang=en)
+    - [Data selection](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000074?lang=en)
+    - [Data sharing and publication](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000247?lang=en)
+    - [Data stewardship coordination](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000029?lang=en)
+    - [Data transformation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000069?lang=en)
+    - [Data validation and cleaning](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000238?lang=en)
+    - [Data wrangling](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000291?lang=en)
+    - [Depositing in repository](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000298?lang=en)
+    - [Digital archiving](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000537?lang=en)
+    - [Digital format and media migration](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000214?lang=en)
+    - [Digital scholarship](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000087?lang=en)
+    - [Digitisation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000245?lang=en)
+    - [knowledge to contextualise fair principles to domain](https://purl.obolibrary.org/obo/T4FS_0000296)
+    - [Ethical application of patents, licenses](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000042?lang=en)
+    - [Evaluating repositories for data deposit/sharing](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000175?lang=en)
+    - [Identity management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000169?lang=en)
+    - [Information governance](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000331?lang=en)
+    - [Information security](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000107?lang=en)
+    - [Interface testing](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000112?lang=en)
+    - [Meeting/conference organisation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000465?lang=en)
+    - [Mentoring on open and fair methods](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000457?lang=en)
+    - [Metadata catalog management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000068?lang=en)
+    - [Metadata creation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FTF4S_0000574?lang=en)
+    - [Metadata exposure](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000160?lang=en)
+    - [Open access publishing](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000193?lang=en)
+    - [Open innovation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000084?lang=en)
+    - [Open peer review](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000498?lang=en)
+    - [Persistent identifiers management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000492?lang=en)
+    - [Preservation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000017?lang=en)
+    - [Preservation costs management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000104?lang=en)
+    - [Privacy governance](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000524?lang=en)
+    - [Programme governance](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000203?lang=en)
+    - [Project management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000323?lang=en)
+    - [Provenance information management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000368?lang=en)
+    - [Research governance](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000186?lang=en)
+    - [Research integrity process design](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000216?lang=en)
+    - [Research integrity, attribution, impact awareness](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000525?lang=en)
+    - [Research management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000314?lang=en)
+    - [Resource management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000353?lang=en)
+    - [Securing networks for data integrity](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000086?lang=en)
+    - [Securing sustainable funding](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000426?lang=en)
+    - [Selecting appropriate data handling methods](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000367?lang=en)
+    - [Service level management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000466?lang=en)
+    - [Software preservation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000004?lang=en)
+    - [Stakeholder engagement on societal impact](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000439?lang=en)
+    - [Storage management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000053?lang=en)
+    - [Strategic/long-term planning](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000514?lang=en)
+    - [Training in open and fair methods](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000259?lang=en)
+    - [User acceptance testing](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000158?lang=en)
+
 
 === "CSCCE"
     CSCCE  Glossary: 45 terms listed according to 5 dimensions, selecting those included in 'skills wheel' for scientific community managers
