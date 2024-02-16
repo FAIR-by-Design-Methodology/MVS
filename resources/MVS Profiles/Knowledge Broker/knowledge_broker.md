@@ -109,14 +109,14 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 + Angus Whyte, Jerry de Vries, Rahul Thorat, Eileen Kuehn, Gergely Sipos, Valentino Cavalli, Vasso Kalaitzi, Kevin Ashley (2028). [EOSCpilot FAIR4S (Skills and Capability Framework)](https://eoscpilot.eu/sites/default/files/eoscpilot-d7.3.pdf). 
 
-Conklin, J., Lusk, E., Harris, M. et al. [Knowledge brokers in a knowledge network: the case of Seniors Health Research Transfer Network knowledge brokers](https://doi.org/10.1186/1748-5908-8-7). Implementation Sci 8, 7 (2013). https://doi.org/10.1186/1748-5908-8-7
++ Conklin, J., Lusk, E., Harris, M. et al. [Knowledge brokers in a knowledge network: the case of Seniors Health Research Transfer Network knowledge brokers](https://doi.org/10.1186/1748-5908-8-7). Implementation Sci 8, 7 (2013). https://doi.org/10.1186/1748-5908-8-7
 
-German Council for Scientific Information Infrastructures (RfII): [Digital competencies – urgently needed! – Recommendations on career and training prospects for the scientific labour market](http://rfii.de/download/digital-competencies-urgently-needed-october-2019/), Göttingen 2019, 56 p. 
++ German Council for Scientific Information Infrastructures (RfII): [Digital competencies – urgently needed! – Recommendations on career and training prospects for the scientific labour market](http://rfii.de/download/digital-competencies-urgently-needed-october-2019/), Göttingen 2019, 56 p. 
 
-Peng et al. (2016). [Scientific Stewardship in the Open Data and Big Data Era — Roles and Responsibilities of Stewards and Other Major Product Stakeholders](https://doi.org/10.1045/may2016-peng). https://doi.org/10.1045/may2016-peng
++ Peng et al. (2016). [Scientific Stewardship in the Open Data and Big Data Era — Roles and Responsibilities of Stewards and Other Major Product Stakeholders](https://doi.org/10.1045/may2016-peng). https://doi.org/10.1045/may2016-peng
 
-Topp, L., Mair, D., Smillie, L. et al. [Knowledge management for policy impact: the case of the European Commission’s Joint Research Centre](https://doi.org/10.1057/s41599-018-0143-3). Palgrave Commun 4, 87 (2018). https://doi.org/10.1057/s41599-018-0143-3
++ Topp, L., Mair, D., Smillie, L. et al. [Knowledge management for policy impact: the case of the European Commission’s Joint Research Centre](https://doi.org/10.1057/s41599-018-0143-3). Palgrave Commun 4, 87 (2018). https://doi.org/10.1057/s41599-018-0143-3
 
-Yahong Zhang, Robert Lee & Kaifeng Yang (2012). [Knowledge and Skills for Policy Making: Stories from Local Public Managers in Florida](https://doi.org/10.1080/15236803.2012.12001677), Journal of Public Affairs Education, 18:1, 183-208, https://doi.org/10.1080/15236803.2012.12001677
++ Yahong Zhang, Robert Lee & Kaifeng Yang (2012). [Knowledge and Skills for Policy Making: Stories from Local Public Managers in Florida](https://doi.org/10.1080/15236803.2012.12001677), Journal of Public Affairs Education, 18:1, 183-208, https://doi.org/10.1080/15236803.2012.12001677
 
-The Turing Way Community. (2021). [The Turing Way: A handbook for reproducible, ethical and collaborative research](https://doi.org/10.5281/zenodo.5671094) (1.0.1). Zenodo. https://doi.org/10.5281/zenodo.5671094
++ The Turing Way Community. (2021). [The Turing Way: A handbook for reproducible, ethical and collaborative research](https://doi.org/10.5281/zenodo.5671094) (1.0.1). Zenodo. https://doi.org/10.5281/zenodo.5671094
