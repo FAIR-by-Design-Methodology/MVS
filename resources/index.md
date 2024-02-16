@@ -30,14 +30,14 @@ hide:
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# Title
+# Minimum Viable Skills
 
-# Type (Course/Workshop/Webinar)
+# Catalogue
 
 ## Description
 
-- what is the main goal/purpose of this training
-- short training description
+- what is the main goal/purpose
+- short description
 
 ## Target audience: target audience description
 
@@ -53,11 +53,11 @@ hide:
 
 ## Keywords
 
-Keywords or tags used to describe the training.
+Keywords or tags used to describe.
 
 ## Resources and Materials
 
-- location of available resources for the training
+- location of available resources
 
 ## Certification Information
 
@@ -87,5 +87,7 @@ Skills4EOSC is dedicated to ensuring that all produced learning materials are ac
 ### Acknowledgement
 
 These learning materials have been developed by following the [FAIR-by-Design Methodology](https://doi.org/10.5281/zenodo.7875540).
+
+> This Git book is based on the instructions provided in [@filiposka_2023_10063110].
 
 ![Skills4EOSC logo](./attachments/skills4eosc.png)

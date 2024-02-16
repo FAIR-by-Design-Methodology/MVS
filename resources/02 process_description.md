@@ -41,14 +41,13 @@ Applying the taxonomy terms is a straightforward process involving the following
 5. Compile a table listing the terms selected for each dimension, copy these terms to the MVS Profile, and include links to the definitions given in the terminology sources (t4FS, or CSCCE Glossary).
 6. Review the selected terms against the MVS Profile ‘essential skills and competences’ statements to consider rewording them, e.g. if selected terms are only implicit and can be made explicit.
 
-F. Publish in MVS catalogue
+### Publish in MVS catalogue
 The MVS Catalogue is currently a document collection in the Zenodo repository, maintained by the Skills4EOSC project. We encourage interested groups to submit MVS for additional roles (or variations of those already published). Skills4EOSC will add to the collection following a lightweight editorial check that the text fulfils the following criteria.
 
 - Content accurately reflects one or more dimensions of the OS definition applied by the EC to its Horizon Europe programme
 - Written using clear language,
 - Coherently structured content for all elements of the MVS,
-- Sufficient context for the reader to identify the type of organisation or
-research community the MVS is applicable to,
+- Sufficient context for the reader to identify the type of organisation or research community the MVS is applicable to,
 - Contains a reference list of relevant sources used,
 - Has been been reviewed by a user group e.g. trainers or curriculum developers, and considered suitable for the intended use case(s).
 
