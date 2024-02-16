@@ -1,15 +1,15 @@
 ---
 title: "Skills4EOSC MVS Template v1.0"
 author: "Angus Whyte"
+date: "February 9th, 2024"
 tags: 
     - Minimum Viable Skillset Template
     - v1.0
     - by Angus Whyte
-    - from 9 February 2024
-    - available under  CC-BY 4.0
+    - last modified on Feb 9th, 2024
 ---
 
-# Minimum Viable Skills for [Role name]
+# Minimum Viable Skills for **Role name**
 
 This is the **title** of the MVS and includes a 2-5 word role name, that performs activities aiming for Open Science outcomes that are within the overall mission described in the Horizon Europe Guidelines or the UNESCO Recommendation for Open Science, or similar national or regional-level policy.
 
@@ -22,7 +22,7 @@ This is the **title** of the MVS and includes a 2-5 word role name, that perform
 - Each describes an activity involved in delivering the overall mission for the role. The description should implicitly or explicitly relate to the competences a learner 
 would need to have to perform the activity, i.e. it should be consistent with the skills listed below.
 
-### OS Outcomes: 
+### OS Outcomes
 1-6 outcomes each described in around 10-20 words:
 
 - Describes what the role contributes to, e.g. the kind of OS capability, output or objective met by carrying out the OS activities.
