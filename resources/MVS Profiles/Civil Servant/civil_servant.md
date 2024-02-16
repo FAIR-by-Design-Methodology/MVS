@@ -10,7 +10,7 @@ tags:
 
 Civil servants  are usually - but not always - in practice employed by 'Ministers' - so most civil servants work in government departments and are therefore employed by Government Ministers. Civil servant perform the Executive power in a State. The exact nature of civil service employment can vary depending on the country and the specific role, but generally, civil servants are responsible for carrying out a range of administrative, regulatory, or policy-related functions. Examples of civil service roles may include clerks, analysts, policy advisors, inspectors, and managers.One important aspect of civil service employment is that it is typically non-political, meaning that civil servants are expected to remain neutral and non-partisan in their work. This is important to ensure that government and public sector organizations operate fairly and effectively, without being influenced by political bias or favoritism.
 
-Organisational context:
+*Organisational context*:
 
 - Sector of government performing the executive power 
 - Non elected nor appointed professionals in public bodies
@@ -46,7 +46,6 @@ This is mainly achieved through the following:
 
 
 ## Essential Skills and Competences
-Around 10 statements of 10-20 words, using sub-headings for technical skills and competences, and soft/ transversal skills. Statements should be each have up to 5 Open Science Skills terms selected from the list available, to summarise the learning outcomes needed for a learner to become competent in the role.
 
 ### Technical skills and competences
 
