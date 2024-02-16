@@ -8,36 +8,38 @@ tags:
 
 # Minimum Viable Skills for **Data Steward Embedded**
 
-Coordinator Data Stewards act as a *centralised knowledge and communication hub* for researchers. They advise and train on policy, guidelines, data management plans and institutional infrastructure and tools.
+Embedded Data Stewards are directly involved in research teams and offer support to plan and implement FAIR and CARE principles into  data sharing practices, meeting needs of researchers as they arise, and working with others to ensure the long-term preservation and reusability of research outputs. 
 
 **Associated function titles**: 
 
 - Data Steward, 
-- Data Librarian, 
-- Research Data Management Specialist, 
-- Research Data Manager, 
-- Research Data Management Consultants, 
-- Reproducibility Librarian.
+- Data Manager, 
+- Data Curator, 
+- Research Data Manager
 
-*Organisational context*:
+*Organisational context*: 
+
+Embedded Data Stewards serve research teams, faculties, departments, sections of organisations directly involved in producing research outputs such as:
 
 - Research Performing Organisations 
 - Research Infrastructures
 - Service Providers (e.g scholarly communications)
 - Competence Centres
 
-
 ### Mission
 Data Stewards put Open Science principles into practice.They work with stakeholders to establish, govern and maintain processes to collect research data, make it usable for research objectives, facilitate its transformation into research output, assist in quality assurance, and support informed decision-making on its openness for reuse according to ethical, legal and social expectations.
 
 ### OS Activities 
--
- Contributes to Open Science policy development by engaging with (inter)national policy-making, bringing the cross-disciplinary expertise needed for local policy development, implementation and monitoring.
-- Understands research stakeholder needs and contributes to developing, implementing and monitoring institutional RDM policy and Data Governance, along with tools and services to support these. Promotes and communicates the importance of Open Science and FAIR to all levels within the organization (e.g. policy makers, senior management, researchers, postgraduates etc.)
-- Analyses trends in data management infrastructure, tools, and methods that potentially improve the organisation’s implementation of FAIR and CARE principles to enhance support  for decision-making on Open Science. Advises on (meta)data standards and contextual documentation for data archiving.
-- Monitors RDM skills of researchers and research support staff in the institute and refers researchers to RDM related facilities and services.
+
+- Develops Data Management Plans templates tailored for research teams and supports researchers in writing a DMP according to the relevant template. Includes provision for post project archiving and FAIR sharing (standards, metadata, licensing, repository selection)
+- Supports researchers in good practice on data and/or software/code when writing applications to funders, implements this good practice as a regular aspect of doing research, and liaises with (technical) RDM experts inside and outside the institute to adopt effective solutions to challenges.
+- Advises and supports researchers on data-infrastructure and tools, and adoption of innovative techniques or tools, including those provided by relevant (inter)national data-infrastructure and tools.
+- Identifies gaps and takes action if needed to ensure ethical conduct and awareness of the potential impacts of data reuse, management and sharing on wider society.
+- Advises on the use of disciplinary standards and ontologies, and relevant community practices that are applied in producing FAIR research outputs.
+- Supports researchers on legal and regulatory compliance aligning local practices with ethical conduct through connections with the institutional privacy officers, legal advisers, and research ethics bodies.
 - Develops and delivers training tailored to learners’ needs, aligned with wider institutional policies and plans
-- Maintains networks of RDM and research support related colleagues. 
+- Maintains networks of RDM and research support related colleagues.
+
 
 ### OS Outcomes
 
