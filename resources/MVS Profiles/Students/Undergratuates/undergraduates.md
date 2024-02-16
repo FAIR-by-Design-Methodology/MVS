@@ -3,111 +3,82 @@ title: "Undergraduates MVS"
 author: "Skills4EOSC T2.1"
 tags: 
     - Minimum Viable Skillset
+    - Undergraduate students
 ---
 
-# Learning Unit Template
+# Minimum Viable Skills for **Undergraduate Students**
 
-Introduction
+The Minimum Viable Skillset (MVS) for Undergraduates addresses the minimum competencies and skills needed by undergraduate students at the completion of their degree program in Open Science (OS). The MVS profile for undergraduates considers that undergraduate students do not typically undertake extensive research projects. However, there are opportunities for undergraduates to interact with data and software whilst working on assignments. Therefore, this MVS for undergraduate students is a general profile developed specifically in regard to data literacy knowledge, as it serves as basis for relevant OS activities and knowledge of the FAIR principles. For information related to basic skills for graduate students who are undertaking research activities, typically via dissertations and other assignments, see the MVS designed for Master’s Students. For the basic skills and competencies needed for early career researchers, including postgraduate students (PhDs), please see the MVS for early career researchers.
 
-## Learning Objectives
+Organisational context:
 
-- min one learning objective using the verbs from the Blooms taxonomy
+- Research Performing Organisations (Universities)
 
-## Target Audience
+### Mission
 
-- who is this learning unit meant for
-
-## Duration
-
-- time needed to learn the provided content
-
-## Prerequisites
-
-- list any knowledge that is required so that the learning unit can be followed
-
-## Learning Tools
-
-- list any tools that are necessary to be used to complete the learning unit
-- examples include required software, access to resources, etc.
-
-## Learning Content Topic
-
-Here goes the content of the learning unit divided into a number of subtopics and any additional headings as necessary.
-
-Use blank rows to divide between paragraphs.
-
-References to external or internal content provided elsewhere should be linked with [hyperlinks](https://pages.github.com/).
-
-### Sub-subtitle
-
-Refer to a different learning unit using a relative link. For an example, see the [Syllabus](../../index.md) file.
-
-*Example italic text*
-
-**Example bold text**
-
-### Lists
-
-Example numbered bullets:
-
-1. numbered list one
-2. two
-3. three
-
-Example unnumbered list.
-
-- unnumbered list
-- item two
-- item three
-    - subitem
-    - use 4 spaces to create nested subitem
-
-You can also create mixed lists:
-
-- mixed list
-    1. now numbered subitem
-    2. subitem number two
-- back to mixed list level 1 bullet
-
-### Images
-
-To add an image, first place the image in the /attachments folder and then use a relative link similar to above using a ! in front. 
-All images should be located in the attachments folder that is on the same level with the content file. 
-
-![alternative text for accessibility an image of a macaw parrot](attachments/macaw-g8f80c4f64_640.jpg)
-
-Caption: Macaw Parrot
-Image by [Karina Copa](https://pixabay.com/users/kayuli-781524) from [Pixabay](https://pixabay.com)
+It is recognized that Open Science skills should be immersed within formal education at its earliest stages. Undergraduates are potential future researchers and open science practitioners. By taking part in relevant open science training early, undergraduates become concerned citizens and better equipped to support open science. 
 
 
-Don't forget attribution if the image was not created by you. If you are reusing images or text clear attribution should be provided as in the example above. Same applies in case of reusing text or other type of content. Be careful to follow the attribution rules as provided by the image source (in the example above it is Pixabay).
+### OS Activities 
 
-### Accessibility
+- Contributes to data literacy activities that improves their OS knowledge and skills, including:
+- Interpreting and critically evaluating data
+- Finding, selecting, accessing, and creating data sets
+- Ethically use, collect and cite data
+- Understand basic data types and formats
+- Communicates data with appropriate visualizations 
+- Understands how the data was collected 
 
-Using headings and subheadings, lists and alternative text for images is extremely important so as to ensure accessibility of the content for people with impairments. Also, take care to choose the appropriate color pallette for images.
+### OS Outcomes
 
-### Tables
+The undergraduate contributes to the following OS outcomes:
 
-Tables are a bit tricky in md, the easiest way to create them is to use a tool that will generate the md code that you can then just copy paste in your content file.
-One such tool that can be used is the [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) available online. The provided example table has been generated using this tool. 
+- Developing data literacy abilities  
+- Acquiring a baseline of generic foundational digital skills
+- Adopting awareness and understanding of OS and FAIR principles 
+- Adopting responsible and ethical use of data
 
-| **Column 1 title** | **Column 2 title**  |
-|--------------------|---------------------|
-| content 1          |      content 4      |
-| content 2          |      content 5      |
-| content 3          | content 6 content 7 |
+## Essential Skills and Competences
+Around 10 statements of 10-20 words, using sub-headings for technical skills and competences, and soft/ transversal skills. Statements should be each have up to 5 Open Science Skills terms selected from the list available, to summarise the learning outcomes needed for a learner to become competent in the role.
 
-### Related Learning Materials
+### Technical skills and competences
 
-Refer to exercises, quizzes, games or other types of learning materials where ever they should be included in the unit and provide links to this content.
+- Organizing and documenting 
+- Foundational digital research skills 
+- Understanding the big why - why it is important for society at research and data is open and FAIR
+- Knowledge of the research life cycle
+- Ability to identify  general knowledge and awareness of open science and FAIR principles, including identify relevant discipline or domain-specific information 
+- Ability to apply basic open science principles in the relevant parts of the research life cycle , such as: 
+    - Recognise reliable and trustworthy sources of data 
+    - Evaluate the quality and reusability of the data 
+    - Recognizing  the different open access model for scientific publications
+    - Knowledge of how to share e FAIR research data (including code and software), including knowledge of how to use repositories 
 
+ 
+### Soft/ transversal skills
 
-## Summary
+- Collaboration and interpersonal skills, being particularly able to engage in teamwork
+- Written communication skills
+- Verbal communication skills
+- Time management
+- Problem solving skills
+- Critical thinking
 
-At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
+## Related MVS
+Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
-## Suggested Reading
+## Reference sources
 
-- provide a list of references for further reading that should help clarify the content of the learning unit and elevate the knowledge level
-- [Markdown guide](https://www.markdownguide.org/), free and open-source reference guide that explains how to use Markdown.
++ Directorate-General for Research and Innovation (European Commission), EOSC Executive Board, Manola, N., Lazzeri, E., Barker, M., Kuchma, I., Gaillard, V., & Stoy, L. (2021). [Digital skills for FAIR and Open Science : Report from the EOSC Executive Board Skills and Training Working Group](https://data.europa.eu/doi/10.2777/59065). Publications Office of the European Union. https://data.europa.eu/doi/10.2777/59065
 
++ Directorate-General for Research and Innovation (European Commission), O’Carroll, C., Hyllseth, B., Berg, R. van den, Kohl, U., Kamerlin, C. L., Brennan, N., & O’Neill, G. (2017). [Providing researchers with the skills and competencies they need to practise Open Science](https://data.europa.eu/doi/10.2777/121253). Publications Office of the European Union. https://data.europa.eu/doi/10.2777/121253
+
++ [Getting Messy with Authentic Data : Exploring the Potential of Using Data from Scientific Research to Support Student Data Literacy | CBE—Life Sciences Education](ttps://www.lifescied.org/doi/full/10.1187/cbe.18-02-0023). (s. d.). https://www.lifescied.org/doi/full/10.1187/cbe.18-02-0023
+
++ Kjelvik, M. K., & Schultheis, E. H. (2019). [Getting Messy with Authentic Data : Exploring the Potential of Using Data from Scientific Research to Support Student Data Literacy](https://doi.org/10.1187/cbe.18-02-0023). CBE—Life Sciences Education, 18(2), es2. https://doi.org/10.1187/cbe.18-02-0023
+
++ McCaffrey, C., Meyer, T., Riera Quintero, C., Swiatek, C., Marcerou-Ramel, N., Gillén, C., Clavel, K., Wojciechowska, A., Brinken, H., Prevoo, M., & Egerton, F. (2020). [Open Science Skills Visualisation—Visualisation des compétences en science ouverte](https://doi.org/10.5281/zenodo.4727592). Zenodo. https://doi.org/10.5281/zenodo.4727592
+
++ OCDE. (2020). [Building digital workforce capacity and skills for data-intensive science](https://doi.org/10.1787/e08aa3bb-en). OCDE. https://doi.org/10.1787/e08aa3bb-en
+
++ [Passport for Open Science – A Practical Guide for PhD Students](https://www.ouvrirlascience.fr/passport-for-open-science-a-practical-guide-for-phd-students). (s. d.). accessed 28 avril 2023, website
