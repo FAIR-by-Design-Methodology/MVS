@@ -2,8 +2,9 @@
 title: "MVS Co-creation Approach"
 author: "Skills4EOSC T2.1"
 tags: 
-    - Process
     - Documentation
+    - Co-creation
+    - Methodology
 hide:
   - navigation
 ---
