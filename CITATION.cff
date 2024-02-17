@@ -1,19 +1,75 @@
 cff-version: 1.2.0
-message: "If you use these learning materials, please cite it as below."
+message: "If you use these materials, please cite it as below."
 authors:
-  - family-names: Surname
-    given-names: First_Name
-    orcid: https://orcid.org/1234-5678-9101-1121
-    affiliation: Organization
-title: "Training Name"
-abstract: "Training description"
+  - family-names: Whyte
+    given-names: Angus
+    orcid: https://orcid.org/0000-0002-5198-0833
+    affiliation: UEDIN
+  - family-names: Green
+    given-names: Dominique
+    orcid: https://orcid.org/0000-0002-9411-4281
+    affiliation: UEDIN
+  - family-names: Avanço
+    given-names: Karla
+    orcid: https://orcid.org/0000-0001-8784-7754
+    affiliation: AMU
+  - family-names: Di Giorgio
+    given-names: Sara
+    orcid: https://orcid.org/0000-0001-8962-4183
+    affiliation: GARR
+  - family-names: Gingold
+    given-names: Arnaud
+    orcid: https://orcid.org/0009-0000-0466-5542
+    affiliation: OPERAS-AMU
+  - family-names: Horton
+    given-names: Laurence
+    orcid: https://orcid.org/0000-0003-2742-6434
+    affiliation: UEDIN
+  - family-names: Koteska
+    given-names: Bojana
+    orcid: https://orcid.org/0000-0001-6118-9044
+    affiliation: UKIM
+  - family-names: Kyprianou
+    given-names: Katerina
+    orcid: https://orcid.org/0000-0001-8616-6105
+    affiliation: GRNET
+  - family-names: Prnjat
+    given-names: Ognjen
+    orcid: https://orcid.org/0009-0002-3042-9011
+    affiliation: GRNET
+  - family-names: Rauste
+    given-names: Päivi
+    orcid: https://orcid.org/0000-0001-8315-5259
+    affiliation: CSC
+  - family-names: Schirru
+    given-names: Luca
+    orcid: https://orcid.org/0000-0002-8199-6510
+    affiliation: KU
+  - family-names: Sowinski
+    given-names: Claire
+    orcid: https://orcid.org/0000-0002-1048-8041
+    affiliation: CNRS
+  - family-names: Torres Ramos
+    given-names: Gabriela 
+    orcid: https://orcid.org/0000-0002-8115-0566
+    affiliation: CNRS
+  - family-names: van Leersum
+    given-names: Nida  
+    orcid: https://orcid.org/0009-0001-8479-122X
+    affiliation: TU-DELFT
+  - family-names: Lazzeri
+    given-names: Emma  
+    orcid: https://orcid.org/0000-0003-0506-046X
+    affiliation: GARR
+title: "Minimum Viable Skillsets - Catalogue of Open Science Career Profiles"
+abstract: "The catalogue of Minimum Viable Skillset (MVS) Profiles describes key skills and competences for roles that enable researchers, professionals, and stakeholders to practice Open Science (OS) with the support of the European Open Science Cloud (EOSC). MVS Profiles draw on available skills resources, including competence frameworks, and are proposed as an aid to developing skills through curricula and course design. Each MVS Profile relates the essential skills to the Open Science (OS) practices, activities, and outcomes that may typically be expected of the role concerned."
 version: 1.0.0
 doi: 10.5070/zenodo.123
 date-released: "1970-01-01"
 license: CC-BY-4.0
 license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
 keywords:
- - "thefirstkeyword"
- - "thesecondkeyword"
- - "a third keyword"
-repository: "https://github.com/citation-file-format/my-research-software"
+ - "MVS Catalogue"
+ - "OS Career Profile"
+ - "MVS Design Process"
+repository: "https://github.com/FAIR-by-Design-Methodology/MVS"

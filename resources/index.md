@@ -16,6 +16,7 @@ author:
     - Claire Sowinski
     - Gabriela Torres Ramos
     - Nida van Leersum
+    - Emma Lazzeri
 tags: 
     - MVS Catalogue
     - OS Career Profile 
@@ -75,7 +76,7 @@ The catalogue of Minimum Viable Skillset (MVS) Profiles describes key skills and
 
 ## Author(s)
 
-Angus Whyte, Dominique Green, Karla Avanço, Sara Di Giorgio, Arnaud Gingold, Laurence Horton, Bojana Koteska, Katerina Kyprianou, Ognjen Prnjat, Päivi Rauste, Luca Schirru, Claire Sowinski, Gabriela Torres Ramos, Nida van Leersum
+Angus Whyte, Dominique Green, Karla Avanço, Sara Di Giorgio, Arnaud Gingold, Laurence Horton, Bojana Koteska, Katerina Kyprianou, Ognjen Prnjat, Päivi Rauste, Luca Schirru, Claire Sowinski, Gabriela Torres Ramos, Nida van Leersum, Emma Lazzeri
 
 ## Contact information
 
