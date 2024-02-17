@@ -74,7 +74,7 @@ The catalogue of Minimum Viable Skillset (MVS) Profiles describes key skills and
 - GitHub repo: [https://github.com/FAIR-by-Design-Methodology/MVS](https://github.com/FAIR-by-Design-Methodology/MVS)
 
 
-## Author(s)
+## Authors
 
 Angus Whyte, Dominique Green, Karla Avanço, Sara Di Giorgio, Arnaud Gingold, Laurence Horton, Bojana Koteska, Katerina Kyprianou, Ognjen Prnjat, Päivi Rauste, Luca Schirru, Claire Sowinski, Gabriela Torres Ramos, Nida van Leersum, Emma Lazzeri
 
