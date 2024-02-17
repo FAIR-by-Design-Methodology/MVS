@@ -1,4 +1,5 @@
 ---
+title: "Terminology"
 hide:
   - navigation
 ---
