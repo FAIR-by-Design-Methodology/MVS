@@ -75,28 +75,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-+ [@noauthor_uk_nodate]
-
-+ [@noauthor_civil_2018]
-
-+ [@guerin2021finding]
-
-+ [@scholtens_life_2019]
-
-+ [@eoscpilot_2018]
-
-+ [@luxembourg_skills_nodate]
-
-+ [@oecd_skills_2017]
-         
-+ [@artificial_2022]
-
-+ [@magyar2022knowledge]
-
-+ [@noauthor_future_nodate] 
-
-+ [@kragh_time4cs_2022]
-
-+ [@doi:10.1080/15236803.2012.12001677]
-
-+ [@wilde_success_nodate]
+[@noauthor_uk_nodate], [@noauthor_civil_2018], [@guerin2021finding], [@scholtens_life_2019], [@eoscpilot_2018], [@luxembourg_skills_nodate], [@oecd_skills_2017], [@artificial_2022], [@magyar2022knowledge], [@noauthor_future_nodate], [@kragh_time4cs_2022], [@doi:10.1080/15236803.2012.12001677], [@wilde_success_nodate]
