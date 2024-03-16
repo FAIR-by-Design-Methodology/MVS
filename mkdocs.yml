@@ -27,8 +27,8 @@ plugins:
   - mike:
       version_selector: true
   - bibtex:
-      csl_file: None
       bib_file: "references.bib"
+      csl_file: None
       cite_inline: True
   - exclude:
       glob:
