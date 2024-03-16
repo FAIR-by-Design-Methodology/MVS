@@ -93,26 +93,26 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-+ Coordination, N. O. S. and R., Nykyri, S., Päällysaho, S., Rosti, T., Sunikka, A., Neuvonen, A., & Kuusniemi, M. E. (2021). [Open research data and methods National policy and executive plan by the higher education and research community for 2021–2025](https://edition.fi/tsv/catalog/view/64/166/575-1). Tieteellisten Seurain Valtuuskunta. 
++ [@nykyri2021open]
 
-+ Demchenko, Y., Stoy, L., Engelhardt, C., & Gaillard, V. (2021). [D7.3 FAIR Competence Framework for Higher Education (Data Stewardship Professional Competence Framework)](https://doi.org/10.5281/zenodo.5361917). Zenodo. https://doi.org/10.5281/zenodo.5361917
++ [@demchenko_d73_2021]
 
-+ EOSC Executive Board; Skills and Training Working Group & European Commission. Directorate General for Research and Innovation. (2021). [Digital skills for FAIR and Open Science: Report from the EOSC Executive Board Skills and Training Working Group](https://data.europa.eu/doi/10.2777/59065). (p. 71) `[Expert]`. Publications Office. https://data.europa.eu/doi/10.2777/59065
++ [@doi/10.2777/59065]
 
-+ ESFRI Innovation Working Group. (2018). [Innovation-oriented cooperation of Research Infrastructures](https://research-and-innovation.ec.europa.eu/system/files/2018-07/esfri_scripta_vol3_2018.pdf). 
++ [@european2018innovation]
 
-+ European Commission. (2018, July 10). [European Research Infrastructures](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures_en). 
++ [@noauthor_european_2018]
 
-+ Group, E. G. I. (2020). [EOSC Glossary](https://doi.org/10.5281/zenodo.4472643). Zenodo. https://doi.org/10.5281/zenodo.4472643
++ [@group_eosc_2021]
 
-+ OECD. (2016). [Skills for a Digital World: 2016 Ministerial Meeting on the Digital Economy Background Report](https://doi.org/10.1787/5jlwz83z3wnw-en). OECD Digital Economy Papers, Vol. 250, p. 56. https://doi.org/10.1787/5jlwz83z3wnw-en
++ [@oecd_skills_2016]
 
-+ Prandner, Dimitri, & Sinner, Philip. (2022). [Identifying and Updating Training Needs in European Research Infrastructures and Core Facilities](https://doi.org/10.5281/ZENODO.7542429). https://doi.org/10.5281/ZENODO.7542429
++ [@prandner_identifying_2023]
 
-+ RItrain. (n.d.). [The RItrain organisational competency profile](http://ritrain.eu/competency-profile). [http://Ritrain.Eu/Home](http://Ritrain.Eu/Home). Retrieved April 18, 2023.
++ [@noauthor_competency_nodate]
 
-+ Università Milano Bicocca. (n.d.). [Executive Masters in Management of Research Infrastructures](https://emmri.unimib.it/programme-content/). [https://Emmri.Unimib.It/](https://Emmri.Unimib.It/). Retrieved April 18, 2023.
++ [@universita_milano_bicocca_executive_nodate]
 
-+ Verhulst, S. G. (2023). [Wanted: Data Stewards—Drafting the Job Specs for A Re-imagined Data Stewardship Role](https://medium.com/data-stewards-network/wanted-data-stewards-drafting-the-job-specs-for-a-re-imagined-data-stewardship-role-f7cd28a83379).
++ [@verhulst_wanted_2023]
 
-+ Wildgaard, L., Vlachos, E., Nondal, L., Larsen, A. V., & Svendsen, M. (2020). [National Coordination of Data Steward Education in Denmark: Final report to the National Forum for Research Data Management (DM Forum)](https://doi.org/10.5281/ZENODO.3609515) (Version 1). Zenodo. https://doi.org/10.5281/ZENODO.3609515
++ [@wildgaard_national_2020]

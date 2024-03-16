@@ -25,6 +25,6 @@ Data Stewards perform key roles in the EOSC. As practitioners and champions of O
 
 ## References
 
-+ Wendelborn, C., Anger, M., and Schickhardt, C. (2023) [What is data stewardship? Towards a comprehensive understanding](https://doi.org/10.1016/j.jbi.2023.104337), Journal of Biomedical Informatics (140), https://doi.org/10.1016/j.jbi.2023.104337
++ [@WENDELBORN2023104337]
  
-+ [EOSC Future Learning Paths](https://wiki.eoscfuture.eu/display/PUBLIC/Learning+Paths) (2023) 
++ [@eoscfuture_2023]

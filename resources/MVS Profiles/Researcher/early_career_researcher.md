@@ -89,24 +89,25 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-+ A Whyte, J Vries, R Thorat, E Kuehn, G Sipos, V Cavalli, V Kalaitzi, K Ashley, Deliverable.  [D7.3: Skills and  Capability Framework](https://www.eoscpilot.eu/content/d73-skills-and- capability-framework). EOSCPilot. 2018. 
++ [@eoscpilot_2018]
 
-+ A Whyte & K Ashley. [Deliverable D7.1: Skills landscape analysis and competence model. EOSCPilot. 2017.  Annex A. Indicative Scope of data stewardship competences and their mapping to other frameworks](https://www.eoscpilot.eu/sites/default/files/eoscpilot-d7.3.pdf).  pp. 60-63 (mentioning other sources, like the EDISON Data Science Competence Framework, RDA  Interest Group Educ. & Training in Data Handling (Wiki), and Purdue University/SAPP Nelson – Data  Information Literacy, which also contributed to these skills).  
++ [@d71_2017]
 
-+ Berti, Johann, Marin Dacos, Gabriel Gallezot, Madeleine Géroudet, Sabrina Granger, Joanna Janik, Claire  Josserand, Jean-François Lut , Christine Okret-Manville, Sébastien Perrin, Noël Thiboud (2022),  [Passport For Open Science: A Practical Guide for PhD students](https://www.ouvrirlascience.fr/passport-for-open-science-a-practical-guide-for-phd-students/ ).  
++ [@badolato_passport_2021]
 
-+ European Commission, Directorate-General for Research and Innovation, Manola, N., Lazzeri, E., Barker, M.,  et al., [Digital skills for FAIR and Open Science : report from the EOSC Executive Board Skills and  Training Working Group](https://data.europa.eu/doi/10.2777/59065), Manola, N. (editor), Lazzeri, E. (editor), Barker, M. (editor), Kuchma, I.  (editor), Gaillard, V. (editor), Stoy, L. (editor), Publications Office,  2021, https://data.europa.eu/doi/10.2777/59065.
++ [@doi/10.2777/59065]
 
-+ European Commission, Directorate-General for Research and Innovation, O'Carroll, C., Hyllseth, B., Berg, R.,  et al., [Providing researchers with the skills and competencies they need to practise Open Science](https://data.europa.eu/doi/10.2777/121253),  Publications Office, 2017, https://data.europa.eu/doi/10.2777/121253
++ [@doi/10.2777/121253]
  
-+ Gatto, Laurence, 2017. [An early career researcher’s view on modern and open scholarship](https://doi.org/10.5281/zenodo.995702 ), Zenodo. https://doi.org/10.5281/zenodo.995702 
++ [@gatto_lgatto2017_09_25_openscience_epfl_2017]
 
-+ JanÍčko, Michal,  Zdeňka Šimová, Denise McGrath. 2022. [Skills of PhD Graduates for Open Science and Open Innovation](https://doi.org/10.11118/lifele20221202139). Lifelong Learning - celoživotní vzdělávání, 12 (2): 119–146. https://doi.org/10.11118/lifele20221202139.
++ [@janicko_skills_2022]
 
-+ LERU (2018), [Open Science and its Role in Universities: A Roadmap for Cultural Change](https://www.leru.org/files/LERU-AP24-Open-Science-full-paper.pdf), Advice Paper no. 24.
++ [@LERU2018]
 
-+ Universities Norway, 2021. [NOR-CAM – A toolbox for recognition and rewards in academic careers](https://www.uhr.no/en/news-from-uhr/nor-cam-a-toolbox-for-recognition-and-rewards-in- academic-careers.5780.aspx). website.
++ [@norway2021nor]
 
-+ Y Demchenko. [EDISON Data Science Framework: Part 4. Data Science Professional Profiles (DSPP)](https://edison-project.eu/sites/edison-project.eu/files/attached_files/node- 486/edison-dspp-release2-v04.pdf).  Release 2. 2017. 
++ [@demchenko2016edison]
 
-+ Y Demchenko, A Belloum and T Wiktorski. [EDISON Data Science Framework: Part 1. Data Science  Competence Framework (CF-DS) Release 2](https://edison-project.eu/sites/edison- project.eu/files/filefield_paths/edison_cf-ds-release1-v07.pdf). 2016.  
++ [@cuadrado2020data]
+

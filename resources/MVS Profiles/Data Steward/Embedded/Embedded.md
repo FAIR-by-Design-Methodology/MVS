@@ -8,7 +8,7 @@ tags:
 
 # Minimum Viable Skills for **Data Steward Embedded**
 
-Embedded Data Stewards are directly involved in research teams and offer support to plan and implement FAIR and CARE principles into  data sharing practices, meeting needs of researchers as they arise, and working with others to ensure the long-term preservation and reusability of research outputs. 
+Embedded Data Stewards are directly involved in research teams and offer support to plan and implement FAIR and CARE principles into  data sharing practices, meeting needs of researchers as they arise, and working with others to ensure the long-term preservation and reusability of research outputs.
 
 **Associated function titles**: 
 
@@ -77,37 +77,31 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-+ EOSC Executive Board; Skills and Training Working Group & European Commission. Directorate General for Research and Innovation. (2021). [Digital skills for FAIR and Open Science: Report from the EOSC Executive Board Skills and Training Working Group](https://data.europa.eu/doi/10.2777/59065). (p. 71) `[Expert]`. Publications Office. 
++ [@doi/10.2777/59065] 
  
-+ Demchenko, Y., Stoy, L., Engelhardt, C., & Gaillard, V. (2021). [D7.3 FAIR Competence Framework for Higher Education (Data Stewardship Professional Competence Framework)](https://doi.org/10.5281/zenodo.4562089). Zenodo. https://doi.org/10.5281/zenodo.4562089
++ [@demchenko_d73_2021]
  
-+ Scholtens, S., Jetten, M., Böhmer, J., Staiger, C., Slouwerhof, I., Van Der Geest, M., & Van Gelder, C. W. G. (2022). [Final report: Towards FAIR data steward as profession for the lifesciences. Report of a ZonMw funded collaborative approach built on existing expertise](https://doi.org/10.5281/ZENODO.3471707) (Version 4). Zenodo. https://doi.org/10.5281/ZENODO.3471707
++ [@scholtens_final_2022]
  
-+ Wildgaard, L., Vlachos, E., Nondal, L., Larsen, A. V., & Svendsen, M. (2020). [National Coordination of Data Steward Education in Denmark: Final report to the National Forum for Research Data Management (DM Forum)](https://doi.org/10.5281/ZENODO.3609515) (Version 1). Zenodo. https://doi.org/10.5281/ZENODO.3609515
++ [@wildgaard_national_2020]
  
-+ EOSC Glossary Interest Group. (2019, March 26). [EOSC Glossary](https://eosc-portal.eu/glossary). EOSC Portal.
++ [@EOSC_2019]
  
-+ [EOSC WG Target Hierarchy](https://drive.google.com/file/d/1AMvbC1ZIJXddUXatIPgnZlphbrppSSda/view). (n.d.).
++ [@EOSCWG_2022]
  
-+ Jetten, M., Grootveld, M., Mordant, A., Jansen, M., Bloemers, M., Miedema, M., & Gelder, C. W. G. V. (2021). [Professionalising data stewardship in the Netherlands. Competences, training and education. Dutch roadmap towards national implementation of FAIR data stewardship](https://doi.org/10.5281/ZENODO.4320504) (v1.1). Zenodo. https://doi.org/10.5281/ZENODO.4320504
++ [@jetten_professionalising_2021]
  
-+ Ayres, B., Lehtsalu, L., Parton, G., Száldobágyi, Á., Warren, E., Whyte, A., & Zimmer, N. (2022). [RDA Professionalising Data Stewardship—Current Models of Data Stewardship: Survey Report](https://doi.org/10.15497/RDA00075) (RDA Supporting Output, p. 52). Research Data Alliance. https://doi.org/10.15497/RDA00075
++ [@ayres_rda_2022]
  
-+ Verheul, I., Imming, M., Ringerma, J., Mordant, A., Ploeg, J.-L. van der, & Pronk, M. (2019). [Data Stewardship on the map: A study of tasks and roles in Dutch research institutes](https://doi.org/10.5281/ZENODO.2669150). Zenodo. https://doi.org/10.5281/ZENODO.2669150
++ [@verheul_data_2019]
  
-+ Semeler, A. R., Pinto, A. L., & Rozados, H. B. F. (2019). [Data science in data librarianship: Core competencies of a data librarian](https://doi.org/10.1177/0961000617742465). Journal of Librarianship and Information Science, 51(3), 771–780. https://doi.org/10.1177/0961000617742465
++ [@doi:10.1177/0961000617742465]
  
-+ Engelhardt, C. (2022). [How to be FAIR with your data: A teaching and training handbook for higher education institutions](https://doi.org/10.17875/gup2022-1915). Göttingen University Press. https://doi.org/10.17875/gup2022-1915
++ [@gup-1915]
  
-+ Wildgaard, L., & Rantasaari, J. (2022). [Gaps in Data Stewardship: What kind of Needs for Training do Data Stewards Face in Supporting Research?](https://doi.org/10.15497/RDA00076) (C. Engelhardt & J. Pinnick, Eds.). Research Data Alliance. https://doi.org/10.15497/RDA00076
- 
-+ Demchenko, Y., Stoy, L., Engelhardt, C., & Gaillard, V. (2021). [D7.3 FAIR Competence Framework for Higher Education (Data Stewardship Professional Competence Framework)](https://doi.org/10.5281/zenodo.4562089). Zenodo. https://doi.org/10.5281/zenodo.4562089
- 
-+ EMBL-EBI. (2023). [Competency Hub](https://competency.ebi.ac.uk/framework/datasteward/1.0/competencies). 
- 
-+ UFO Profile (the Netherlands)
- 
-+ Recommendations for Data Stewardship skills, training and curricula (Draft) 
++ [@wildgaard_rda_2022]
+  
++ [@EBI_2023] 
 
-+ Förstner, K. U., Seidlmayer, E., ZB MED-Informationszentrum Lebenswissenschaften, Deutschland. Bundesministerium Für Bildung, W., Dierkes, J., Depping, R., Technische Hochschule Köln, Universitäts- Und Stadtbibliothek Köln, Lindstädt, B., Universität Zu Köln, & Hoffmann, F. (2023). [Ergebnisse des Projektes DataStew: Forschung unterstützen—Empfehlungen für Data Stewardship an akademischen Forschungsinstitutionen. `[Results of the Project DataStew: Support research - Recommendations for data stewardship at academic research institutions]`](https://doi.org/10.4126/FRL01-006441397). https://doi.org/10.4126/FRL01-006441397
++ [@forstner_ergebnisse_2023]
 
