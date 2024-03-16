@@ -99,24 +99,24 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-+ Nasreen Jessani, Caitlin Kennedy & Sara Bennett. 2016. [The Human Capital of Knowledge Brokers: An analysis of attributes, capacities and skills of academic teaching and research faculty at Kenyan schools of public health](https://doi.org/10.1186/s12961-016-0133-0). https://doi.org/10.1186/s12961-016-0133-0
++ [@Jessani2016]
 
-+ Lauri Rantala, Simo Sarkki, Timo P. Karjalainen, Pekka M. Rossi. 2017. [How to Earn the Status of Honest Broker? Scientists’ Roles Facilitating the Political Water Supply Decision-Making Process](https://doi.org/10.1080/08941920.2017.1331484). https://doi.org/10.1080/08941920.2017.1331484
++ [@doi:10.1080/08941920.2017.1331484]
 
-+ Duncan, R., Robson-Williams, M. & Edwards, S. [A close examination of the role and needed expertise of brokers in bridging and building science policy boundaries in environmental decision making](https://doi.org/10.1057/s41599-020-0448-x). Palgrave Commun 6, 64 (2020). https://doi.org/10.1057/s41599-020-0448-x
++ [@Duncan2020]
 
-+ Gluckman, P.D., Bardsley, A. & Kaiser, M. [Brokerage at the science–policy interface: from conceptual framework to practical guidance](https://doi.org/10.1057/s41599-021-00756-3 ). Humanit Soc Sci Commun 8, 84 (2021). https://doi.org/10.1057/s41599-021-00756-3 
++ [@Gluckman2021]
 
-+ Angus Whyte, Jerry de Vries, Rahul Thorat, Eileen Kuehn, Gergely Sipos, Valentino Cavalli, Vasso Kalaitzi, Kevin Ashley (2028). [EOSCpilot FAIR4S (Skills and Capability Framework)](https://eoscpilot.eu/sites/default/files/eoscpilot-d7.3.pdf). 
++ [@eoscpilot_2018]
 
-+ Conklin, J., Lusk, E., Harris, M. et al. [Knowledge brokers in a knowledge network: the case of Seniors Health Research Transfer Network knowledge brokers](https://doi.org/10.1186/1748-5908-8-7). Implementation Sci 8, 7 (2013). https://doi.org/10.1186/1748-5908-8-7
++ [@Conklin2013]
 
-+ German Council for Scientific Information Infrastructures (RfII): [Digital competencies – urgently needed! – Recommendations on career and training prospects for the scientific labour market](http://rfii.de/download/digital-competencies-urgently-needed-october-2019/), Göttingen 2019, 56 p. 
++ [@RfII2019]
 
-+ Peng et al. (2016). [Scientific Stewardship in the Open Data and Big Data Era — Roles and Responsibilities of Stewards and Other Major Product Stakeholders](https://doi.org/10.1045/may2016-peng). https://doi.org/10.1045/may2016-peng
++ [@peng_scientific_2016]
 
-+ Topp, L., Mair, D., Smillie, L. et al. [Knowledge management for policy impact: the case of the European Commission’s Joint Research Centre](https://doi.org/10.1057/s41599-018-0143-3). Palgrave Commun 4, 87 (2018). https://doi.org/10.1057/s41599-018-0143-3
++ [@Topp2018]
 
-+ Yahong Zhang, Robert Lee & Kaifeng Yang (2012). [Knowledge and Skills for Policy Making: Stories from Local Public Managers in Florida](https://doi.org/10.1080/15236803.2012.12001677), Journal of Public Affairs Education, 18:1, 183-208, https://doi.org/10.1080/15236803.2012.12001677
++ [@doi:10.1080/15236803.2012.12001677]
 
-+ The Turing Way Community. (2021). [The Turing Way: A handbook for reproducible, ethical and collaborative research](https://doi.org/10.5281/zenodo.5671094) (1.0.1). Zenodo. https://doi.org/10.5281/zenodo.5671094
++ [@community_turing_2023]
