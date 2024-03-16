@@ -68,16 +68,14 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-+ Directorate-General for Research and Innovation (European Commission), EOSC Executive Board, Manola, N., Lazzeri, E., Barker, M., Kuchma, I., Gaillard, V., & Stoy, L. (2021). [Digital skills for FAIR and Open Science : Report from the EOSC Executive Board Skills and Training Working Group](https://data.europa.eu/doi/10.2777/59065). Publications Office of the European Union. https://data.europa.eu/doi/10.2777/59065
++ [@doi/10.2777/59065]
 
-+ Directorate-General for Research and Innovation (European Commission), O’Carroll, C., Hyllseth, B., Berg, R. van den, Kohl, U., Kamerlin, C. L., Brennan, N., & O’Neill, G. (2017). [Providing researchers with the skills and competencies they need to practise Open Science](https://data.europa.eu/doi/10.2777/121253). Publications Office of the European Union. https://data.europa.eu/doi/10.2777/121253
++ [@doi/10.2777/121253]
 
-+ [Getting Messy with Authentic Data : Exploring the Potential of Using Data from Scientific Research to Support Student Data Literacy | CBE—Life Sciences Education](ttps://www.lifescied.org/doi/full/10.1187/cbe.18-02-0023). (s. d.). https://www.lifescied.org/doi/full/10.1187/cbe.18-02-0023
++ [@kjelvik2019getting]
 
-+ Kjelvik, M. K., & Schultheis, E. H. (2019). [Getting Messy with Authentic Data : Exploring the Potential of Using Data from Scientific Research to Support Student Data Literacy](https://doi.org/10.1187/cbe.18-02-0023). CBE—Life Sciences Education, 18(2), es2. https://doi.org/10.1187/cbe.18-02-0023
++ [@mccaffrey_open_2021]
 
-+ McCaffrey, C., Meyer, T., Riera Quintero, C., Swiatek, C., Marcerou-Ramel, N., Gillén, C., Clavel, K., Wojciechowska, A., Brinken, H., Prevoo, M., & Egerton, F. (2020). [Open Science Skills Visualisation—Visualisation des compétences en science ouverte](https://doi.org/10.5281/zenodo.4727592). Zenodo. https://doi.org/10.5281/zenodo.4727592
++ [@oecd_building_2020]
 
-+ OCDE. (2020). [Building digital workforce capacity and skills for data-intensive science](https://doi.org/10.1787/e08aa3bb-en). OCDE. https://doi.org/10.1787/e08aa3bb-en
-
-+ [Passport for Open Science – A Practical Guide for PhD Students](https://www.ouvrirlascience.fr/passport-for-open-science-a-practical-guide-for-phd-students). (s. d.). accessed 28 avril 2023, website
++ [@badolato_passport_2021]
