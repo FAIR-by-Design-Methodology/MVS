@@ -68,22 +68,22 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-+ Demchenko, Y, A Belloum and T Wiktorski. [EDISON Data Science Framework: Part 1. Data Science Competence Framework (CF-DS) Release 2](https://edison-project.eu/data-science-competence-framework-cf-ds/). 
++ [@demchenko2016edison]
 
-+ EOSC Pilot (2018),  A Whyte, J Vries, R Thorat, E Kuehn, G Sipos, V Cavalli, V Kalaitzi, K Ashley, Deliverable.  [D7.3: Skills and Capability Framework](https://eoscpilot.eu/sites/default/files/eoscpilot-d7.3.pdf).
++ [@eoscpilot_2018]
 
-+ European Commission, Directorate-General for Research and Innovation, Manola, N., Lazzeri, E., Barker, M., Kuchma, I., Gaillard, V., Stoy, L., 2021, [Digital skills for FAIR and Open Science : report from the EOSC Executive Board Skills and Training Working Group](https://data.europa.eu/doi/10.2777/59065), Publications Office  https://data.europa.eu/doi/10.2777/59065
++ [@doi/10.2777/59065]
 
-+ European Commission, Directorate-General for Research and Innovation, O'Carroll, C., Hyllseth, B., Berg, R., et al., 2017, [Providing researchers with the skills and competencies they need to practice Open Science](https://data.europa.eu/doi/10.2777/121253), Publications Office, https://data.europa.eu/doi/10.2777/121253
++ [@doi/10.2777/121253]
 
-+ Kowalczyk, O.S., Lautarescu, A., Blok, E. et al. [What senior academics can do to support reproducible and open research: a short, three-step guide](https://doi.org/10.1186/s13104-022-05999-0). BMC Res Notes 15, 116 (2022). https://doi.org/10.1186/s13104-022-05999-0
++ [@Kowalczyk2022]
 
-+ LERU (2018), [Open Science and its Role in Universities: A Roadmap for Cultural Change](https://www.leru.org/files/LERU-AP24-Open-Science-full-paper.pdf), Advice Paper no. 24.
++ [@LERU2018]
 
-+ OBERRED (undated), [OBERRED Skills Framework](https://oberred.eu/skills-framework/)
++ [@oberred]
 
-+ OECD (2020), [Building digital workforce capacity and skills for data-intensive science](https://doi.org/10.1787/e08aa3bb-en), OECD Science, Technology and Industry Policy Papers, No. 90, OECD Publishing, Paris, https://doi.org/10.1787/e08aa3bb-en.
++ [@oecd_building_2020]
 
-+ VITAE (2012), [Vitae Researcher Development Framework and Researcher Development Statement](https://www.vitae.ac.uk/vitae-publications/rdf-related/researcher-development-framework-rdf-vitae-methodology-report-2012.pdf)
++ [@070c564b-7c09-460f-8456-a0ac00e0526f_vitae_nodate]
 
-+ Whyte, A & K Ashley. Deliverable D7.1: Skills landscape analysis and competence model. EOSCPilot. 2017. Annex A. Indicative Scope of data stewardship competences and their mapping to other frameworks
++ [@d71_2017]
