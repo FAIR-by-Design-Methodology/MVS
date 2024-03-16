@@ -98,6 +98,4 @@ Skills4EOSC is dedicated to ensuring that all produced learning materials are ac
 
 These learning materials have been developed by following the [FAIR-by-Design Methodology](https://doi.org/10.5281/zenodo.7875540).
 
-> This Git book is based on the instructions provided in [@filiposka_2023_10063110].
-
 ![Skills4EOSC logo](./attachments/skills4eosc.png)
