@@ -4,7 +4,7 @@
 
 short description
 
-All content is available under CC0 [license](./LICENSE).
+All content is available under CC-BY-4.0 [license](./LICENSE).
 
 
 ## How to implement the MVS profiles?
