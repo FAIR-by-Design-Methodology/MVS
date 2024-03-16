@@ -77,8 +77,8 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-+ Avanço, K. & Gingold, A., (2022) [FAIRifying a scholarly publishing service: Methodology based on the OpenEdition’s internal FAIR audit](https://doi.org/10.3998/jep.1540), The Journal of Electronic Publishing 25(2). doi: https://doi.org/10.3998/jep.1540
++ [@avanco_fairifying_2022]
 
-+ Federer, L., Foster, E. D., Glusker, A., Henderson, M., Read, K., & Zhao, S. (2020). [The Medical Library Association Data Services Competency: A framework for data science and open science skills development](https://doi.org/10.5195/jmla.2020.909). Journal of the Medical Library Association, 108(2). https://doi.org/10.5195/jmla.2020.909  
++ [@federer_medical_2020]
 
-+ McCaffrey, Ciara, Meyer, Thorsten, Riera Quintero, Clara, Swiatek, Cecile, Marcerou-Ramel, Nathalie, Gillén, Camilla, Clavel, Karin, Wojciechowska, Anna, Brinken, Helene, Prevoo, Mariëlle, & Egerton, Frank. (2020). [Open Science Skills Visualisation - Visualisation des compétences en science ouverte](https://doi.org/10.5281/zenodo.4727592) (Version 2). Zenodo. https://doi.org/10.5281/zenodo.4727592 
++ [@mccaffrey_open_2021]
