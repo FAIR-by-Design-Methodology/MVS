@@ -85,4 +85,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-[@eoscpilot_2018], [@d71_2017], [@noauthor_developing_nodate], [@doi/10.2777/121253], [@doi/10.2777/59065], [@brinkman_open_2023], [@mccaffrey_open_2021], [@kathawalla_easing_2021], [@norway2021nor], [@demchenko2016edison], [@cuadrado2020data]
+[@eoscpilot_2018] [@d71_2017] [@noauthor_developing_nodate] [@doi102777121253] [@doi10277759065] [@brinkman_open_2023] [@mccaffrey_open_2021] [@kathawalla_easing_2021] [@norway2021nor] [@demchenko2016edison] [@cuadrado2020data]

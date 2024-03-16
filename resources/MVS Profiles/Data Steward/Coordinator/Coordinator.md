@@ -75,4 +75,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-[@doi/10.2777/59065], [@demchenko_d73_2021], [@scholtens_final_2022], [@wildgaard_national_2020], [@EOSC_2019], [@EOSCWG_2022], [@jetten_professionalising_2021], [@ayres_rda_2022], [@verheul_data_2019], [@doi:10.1177/0961000617742465], [@gup-1915], [@wildgaard_rda_2022], [@EBI_2023], [@forstner_ergebnisse_2023]
+[@doi10277759065] [@demchenko_d73_2021] [@scholtens_final_2022] [@wildgaard_national_2020] [@EOSC_2019] [@EOSCWG_2022] [@jetten_professionalising_2021] [@ayres_rda_2022] [@verheul_data_2019] [@doi1011770961000617742465] [@gup-1915] [@wildgaard_rda_2022] [@EBI_2023] [@forstner_ergebnisse_2023]

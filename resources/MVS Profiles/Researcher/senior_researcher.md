@@ -68,4 +68,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-[@demchenko2016edison], [@eoscpilot_2018], [@doi/10.2777/59065], [@doi/10.2777/121253], [@Kowalczyk2022], [@LERU2018], [@oberred], [@oecd_building_2020], [@070c564b-7c09-460f-8456-a0ac00e0526f_vitae_nodate], [@d71_2017]
+[@demchenko2016edison] [@eoscpilot_2018] [@doi10277759065] [@doi102777121253] [@Kowalczyk2022] [@LERU2018] [@oberred] [@oecd_building_2020] [@070c564b-7c09-460f-8456-a0ac00e0526f_vitae_nodate] [@d71_2017]

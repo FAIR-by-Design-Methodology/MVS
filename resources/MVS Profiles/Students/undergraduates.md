@@ -68,4 +68,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-[@doi/10.2777/59065], [@doi/10.2777/121253], [@kjelvik2019getting], [@mccaffrey_open_2021], [@oecd_building_2020], [@badolato_passport_2021]
+[@doi10277759065] [@doi102777121253] [@kjelvik2019getting] [@mccaffrey_open_2021] [@oecd_building_2020] [@badolato_passport_2021]
