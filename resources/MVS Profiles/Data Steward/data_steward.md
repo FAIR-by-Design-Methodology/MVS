@@ -25,4 +25,4 @@ Data Stewards perform key roles in the EOSC. As practitioners and champions of O
 
 ## References
 
-[@WENDELBORN2023104337], [@eoscfuture_2023]
+[@WENDELBORN2023104337] [@eoscfuture_2023]
