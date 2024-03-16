@@ -43,6 +43,8 @@ template: key.html
 
 # Minimum Viable Skillsets
 
+{!RELEASE_NOTES.md!}
+
 # Catalogue of Open Science Career Profiles
 
 ## Description
