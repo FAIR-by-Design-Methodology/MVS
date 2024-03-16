@@ -27,7 +27,9 @@ plugins:
   - mike:
       version_selector: true
   - bibtex:
+      csl_file: None
       bib_file: "references.bib"
+      cite_inline: True
   - exclude:
       glob:
         - "*Activities/*"
