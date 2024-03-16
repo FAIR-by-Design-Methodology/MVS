@@ -79,7 +79,7 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 + [Digital, Data and Technology Profession Capability Framework](https://www.gov.uk/government/publications/civil-service-competency-framework) (website, last update 2018)
 
-+ Benoit Guerin, Alex Thomas, Rhys Clyne, Suhasini Vira. (2020). [Finding the right skills for the civil service](https://www.instituteforgovernment.org.uk/sites/default/files/publications/civil-service-skills.pdf)
++ [@guerin2021finding]
 
 + Salome Scholtens, Petronella Anbeek, Jasmin Böhmer, Mirjam Brullemans-Spansier, Marije van der Geest, Mijke Jetten, Christine Staiger, Inge Slouwerhof, & Celia W G van Gelder. (2019). [Life sciences data steward function matrix (V1.1)](https://doi.org/10.5281/zenodo.2561723). Zenodo. 
 

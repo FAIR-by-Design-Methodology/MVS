@@ -28,6 +28,8 @@ plugins:
       version_selector: true
   - bibtex:
       bib_file: "references.bib"
+      csl_file: None
+      cite_inline: true
   - exclude:
       glob:
         - "*Activities/*"
