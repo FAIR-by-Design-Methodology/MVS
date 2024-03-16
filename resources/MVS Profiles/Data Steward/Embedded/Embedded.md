@@ -8,7 +8,7 @@ tags:
 
 # Minimum Viable Skills for **Data Steward Embedded**
 
-Embedded Data Stewards are directly involved in research teams and offer support to plan and implement FAIR and CARE principles into  data sharing practices, meeting needs of researchers as they arise, and working with others to ensure the long-term preservation and reusability of research outputs. 
+Embedded Data Stewards are directly involved in research teams and offer support to plan and implement FAIR and CARE principles into  data sharing practices, meeting needs of researchers as they arise, and working with others to ensure the long-term preservation and reusability of research outputs.
 
 **Associated function titles**: 
 
