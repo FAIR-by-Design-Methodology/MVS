@@ -19,6 +19,9 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - definitions.md
+  - markdown_include.include:
+      base_path: .
+  - md_in_html
 plugins:
   - tags
   - search
@@ -66,3 +69,5 @@ citation:
   - thesecondkeyword
   - "a third keyword"
   repository: "https://github.com/citation-file-format/my-research-software"
+signposting:
+  cffUrl: https://github.com/FAIR-by-Design-Methodology/templates/blob/main/CITATION.cff
