@@ -75,28 +75,28 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-+ [What is a Civil Servant?](https://www.civilservant.org.uk/information-definitions.html) (website)
++ [@noauthor_uk_nodate]
 
-+ [Digital, Data and Technology Profession Capability Framework](https://www.gov.uk/government/publications/civil-service-competency-framework) (website, last update 2018)
++ [@noauthor_civil_2018]
 
 + [@guerin2021finding]
 
-+ Salome Scholtens, Petronella Anbeek, Jasmin Böhmer, Mirjam Brullemans-Spansier, Marije van der Geest, Mijke Jetten, Christine Staiger, Inge Slouwerhof, & Celia W G van Gelder. (2019). [Life sciences data steward function matrix (V1.1)](https://doi.org/10.5281/zenodo.2561723). Zenodo. 
++ [@scholtens_life_2019]
 
-+ Angus Whyte, Jerry de Vries, Rahul Thorat, Eileen Kuehn, Gergely Sipos, Valentino Cavalli, Vasso Kalaitzi, Kevin Ashley (2028). [EOSCpilot FAIR4S (Skills and Capability Framework)](https://eoscpilot.eu/sites/default/files/eoscpilot-d7.3.pdf)
++ [@eoscpilot_2018]
 
-+ C. Sharff et al. (2020). [Skills Expander: Upskill civil servants now to serve citizens better in a digital age](https://www.pwc.lu/en/upskilling/docs/pwc-skills-expander-civil-servants.pdf)
++ [@luxembourg_skills_nodate]
 
-+ OECD (2017), [Skills for a High Performing Civil Service](https://doi.org/10.1787/9789264280724-en), OECD Public Governance Reviews, OECD Publishing, Paris
++ [@oecd_skills_2017]
          
-+ Working Group Report on AI Capacity Building. 2022. [Artificial Intelligence and Digital Transformation Competencies for Civil Servants](https://www.broadbandcommission.org/wp-content/uploads/2022/09/Artificial-Intelligence-and-Digital-Transformation-Competencies-for-Civil-Servants.pdf)
++ [@artificial_2022]
 
-+ Zsóka Magyar. 2022. [What knowledge is essential for the future civil servants?](http://real.mtak.hu/147567/1/2732-2688-article-p79.pdf)
++ [@magyar2022knowledge]
 
-+ UK Government Office for Science. 2013. [The future of the Civil Service: Making the most of scientists and engineers in government](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/283200/13-594-review-science-engineering-in-civil-service.pdf)
++ [@noauthor_future_nodate] 
 
-+ Kragh, Gitte, & Nielsen, Kristian H. (2022). [TIME4CS WP4 Mapping of citizen science training resources](https://doi.org/10.5281/zenodo.6840274) (Version v1) [Data set]. Zenodo. 
++ [@kragh_time4cs_2022]
 
-+ Yahong Zhang, Robert Lee & Kaifeng Yang (2012) [Knowledge and Skills for Policy Making: Stories from Local Public Managers in Florida](https://doi.org/10.1080/15236803.2012.12001677), Journal of Public Affairs Education, 18:1, 183-208, DOI: 10.1080/15236803.2012.12001677
++ [@doi:10.1080/15236803.2012.12001677]
 
-+ HM Government. 2018. [Success profiles - civil service behaviours](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/717275/CS_Behaviours_2018.pdf)
++ [@wilde_success_nodate]
