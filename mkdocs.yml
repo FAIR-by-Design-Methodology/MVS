@@ -10,7 +10,7 @@ theme:
     - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
-markdown_extensions: 
+markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - footnotes
@@ -19,6 +19,9 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - definitions.md
+  - markdown_include.include:
+      base_path: .
+  - md_in_html
 plugins:
   - tags
   - search
@@ -62,7 +65,9 @@ citation:
   license-url: "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
   type: generic
   keywords:
-  - thefirstkeyword
-  - thesecondkeyword
-  - "a third keyword"
+    - thefirstkeyword
+    - thesecondkeyword
+    - "a third keyword"
   repository: "https://github.com/citation-file-format/my-research-software"
+signposting:
+  cffUrl: https://raw.githubusercontent.com/FAIR-by-Design-Methodology/MVS/main/CITATION.cff
