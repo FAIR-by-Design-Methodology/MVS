@@ -89,25 +89,5 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-+ [@eoscpilot_2018]
-
-+ [@d71_2017]
-
-+ [@badolato_passport_2021]
-
-+ [@doi/10.2777/59065]
-
-+ [@doi/10.2777/121253]
- 
-+ [@gatto_lgatto2017_09_25_openscience_epfl_2017]
-
-+ [@janicko_skills_2022]
-
-+ [@LERU2018]
-
-+ [@norway2021nor]
-
-+ [@demchenko2016edison]
-
-+ [@cuadrado2020data]
+[@eoscpilot_2018], [@d71_2017], [@badolato_passport_2021], [@doi/10.2777/59065], [@doi/10.2777/121253], [@gatto_lgatto2017_09_25_openscience_epfl_2017], [@janicko_skills_2022], [@LERU2018], [@norway2021nor], [@demchenko2016edison], [@cuadrado2020data]
 

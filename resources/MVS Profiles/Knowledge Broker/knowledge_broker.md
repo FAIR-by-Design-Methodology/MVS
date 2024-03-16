@@ -99,24 +99,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-+ [@Jessani2016]
-
-+ [@doi:10.1080/08941920.2017.1331484]
-
-+ [@Duncan2020]
-
-+ [@Gluckman2021]
-
-+ [@eoscpilot_2018]
-
-+ [@Conklin2013]
-
-+ [@RfII2019]
-
-+ [@peng_scientific_2016]
-
-+ [@Topp2018]
-
-+ [@doi:10.1080/15236803.2012.12001677]
-
-+ [@community_turing_2023]
+[@Jessani2016], [@doi:10.1080/08941920.2017.1331484], [@Duncan2020], [@Gluckman2021], [@eoscpilot_2018], [@Conklin2013], [@RfII2019], [@peng_scientific_2016], [@Topp2018], [@doi:10.1080/15236803.2012.12001677], [@community_turing_2023]

@@ -93,26 +93,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-+ [@nykyri2021open]
-
-+ [@demchenko_d73_2021]
-
-+ [@doi/10.2777/59065]
-
-+ [@european2018innovation]
-
-+ [@noauthor_european_2018]
-
-+ [@group_eosc_2021]
-
-+ [@oecd_skills_2016]
-
-+ [@prandner_identifying_2023]
-
-+ [@noauthor_competency_nodate]
-
-+ [@universita_milano_bicocca_executive_nodate]
-
-+ [@verhulst_wanted_2023]
-
-+ [@wildgaard_national_2020]
+[@nykyri2021open], [@demchenko_d73_2021], [@doi/10.2777/59065], [@european2018innovation], [@noauthor_european_2018], [@group_eosc_2021], [@oecd_skills_2016], [@prandner_identifying_2023], [@noauthor_competency_nodate], [@universita_milano_bicocca_executive_nodate], [@verhulst_wanted_2023], [@wildgaard_national_2020]
