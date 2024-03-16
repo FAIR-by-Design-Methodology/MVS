@@ -2,3 +2,4 @@
 .obsidian/
 venv/
 tmp/
+.DS_Store
