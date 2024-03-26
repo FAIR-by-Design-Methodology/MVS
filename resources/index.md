@@ -36,7 +36,7 @@ accessCost: "N"
 expertiseLevel: "beginner"
 hide:
   - navigation
-template: key.html
+template: signposting.html
 ---
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
