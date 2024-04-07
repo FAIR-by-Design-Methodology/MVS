@@ -1,40 +1,44 @@
-name: Update signposting information
+name: Signposting Workflow
 on:
   workflow_dispatch:
   workflow_call:
 jobs:
-  override_variables:
-    name: Override variables
+  signposting:
     runs-on: ubuntu-22.04
     steps:
-      - name: Get pages URL and CITATION.cff path
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          cff_path="https://raw.githubusercontent.com/$GITHUB_REPOSITORY/$GITHUB_REF_NAME/CITATION.cff"
-          echo "CFF_URL=$cff_path" >> $GITHUB_ENV
-
-      - name: Checkout repository
+      - name: Check out a copy of the repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
           ref: main
 
+      - name: Extract information
+        uses: korvoj/signposting@1.0.0
+        with:
+          default-profile-discovered-items: 'https://raw.githubusercontent.com/FAIR-by-Design-Methodology/MVS/main/resources/MVS%20Template/template.md'
+          github-pages-url: 'https://fair-by-design-methodology.github.io/MVS/latest/'
+
+      - name: Get linkset.json path
+        run: |
+          linkset_path="https://raw.githubusercontent.com/$GITHUB_REPOSITORY/$GITHUB_REF_NAME/linkset.json"
+          echo "LINKSET_URL=$linkset_path" >> $GITHUB_ENV
+
       - name: Update variables
         uses: mikefarah/yq@v4.34.2
         with:
           cmd: |
-            yq eval -i '.signposting.cffUrl="${{ env.CFF_URL }}"' mkdocs.yml 
-
+            yq eval -i '.signposting_linkset="${{ env.LINKSET_URL }}"' mkdocs.yml 
+  
       - name: Check for changes
         run: |
           test -z "$(git status --porcelain)" || echo "changes=true" >> $GITHUB_ENV
 
-      - name: Commit updated mkdocs.yml file
+      - name: Commit and push
         if: env.changes == 'true'
+        id: commit
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add mkdocs.yml
-          git commit -m "Automated version update of mkdocs.yml" || true
+          git add .
+          git commit -m "Automated update of linkset information" || true
           git push

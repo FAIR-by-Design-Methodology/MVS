@@ -67,5 +67,3 @@ citation:
     - thesecondkeyword
     - "a third keyword"
   repository: "https://github.com/citation-file-format/my-research-software"
-signposting:
-  cffUrl: https://raw.githubusercontent.com/FAIR-by-Design-Methodology/MVS/main/CITATION.cff
