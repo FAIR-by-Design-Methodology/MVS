@@ -68,3 +68,11 @@ citation:
     - "a third keyword"
   repository: "https://github.com/citation-file-format/my-research-software"
 signposting_linkset: https://raw.githubusercontent.com/FAIR-by-Design-Methodology/MVS/main/linkset.json
+signposting_exclusions:
+  - 'venv/**'
+  - 'external-resources/**'
+  - 'Feedback/**'
+  - 'index.md'
+  - '02 process_description.md'
+  - '03 glossary.md'
+  - 'MVS Template/template.md'
