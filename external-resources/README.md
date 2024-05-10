@@ -1,0 +1,1 @@
+Location for additional resources not to be published as part of the Git book, but can be edited by the MVS team and version managed.

@@ -1,4 +1,5 @@
 .vscode/
 .obsidian/
-resources/.DS_Store
+venv/
+tmp/
 .DS_Store

@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block site_meta %}
+  {{ super() }}
+  {% if page.meta and page.meta.urlToResource %}
+    <link rel="cite-as" href="{{ page.meta.urlToResource }}">
+    <!-- <link rel="cite-assss" href="{{ config.site_name }}"> -->
+  {% endif %}
+{% endblock %}

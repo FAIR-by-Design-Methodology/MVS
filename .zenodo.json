@@ -1,0 +1,100 @@
+{
+  "creators": [
+    {
+      "affiliation": "UEDIN",
+      "name": "Whyte, Angus",
+      "orcid": "0000-0002-5198-0833"
+    },
+    {
+      "affiliation": "UEDIN",
+      "name": "Green, Dominique",
+      "orcid": "0000-0002-9411-4281"
+    },
+    {
+      "affiliation": "AMU",
+      "name": "Avanço, Karla",
+      "orcid": "0000-0001-8784-7754"
+    },
+    {
+      "affiliation": "GARR",
+      "name": "Di Giorgio, Sara",
+      "orcid": "0000-0001-8962-4183"
+    },
+    {
+      "affiliation": "OPERAS-AMU",
+      "name": "Gingold, Arnaud",
+      "orcid": "0009-0000-0466-5542"
+    },
+    {
+      "affiliation": "UEDIN",
+      "name": "Horton, Laurence",
+      "orcid": "0000-0003-2742-6434"
+    },
+    {
+      "affiliation": "UKIM",
+      "name": "Koteska, Bojana",
+      "orcid": "0000-0001-6118-9044"
+    },
+    {
+      "affiliation": "GRNET",
+      "name": "Kyprianou, Katerina",
+      "orcid": "0000-0001-8616-6105"
+    },
+    {
+      "affiliation": "GRNET",
+      "name": "Prnjat, Ognjen",
+      "orcid": "0009-0002-3042-9011"
+    },
+    {
+      "affiliation": "CSC",
+      "name": "Rauste, Päivi",
+      "orcid": "0000-0001-8315-5259"
+    },
+    {
+      "affiliation": "KU",
+      "name": "Schirru, Luca",
+      "orcid": "0000-0002-8199-6510"
+    },
+    {
+      "affiliation": "CNRS",
+      "name": "Sowinski, Claire",
+      "orcid": "0000-0002-1048-8041"
+    },
+    {
+      "affiliation": "CNRS",
+      "name": "Torres Ramos, Gabriela",
+      "orcid": "0000-0002-8115-0566"
+    },
+    {
+      "affiliation": "TU-DELFT",
+      "name": "van Leersum, Nida",
+      "orcid": "0009-0001-8479-122X"
+    },
+    {
+      "affiliation": "GARR",
+      "name": "Lazzeri, Emma",
+      "orcid": "0000-0003-0506-046X"
+    }
+  ],
+  "description": "The catalogue of Minimum Viable Skillset (MVS) Profiles describes key skills and competences for roles that enable researchers, professionals, and stakeholders to practice Open Science (OS) with the support of the European Open Science Cloud (EOSC). MVS Profiles draw on available skills resources, including competence frameworks, and are proposed as an aid to developing skills through curricula and course design. Each MVS Profile relates the essential skills to the Open Science (OS) practices, activities, and outcomes that may typically be expected of the role concerned.",
+  "keywords": [
+    "MVS Catalogue",
+    "OS Career Profile",
+    "MVS Design Process"
+  ],
+  "license": "CC-BY-4.0",
+  "publication_date": "1970-01-01",
+  "title": "Minimum Viable Skillsets - Catalogue of Open Science Career Profiles",
+  "version": "1.0.0",
+  "upload_type": "lesson",
+  "communities": [
+    {
+      "identifier": "skills4eosc"
+    }
+  ],
+  "grants": [
+    {
+      "id": "10.13039/501100000780::101058527"
+    }
+  ]
+}

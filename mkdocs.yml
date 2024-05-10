@@ -1,4 +1,4 @@
-site_name: FAIR-by-Design Template Repository
+site_name: Minimum Viable Skillsets (MVS)
 docs_dir: resources
 theme:
   name: material
@@ -10,28 +10,39 @@ theme:
     - navigation.footer
     - search.highlight
     - search.suggest
+    - navigation.tabs
+    - navigation.tabs.sticky
 markdown_extensions:
+  - pymdownx.tabbed:
+      alternate_style: true
+  - footnotes
+  - abbr
+  - attr_list
+  - pymdownx.snippets:
+      auto_append:
+        - definitions.md
   - markdown_include.include:
       base_path: .
   - md_in_html
 plugins:
   - search
   - tags
+  - search
+  - macros:
+      module_name: extra/macros
   - mike:
       version_selector: true
+  - bibtex:
+      bib_file: "references.bib"
   - exclude:
       glob:
         - "*Activities/*"
-        - "*Assessment/*"
         - "*Templates/*"
         - "*Feedback/*"
         - "*.tmp"
         - "*.pdf"
         - "*.gz"
         - "*.pptx"
-        - "*_plan.md"
-        - "*_facilitator_guide.md"
-        - "*syllabus.md"
       regex:
         - '.*\.(tmp|bin|tar)$'
 extra:
@@ -55,9 +66,18 @@ citation:
   license-url: "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
   type: generic
   keywords:
-  - thefirstkeyword
-  - thesecondkeyword
-  - "a third keyword"
+    - thefirstkeyword
+    - thesecondkeyword
+    - "a third keyword"
   repository: "https://github.com/citation-file-format/my-research-software"
-signposting:
-  cffUrl: https://github.com/FAIR-by-Design-Methodology/templates/blob/main/CITATION.cff
+signposting_linkset: https://raw.githubusercontent.com/FAIR-by-Design-Methodology/MVS/main/linkset.json
+signposting_default_profile: "https://zenodo.org/records/10977747" # update with an URL towards the profile used for the Markdown pages
+# signposting_gitbook_url: https://gitbook.example.com # leave commented if using GitHub Pages with the default domain
+signposting_exclusions:
+  - 'venv/**'
+  - 'external-resources/**'
+  - 'Feedback/**'
+  - 'index.md'
+  - '02 process_description.md'
+  - '03 glossary.md'
+  - 'MVS Template/template.md'
