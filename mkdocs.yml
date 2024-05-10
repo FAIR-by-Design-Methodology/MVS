@@ -8,6 +8,8 @@ theme:
   custom_dir: resources/overrides
   features:
     - navigation.footer
+    - search.highlight
+    - search.suggest
     - navigation.tabs
     - navigation.tabs.sticky
 markdown_extensions:
@@ -23,6 +25,7 @@ markdown_extensions:
       base_path: .
   - md_in_html
 plugins:
+  - search
   - tags
   - search
   - macros:
