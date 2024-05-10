@@ -27,7 +27,6 @@ markdown_extensions:
 plugins:
   - search
   - tags
-  - search
   - macros:
       module_name: extra/macros
   - mike:
