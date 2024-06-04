@@ -26,7 +26,7 @@ abstract: "The catalogue of Minimum Viable Skillset (MVS) Profiles describes key
 primaryLanguage: "EN"
 license: "http://creativecommons.org/licenses/by/4.0/"
 versionDate: "2024-02-16"
-urlToResource: "https://doi.org/10.5072/zenodo.1234567"
+urlToResource: "https://doi.org/10.5281/zenodo.11469300"
 resourceURLType: "URL"
 targetGroup: "learning materials developers"
 learningResourceType: "catalogue"
@@ -91,7 +91,7 @@ Angus Whyte, Dominique Green, Karla Avanço, Sara Di Giorgio, Arnaud Gingold, La
 
 ## DOI
 
-[https://doi.org/10.5072/zenodo.1234567](https://doi.org/10.5072/zenodo.1234567)
+[https://doi.org/10.5281/zenodo.11469300](https://doi.org/10.5281/zenodo.11469300)
 
 ## Accessibility Mission
 
