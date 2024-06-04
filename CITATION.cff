@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use these materials, please cite as below:"
+message: 'If you use these materials, please cite as below:'
 authors:
   - family-names: Whyte
     given-names: Angus
@@ -61,15 +61,23 @@ authors:
     given-names: Emma
     orcid: https://orcid.org/0000-0003-0506-046X
     affiliation: GARR
-title: "Minimum Viable Skillsets - Catalogue of Open Science Career Profiles"
-abstract: "The catalogue of Minimum Viable Skillset (MVS) Profiles describes key skills and competences for roles that enable researchers, professionals, and stakeholders to practice Open Science (OS) with the support of the European Open Science Cloud (EOSC). MVS Profiles draw on available skills resources, including competence frameworks, and are proposed as an aid to developing skills through curricula and course design. Each MVS Profile relates the essential skills to the Open Science (OS) practices, activities, and outcomes that may typically be expected of the role concerned."
+title: Minimum Viable Skillsets - Catalogue of Open Science Career Profiles
+abstract: >-
+  The catalogue of Minimum Viable Skillset (MVS) Profiles describes key skills
+  and competences for roles that enable researchers, professionals, and
+  stakeholders to practice Open Science (OS) with the support of the European
+  Open Science Cloud (EOSC). MVS Profiles draw on available skills resources,
+  including competence frameworks, and are proposed as an aid to developing
+  skills through curricula and course design. Each MVS Profile relates the
+  essential skills to the Open Science (OS) practices, activities, and outcomes
+  that may typically be expected of the role concerned.
 version: 1.0.0
-doi: 10.5070/zenodo.123
-date-released: "2024-06-04"
+doi: 10.5281/zenodo.11469300
+date-released: '2024-06-04'
 license: CC-BY-4.0
-license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
+license-url: https://creativecommons.org/licenses/by/4.0/legalcode.txt
 keywords:
-  - "MVS Catalogue"
-  - "OS Career Profile"
-  - "MVS Design Process"
-repository: "https://github.com/FAIR-by-Design-Methodology/MVS"
+  - MVS Catalogue
+  - OS Career Profile
+  - MVS Design Process
+repository: https://github.com/FAIR-by-Design-Methodology/MVS
