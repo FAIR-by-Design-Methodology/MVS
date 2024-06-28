@@ -137,3 +137,4 @@ signposting_exclusions:
   - '02 process_description.md'
   - '03 glossary.md'
   - 'MVS Template/template.md'
+  - '04 how_to_contribute.md'
