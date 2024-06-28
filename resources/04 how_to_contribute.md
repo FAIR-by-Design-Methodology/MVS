@@ -26,6 +26,7 @@ Anyone that goes to the MVS repository can use the Issues feature to provide com
 ![creating a new issue](../attachments/new_issue.png)
 
 3. Provide a Title and add a description of the issue
+  * you can even provide an attachment with marked changes for given profile or a brand new profile to be added
 4. Click on "submit new issue"
 5. The repository managers will be automatically notified that a new issue has been created
 
@@ -67,6 +68,12 @@ The repository owner can review the pull request and decide to accept or reject 
 
 You can [reach out to the MVS team directly via email](mailto:a.whyte@ed.ac.uk) and start a discussion regarding the MVS profiles.
 
-For an example, use the [template for a Minimum Viable Skillset](https://zenodo.org/records/10977747) to create a new profile and send it to the MVS team for further analysis and official publication.
+## Use the template to submit proposals for new profiles
 
+You are encouraged to propose new MVS profiles based on the MVS template. For these purposes you can
+
+* use the [template for a Minimum Viable Skillset](https://zenodo.org/records/10977747) to create a new profile 
+* or [use the MD format for the template available in this repository](./MVS%20Template/template.md). 
+
+Once you are finished with the definition of the profile send it to the MVS team for further analysis and official publication using the GitHub issues or via direct email contact.
 
