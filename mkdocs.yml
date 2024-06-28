@@ -126,7 +126,7 @@ citation:
     - OS Career Profile
     - MVS Design Process
   repository: "https://github.com/FAIR-by-Design-Methodology/MVS"
-signposting_linkset: https://raw.githubusercontent.com/FAIR-by-Design-Methodology/MVS/1.0.0/linkset.json
+signposting_linkset: https://raw.githubusercontent.com/FAIR-by-Design-Methodology/MVS/main/linkset.json
 signposting_default_profile: "https://zenodo.org/records/10977747" # update with an URL towards the profile used for the Markdown pages
 # signposting_gitbook_url: https://gitbook.example.com # leave commented if using GitHub Pages with the default domain
 signposting_exclusions:
