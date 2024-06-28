@@ -75,5 +75,5 @@ You are encouraged to propose new MVS profiles based on the MVS template. For th
 * use the [template for a Minimum Viable Skillset](https://zenodo.org/records/10977747) to create a new profile 
 * or [use the MD format for the template available in this repository](./MVS%20Template/template.md). 
 
-Once you are finished with the definition of the profile send it to the MVS team for further analysis and official publication using the GitHub issues or via direct email contact.
+Once you are finished with the definition of the profile send it to the MVS team for further analysis and official publication using direct email contact or by creating a new GitHub issue.
 
