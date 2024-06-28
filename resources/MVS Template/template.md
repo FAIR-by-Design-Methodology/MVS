@@ -9,6 +9,8 @@ tags:
     - last modified on Feb 9th, 2024
 ---
 
+This template can also be found on Zenodo as [Template for a Minimum Viable Skillset](https://zenodo.org/records/10977747).
+
 # Minimum Viable Skills for **Role name**
 
 This is the **title** of the MVS and includes a 2-5 word role name, that performs activities aiming for Open Science outcomes that are within the overall mission described in the Horizon Europe Guidelines or the UNESCO Recommendation for Open Science, or similar national or regional-level policy.
