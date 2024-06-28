@@ -2,6 +2,8 @@
 title: "How to contribute"
 tags: 
     - co-creation
+hide:
+  - navigation
 ---
 
 # How to contribute to the development of the MVS profiles
