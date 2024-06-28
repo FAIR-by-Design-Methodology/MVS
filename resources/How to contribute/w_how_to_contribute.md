@@ -10,7 +10,9 @@ The MVS profiles are built using a GitHub open collaboration environment that ca
 
 If you would like to contribute with comments, suggestion or maybe concrete additions/changes to the MVS profiles please choose one of the contribution methods described below:
 
-## GitHub Issues
+## Contribution methods using GitHub tools
+
+### GitHub Issues
 
 Anyone can browse and view the content of the [MVS repository](https://github.com/FAIR-by-Design-Methodology/MVS). This also enables interested external parties to reuse the MVS materials, but also analyse them in great detail. 
 
@@ -27,7 +29,7 @@ Anyone that goes to the MVS repository can use the Issues feature to provide com
 
 ![filling out an issue](../attachments/issue_content.png)
 
-## GitHub Discussions
+### GitHub Discussions
 
 If you don't have any specific suggestions but would like to get in touch with the MVS team and discuss the MVS catalogue then you can use the Discussions feature:
 
@@ -42,5 +44,27 @@ If you don't have any specific suggestions but would like to get in touch with t
 5. The repository managers will be automatically notified that a new discussion message has been created
 
 ![creating a new discussion](../attachments/new_disc.png)
+
+### Contributing through forking
+
+The most "advanced" way of co-creation (for GitHub beginners) is to use forking to contribute to a public project. This action can be done by any external party that does not have direct write access to the repository (is not added as a contributor).
+
+For these purposes, you need to use the "fork and pull workflow": 
+
+1. Create a fork of the [MVS repository](https://github.com/FAIR-by-Design-Methodology/MVS)
+2. Clone the fork so that the content is available locally
+3. Create a branch where all changes will be stored
+4. Make and push changes to the branch
+    * make changes directly in the MVS profiles
+5. Make a pull request which will propose the made changes to the main MVS repository
+
+The repository owner can review the pull request and decide to accept or reject it, or maybe ask for more information. Even if the owner decided not to accept the changes in the main repo, the fork will continue to exist separately and be visible to anyone browsing GitHub.
+
+
+## Contributing via a direct contact with the MVS team
+
+You can [reach out to the MVS team directly via email](mailto:a.whyte@ed.ac.uk) and start a discussion regarding the MVS profiles.
+
+For an example, use the [template for a Minimum Viable Skillset](https://zenodo.org/records/10977747) to create a new profile and send it to the MVS team for further analysis and official publication.
 
 
