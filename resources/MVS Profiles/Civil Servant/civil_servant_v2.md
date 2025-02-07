@@ -146,7 +146,7 @@ OS skills terms match the essential skills in this MVS to competence definitions
 - [Demonstrate willingness to learn](http://data.europa.eu/esco/skill/9bf266a6-188b-4d17-a22f-2f266d76832b)
 
 
-### [ResearchComp Skills]((https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en))
+### [ResearchComp Skills](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en)
 - Manage research data
 - Promote open access publishing
 - Operate open source software
