@@ -1,0 +1,210 @@
+---
+title: "Civil Servant MVS"
+author: "Skills4EOSC T2.1"
+tags: 
+    - Minimum Viable Skillset
+    - Civil Servant
+---
+
+# Minimum Viable Skills for **Civil Servant**
+
+
+## Introduction: Open Science mission for this role
+
+The Minimum Viable Skillset (MVS) sets out to describe a shared framework for recognizing the competencies required for civil servants engaged in advancing Open Science. Civil servants are typically employed by Ministers in government departments, where they perform a wide range of administrative, regulatory, or policy-related functions. Civil servants execute the Executive power of the State and play a critical role in ensuring that government operations run smoothly. 
+
+Although the nature of civil service employment may vary by country and specific role, common positions include clerks, analysts, policy advisors, inspectors, and managers.
+
+Civil servants act as central figures in the execution of government policies and administration. They are responsible for implementing and upholding government regulations, ensuring that public sector bodies operate according to established frameworks and guidelines. Civil servants also play a role in promoting transparency and accountability, particularly in the context of Open Science, by facilitating the appropriate access to and re-use of scientific data for public benefit. 
+
+They ensure that administrative processes are neutral, non-partisan, and aligned with ethical standards.
+
+---
+## Civil Servant
+
+### Associated function titles:
+- Civil Servant
+- Public Policy Advisor
+- Government Analyst
+- Administrative Officer
+- Policy Coordinator
+- Regulatory Specialist
+
+### Essential Skills and Competences
+- Good understanding of OS principles and practices, open data, open research, and open access
+- Developing policies and guidelines that promote OS
+- Solid understanding of OS research ethics
+- Being familiar with technology and tools used to support OS practices
+- Managing projects related to OS
+- Providing training and education to researchers, policymakers, and public citizens about OS practices
+- Evaluating the impact of OS practices and making recommendations for future improvement
+- Good understanding of (personal and non-personal) data management, including data storing, analysis, and sharing according to the FAIR and OS principles
+- Good understanding of the regulatory framework (national, regional, and international) concerning intellectual property rights (e.g., copyrights and trade secrets) and other non-personal data (e.g., research data and data held by Public Sector bodies). As an example, in the regional level, this may include, but not be limited to, the Open Data Directive, the Data Governance Act, and the Directives and Regulations concerning Copyrights and Trade Secrets in the EU.
+
+### Soft/Transversal Skills
+- Communication
+- Collaboration
+- Leadership
+- Citizen Engagement skills
+- Negotiation and diplomacy
+- Innovative thinking
+- Strategic and analytical skills
+- Teamwork
+- Adaptability to changes
+
+## Background Assumptions
+
+### Main Activities:
+- Clarify and shape OS strategy and priorities for the national and international interest
+- Involve and engage the right stakeholders and partners in making recommendations or decisions on OS
+- Shape strategies and plans which help put into practice OS (give a long-term direction)
+- Develop the capabilities in OS of the staff
+- Engage in the open research process
+- Ensure compliance with ethical, legal, and regulatory criteria
+- Communicate / actively promote OS
+- Facilitate the engagement of different stakeholders in co-creation actions
+
+### Contributes to Open Science Outcomes
+- Working towards making research more transparent, accessible, and reproducible, as well as fostering collaboration and knowledge sharing within the scientific community and beyond
+- Making scientific knowledge and research results openly available, to ensure that taxpayers' money is being used effectively and efficiently, and that the benefits of research are being shared widely
+- Working to implement policies that support open access to research publications and data, encouraging researchers to make their work openly available
+- Facilitating collaboration and knowledge-sharing between researchers, government agencies, and the public
+- Promoting open science practices through training and education, and engaging with stakeholders to understand their needs and priorities
+- Ensuring the appropriate re-use of data produced and shared by research actions in decision-making contexts
+
+## Further Information - Open Science Skills Terms
+
+OS skills terms match the essential skills in this MVS to competence definitions from relevant taxonomies. The selected terms offer further information to help identify the learning objectives for skills development. Sources: 
+- [European Skills, Competences and Occupations ontology (ESCO)](https://esco.ec.europa.eu/en/classification/skill_main)
+- [ResearchComp](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en)
+- [terms4FAIRskills](https://obofoundry.org/ontology/t4fs.html)
+- [Center Scientific Collaboration and Community Engagement](https://www.cscce.org/resources/glossary/)
+
+
+### ESCO Research Skills
+
+- [Manage open publications](http://data.europa.eu/esco/skill/da930e2f-6047-4616-a598-bba8ecef3039)
+- [Manage findable accessible interoperable and reusable data](http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11)
+- [Operate open source software](http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6)
+- [Demonstrate disciplinary expertise](http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db)
+- [Increase the impact of science on policy and society](http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728)
+- [Apply research ethics and scientific integrity principles in research activities](http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8)
+- [Perform project management](http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68)
+- [Mentor individuals](http://data.europa.eu/esco/skill/a584a638-a2c0-4b3c-bdf3-a64f87225be9)
+- [Teach in academic or vocational contexts](http://data.europa.eu/esco/skill/4cd85845-f31c-4306-994d-e12d45114d83)
+- [Promote the transfer of knowledge](http://data.europa.eu/esco/skill/988f4ac3-a37c-4b0a-a40f-4e0e56b5919e)
+- [Synthetise information](http://data.europa.eu/esco/skill/f715be1d-5fc4-49d3-82a5-0b8090d12849)
+- [Manage research data](http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d)
+- [Manage intellectual property rights](http://data.europa.eu/esco/skill/518dc04d-092d-4fa1-bd82-88b7a9278ef7)
+- [Interact professionally in research and professional environments](http://data.europa.eu/esco/skill/20a8fe89-d4eb-4698-8521-8881c13377e0)
+- [Promote the participation of citizens in scientific and research activities](http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7)
+
+
+### ESCO Transversal Skills
+
+- [Participate actively in civic life](http://data.europa.eu/esco/skill/7d9bace0-63d0-4848-ac87-350a98082c12)
+- [Exercise rights and responsibilities](http://data.europa.eu/esco/skill/f4bcdb75-df28-441d-a52b-9730904f36a1)
+- [Operate digital hardware](http://data.europa.eu/esco/skill/6b2f8802-0cbf-436e-a37f-ca55ede41bbc)
+- [Manage time](http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8)
+- [Plan](http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a)
+- [Instruct others](http://data.europa.eu/esco/skill/699e7c26-6502-4e78-a823-3656ff5a5b8b)
+- [Communicate with a non-scientific audience](http://data.europa.eu/esco/skill/bf4d884f-c848-402a-b130-69c266b04164)
+- [Comply with regulations](http://data.europa.eu/esco/skill/b618584f-6bdf-4d8f-89a7-f28c2c95afc2)
+- [Moderate a discussion](http://data.europa.eu/esco/skill/5b46f572-7ced-4efd-b270-a81a164d521c)
+- [Address an audience](http://data.europa.eu/esco/skill/609a8ac1-9d29-4237-9886-596dbbe7ca8a)
+- [Build networks](http://data.europa.eu/esco/skill/bf983f2a-e941-4646-811d-cc81060cb53f)
+- [Use communication and collaboration software](http://data.europa.eu/esco/skill/b080a008-a35d-4bd0-92e9-edf3773bb2b7)
+- [Demonstrate intercultural experience](http://data.europa.eu/esco/skill/c10d5d87-36cf-42f5-8a12-e560fb5f4af8)
+- [Work in teams](http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0)
+- [Show initiative](http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f)
+- [Advise others](http://data.europa.eu/esco/skill/045f71e6-0699-4169-8a54-9c6b96f3174d)
+- [Lead others](http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207)
+- [Delegate responsibilities](http://data.europa.eu/esco/skill/b00e948c-19be-4951-8cff-60f88f1046e9)
+- [Make decisions](http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47)
+- [Motivate others](http://data.europa.eu/esco/skill/e2d44a9b-f28c-489e-9861-b654b5ded507)
+- [Assume responsibility](http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1)
+- [Show determination](http://data.europa.eu/esco/skill/19ba11f3-9c99-41fd-a7c9-f77e6a026186)
+- [Show confidence](http://data.europa.eu/esco/skill/669b75d8-671c-4a1c-8e0b-6466c513c27d)
+- [Time management](http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8)
+- [Show commitment](http://data.europa.eu/esco/skill/1fce1197-3a5b-45b7-8797-575cd3b57a01)
+- [Resolve conflicts](http://data.europa.eu/esco/skill/96de2e86-e287-41f2-88ab-15a2343afc6f)
+- [Show empathy](http://data.europa.eu/esco/skill/77b636e8-fab3-41a8-8022-1e0a354059dc)
+- [Negotiate compromises](http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74)
+- [Demonstrate intercultural competence](http://data.europa.eu/esco/skill/c10d5d87-36cf-42f5-8a12-e560fb5f4af8)
+- [Think creatively](http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41)
+- [Respect the diversity of cultural values and norms](http://data.europa.eu/esco/skill/5ca953f7-541d-4f67-bc55-7721348366cf)
+- [Manage frustration](http://data.europa.eu/esco/skill/1d1fedcb-4995-44ac-90f5-f31a157ce512)
+- [Approach challenges positively](http://data.europa.eu/esco/skill/469748ce-051a-407e-9099-0c9415ac2705)
+- [Think innovatively](http://data.europa.eu/esco/skill/c2a0c52c-0b4b-4180-a918-92650ea3b458)
+- [Keep an open mind](http://data.europa.eu/esco/skill/fa46a48d-9cb9-422d-afab-1047654dbcdd)
+- [Demonstrate curiosity](http://data.europa.eu/esco/skill/429062f1-a958-43ea-83dd-4e1af078c156)
+- [Identify problems](http://data.europa.eu/esco/skill/a628d2d1-f40a-4c37-a357-2801726f2996)
+- [Think analytically](http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137)
+- [Solve problems](http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869)
+- [Build team spirit](http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3)
+- [Adapt to change](http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4)
+- [Demonstrate willingness to learn](http://data.europa.eu/esco/skill/9bf266a6-188b-4d17-a22f-2f266d76832b)
+
+
+### [ResearchComp Skills]((https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en))
+- Manage research data
+- Promote open access publishing
+- Operate open source software
+- Mobilise resources
+- Creativity
+- Communicate to the broad public
+- Promote the transfer of knowledge
+- Teach in academic or vocational contexts
+- Interact professionally
+- Work in teams
+- Negotiate
+- Promote citizen science
+- Analytical thinking
+- Strategic thinking
+
+### Terms4FAIRskills
+
+- [Open access publishing](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000193?lang=en)
+- [Data sharing and publication](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000247?lang=en)
+- [Assessment on FAIR data criteria](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000252?lang=en)
+- [Information governance](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000331?lang=en)
+- [Data policy](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000333)
+- [Research governance](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000186?lang=en)
+- [Ethical application of patents](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000042?lang=en)
+- [Depositing in repository](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000298?lang=en)
+- [Persistent identifiers management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000492?lang=en)
+- [Resource management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000353?lang=en)
+- [Training in open and fair methods](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000259?lang=en)
+- [Mentoring on open and fair methods](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000457?lang=en)
+- [Data sharing and publication](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000247?lang=en)
+- [Data governance](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000458?lang=en)
+- [Information security](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000107?lang=en)
+
+### CSCCE Skills
+
+- [Advocacy](https://www.cscce.org/glossary/advocacy/)
+- [Consultation and listening](https://www.cscce.org/glossary/consultation-and-listening/)
+- [Content creation and curation](https://www.cscce.org/glossary/content-creation-and-curation/)
+- [Content planning](https://www.cscce.org/glossary/content-planning/)
+- [Landscape analysis](https://www.cscce.org/glossary/analysis/)
+- [Proposal development](https://www.cscce.org/glossary/proposal-development/)
+- [Technical support](https://www.cscce.org/glossary/technical-support/)
+- [Financial management](https://www.cscce.org/glossary/financial-management/)
+- [Operational planning and implementation](https://www.cscce.org/glossary/operational-planning-and-implementation/)
+- [Record-keeping](https://www.cscce.org/glossary/record-keeping/)
+- [Teaching and training](https://www.cscce.org/glossary/teaching-and-training/)
+- [Speaking and presenting](https://www.cscce.org/glossary/speaking-and-presenting/)
+- [Evaluation and assessment](https://www.cscce.org/glossary/evaluation-and-assessment/)
+- [Media relations](https://www.cscce.org/glossary/media-relations/)
+- [Collaboration](https://www.cscce.org/glossary/collaboration/)
+- [Meeting facilitation](https://www.cscce.org/glossary/meeting-facilitation/)
+- [Engagement](https://www.cscce.org/glossary/engagement/)
+- [Knowledge brokering](https://www.cscce.org/glossary/knowledge-brokering/)
+- [Outreach](https://www.cscce.org/glossary/outreach/)
+
+## Related MVS
+Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
+
+## Reference sources
+[@civil_servant_what] [@gov_framework] [@guerin2020finding] [@scholtens2019lifesciences] [@whyte2028fair4s] [@sharff2020skills] [@oecd2017skills] [@workinggroup2022ai] [@magyar2022knowledge] [@govscience2013future] [@kragh2022time4cs] [@zhang2012knowledge] [@gov2018success] [@whyte2017deliverable] [@whyte2018deliverable]
+
