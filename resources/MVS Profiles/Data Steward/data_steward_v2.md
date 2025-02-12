@@ -65,7 +65,7 @@ In the EOSC specifically, in their roles as practitioners and champions of Open 
 - Research data and other digital objects are effectively managed to ensure their suitability for archiving and sharing, and advancement of research methods appropriate to the discipline(s).
 
 
-**Further information -**
+## Further information -
 
 **Contributors:** **Nida van Leersum, Päivi Rauste, Bojana Koteska, Laurence Horton,** **Karsten** **Kryger** **Hansen,** **Angus Whyte**
 
