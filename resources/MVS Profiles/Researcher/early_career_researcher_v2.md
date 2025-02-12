@@ -94,7 +94,7 @@ Open Science activities are apparent in all aspects of the early career research
 
 ### Contributes to which Open Science outcomes?
 
-By adopting the Open Science (OS) approach in their work, the early career researcher ensures[[EM1]](#_msocom_1)  that their research is carried out with a high degree of transparency, collegiality, and research integrity.  Mainly, by adopting OS approaches and practices, the early careers researcher contributes to:
+By adopting the Open Science (OS) approach in their work, the early career researcher ensures that their research is carried out with a high degree of transparency, collegiality, and research integrity.  Mainly, by adopting OS approaches and practices, the early careers researcher contributes to:
 
 - Sharing research input and outputs
 
