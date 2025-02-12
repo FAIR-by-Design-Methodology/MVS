@@ -45,7 +45,7 @@ OS can be facilitated via data sharing, exploring and reusing data and, data pub
 
 - Good understanding of the relevant legal aspects related to research and their field of expertise, and relevant Open Science practices, including, but not limited to: Intellectual Property Rights (eg copyright, patents, and trade secrets) and other Non-Personal Data (eg use of IoT data and research data), Personal Data Protection and Governance (eg processing Personal Data under the current legal framework, and following existing policies on Data Protection), Privacy, and (Open) Licensing rules and frameworks.
 
-- Good understanding of ethical principles (e.g., transparency, diversity, and accountability) and best practices (e.g., avoiding bias in data processing when using data-driven technologies) applicable to their field of expertise, including, but not limited to the general ethical principles, frameworks and codes of conduct applicable to research (e.g., the RRI Framework; the European Code of Conduct for Research Integrity);**[[EM2]](#_msocom_2) **
+- Good understanding of ethical principles (e.g., transparency, diversity, and accountability) and best practices (e.g., avoiding bias in data processing when using data-driven technologies) applicable to their field of expertise, including, but not limited to the general ethical principles, frameworks and codes of conduct applicable to research (e.g., the RRI Framework; the European Code of Conduct for Research Integrity).
 
 - Ability to balance (personal and non-personal) data protection requirements with Open Science/FAIR principles.
 
