@@ -70,154 +70,23 @@ The main objective of the Senior Researcher is to conduct and oversee high quali
 
 ## Further Information - Open Science Skills Terms
 
-OS skills terms match the essential skills in this MVS to competence definitions from relevant taxonomies. Terms are selected to add further information and to aid discovery of this MVS (an extended list is added at the foot of this document). Sources:
-- [European Skills, Competences and Occupations ontology (ESCO)](https://esco.ec.europa.eu/en/classification/skill_main)
-- [ResearchComp](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en)
-- [terms4FAIRskills](https://obofoundry.org/ontology/t4fs.html)
-- [Center Scientific Collaboration and Community Engagement](https://www.cscce.org/resources/glossary/)
+OS skills terms match the essential skills in this MVS to competence definitions from relevant taxonomies. Terms are selected to add further information and to aid discovery of this MVS (an extended list is added at the foot of this document).  Sources: European Skills, Competences and Occupations ontology ([ESCO](https://esco.ec.europa.eu/en/classification/skill_main "https://esco.ec.europa.eu/en/classification/skill_main")), [ResearchComp](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en "https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en"), [terms4FAIRskills](https://obofoundry.org/ontology/t4fs.html "https://obofoundry.org/ontology/t4fs.html"), [Center Scientific Collaboration and Community Engagement](https://www.cscce.org/resources/glossary/ "https://www.cscce.org/resources/glossary/").
 
-### ESCO Research Skills
-- Demonstrate disciplinary expertise
-- Manage findable accessible interoperable and reusable data
-- Manage research data
-- Synthetise information
-- Apply for research funding
-- Mentor individuals
-- Teach in academic or vocational contexts
-- Promote the transfer of knowledge
-- Communicate with a non-scientific audience
-- Increase the impact of science on policy and society
-- Manage intellectual property rights
-- Manage open publications
-- Apply research ethics and scientific integrity principles in research activities
-- Data sharing and publication
-- Promote the participation of citizens in scientific and research activities
-- Perform project management
+**ESCO Research Skills**: Demonstrate disciplinary expertise; Manage findable accessible interoperable and reusable data; Manage research data;  Synthetise information;  Apply for research funding; Mentor individuals; Teach in academic or vocational contexts; Promote the transfer of knowledge; Communicate with a non-scientific audience; Increase the impact of science on policy and society; Manage intellectual property rights; Manage open publications; Apply research ethics and scientific integrity principles in research activities; Data sharing and publication; Promote the participation of citizens in scientific and research activities; Perform project management;
 
-### ESCO Transversal Skills
-- Report facts
-- Manage financial and material resources
-- Show entrepreneurial spirit
-- Advise others
-- Address an audience
-- Instruct others
-- Build networks
-- Organise information, objects and resources
-- Respect confidentiality obligations
-- Moderate a discussion
-- Use communication and collaboration software
-- Critically evaluate information and its sources
-- Think critically
-- Show empathy
-- Lead others
-- Adapt to change
-- Meet commitments
-- Cope with uncertainty
-- Plan
-- Show initiative
-- Assume responsibility
-- Approach challenges positively
-- Make decisions
-- Cope with stress
-- Manage time
-- Manage Frustration
-- Resolve conflicts
-- Negotiate compromises
-- Show commitment
-- Work in teams
-- Build team spirit
-- Demonstrate intercultural competence
-- Keep an open mind
-- Integrate gender dimension in research
-- Show determination
-- Solve problems
-- Think analytically
-- Identify problems
-- Demonstrate trustworthiness
+**ESCO Transversal Skills:**  Report facts; Manage financial and material resources; Show entrepreneurial spirit; Advise others; Address an audience; Instruct others; Build networks; Organise information, objects and resources; Respect confidentiality obligations; Moderate a discussion; Use communication and collaboration software; Critically evaluate information and its sources; Think critically; Show empathy; Lead others; Adapt to change; Meet commitments; Cope with uncertainty; Plan; Show initiative; Assume responsibility; Approach challenges positively; Make decisions; Cope with stress; Manage time; Manage Frustration; Resolve conflicts; Negotiate compromises; Show commitment; Work in teams; Build team spirit; Demonstrate intercultural competence; Keep an open mind; Integrate gender dimension in research; Show determination; Solve problems; Think analytically; Identify problems; Demonstrate trustworthiness.
 
-### ResearchComp
-- Disciplinary expertise
-- Abstract thinking
-- Strategic thinking
-- Write research documents
-- Show entrepreneurial spirit
-- Mobilise resources
-- Promote open innovation
-- Teach in academic or vocational contexts
-- Promote the transfer of knowledge
-- Vocational context
-- Build mentor-mentee relationships
-- Develop networks
-- Work in teams
-- Interact professionally
-- Communicate to the broad public
-- Increase the impact of science on policy and society
-- Manage research data
-- Apply research ethics and integrity principles
-- Negotiate
-- Promote open access publishing
-- Participate in publication process
-- Manage personal professional development
-- Promote citizen science
-- Critical thinking
-- Evaluate research
-- Plan self-organisation
-- Ensure wellbeing at work
-- Cope with pressure
-- Problem solving
-- Creativity
-- Analytical thinking
+**ResearchComp:** Disciplinary expertise; Abstract thinking;  Strategic thinking; Write research documents; Show entrepreneurial spirit; Mobilise resources; Promote open innovation; Teach in academic or vocational contexts; Promote the transfer of knowledge; Vocational context; Build mentor-mentee relationships; Develop networks; Work in teams; Interact professionally;  Communicate to the broad public; Increase the impact of science on policy and society; Manage research data; Apply research ethics and integrity principles; Negotiate; Promote open access publishing; Participate in publication process; Manage personal professional development; Promote citizen science; Critical thinking;  Evaluate research; Plan self-organisation; Ensure wellbeing at work; Cope with pressure; Problem solving;  Creativity; Analytical thinking.
 
-### Terms4FAIRskills
-- Assessment on FAIR data criteria
-- Knowledge to contextualise fair principles to domain
-- Persistent identifiers management
-- Selecting appropriate data handling methods
-- Mentoring on open and fair methods
-- Training in open and fair methods
-- Crediting research contributors
-- Metadata creation
-- Data production
-- Data processing
-- Data acquisition
-- Data analysis
-- Data categorisation
-- Data curation
-- Data destruction
-- Data discovery
-- Data driven decision management
-- Data harmonization
-- Data ingestion
-- Data repository management
-- Data sharing and publication
-- Depositing in repository
-- Evaluating repositories for data deposit/sharing
-- Data access risk assessment and mitigation
-- Ethical application of patents, licenses
-- Data policy
-- Open peer review
-- Stakeholder engagement on societal impact
-- Research management
-- Research integrity, attribution, impact awareness
+**Terms4FAIRskills**: Assessment on FAIR data criteria; Knowledge to contextualise fair principles to domain;  Persistent identifiers management; Selecting appropriate data handling methods; Mentoring on open and fair methods; Training in open and fair methods; Crediting research contributors; Metadata creation;Data production; Data processing; data acquisition; Data analysis; Data categorisation; Data curation; Data destruction; Data discovery; Data driven decision management; Data harmonization; Data ingestion; Data repository management; Data sharing and publication; Depositing in repository; Evaluating repositories for data deposit/sharing; Data access risk assessment and mitigation; Ethical application of patents, licenses; Data policy; Open peer review; Stakeholder engagement on societal impact; Research management; Research integrity, attribution, impact awareness.
 
-### CSCCE
-- Strategy development
-- Content creation and curation
-- Content planning
-- Record keeping
-- Landscape analysis
-- Speaking and presenting
-- Proposal development
-- Advancement, growth and sustainability
-- Collaboration
-- Data analysis
-- Engagement
-- Evaluation and assessment
-
-
-
-## Related MVS
+**CSCCE:** Strategy development; Content creation and curation;Content planning; Record keeping;Landscape analysis; Speaking and presenting; Proposal development; Advancement, growth and sustainability; Collaboration; Data analysis; Advancement, growth and sustainability; Engagement; Evaluation and assessment.## Related MVS
 Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
+
+## Contributors
+
+Saba Sharma, Dominique Green, Irakleitos Souyioultzoglou, Gabriela Torres-Ramos, Claire Sowinski, Karolina Dostatnia, Luca Schirru, Angus Whyte
+
 
 ## Reference sources
 
