@@ -95,5 +95,5 @@ Emma Lazzeri, Sara di Giorgio, Dominique Green, Claire Sowinski, Gabriela Torres
 Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
-[@civil_servant_what] [@gov_framework] [@guerin2020finding] [@scholtens2019lifesciences] [@whyte2028fair4s] [@sharff2020skills] [@oecd2017skills] [@workinggroup2022ai] [@magyar2022knowledge] [@govscience2013future] [@kragh2022time4cs] [@zhang2012knowledge] [@gov2018success] [@whyte2017deliverable] [@whyte2018deliverable]
+[@civil_servant_what] [@noauthor_civil_2018] [@guerin2021finding] [@scholtens_life_2019] [@eoscpilot_2018] [@sharff2020skills] [@oecd2017skills] [@artificial_2022] [@magyar2022knowledge] [@govscience2013future] [@kragh2022time4cs] [@doi10108015236803201212001677] [@gov2018success] [@d71_2017] [@whyte2018deliverable]
 
