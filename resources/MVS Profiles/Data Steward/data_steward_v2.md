@@ -89,7 +89,7 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## References
 
-[@ayres2022rda] [@demchenko2021fair] [@embl2023competency] [@engelhardt2022fair] [@eosc2021digitalskills] [@forstner2023data] [@jetten2021professionalising] [@scholtens2022final] [@semeler2019datascience] [@wildgaard2020coordination] [@verheul2019map] [@wendelborn2023data] [@wildgaard2022gaps]
+[@ayres2022rda] [@demchenko2021fair] [@embl2023competency] [@engelhardt2022fair] [@eosc2021digitalskills] [@forstner2023data] [@jetten2021professionalising] [@scholtens2022final] [@doi1011770961000617742465] [@wildgaard2020coordination] [@verheul2019map] [@WENDELBORN2023104337] [@wildgaard2022gaps]
 
 
 
