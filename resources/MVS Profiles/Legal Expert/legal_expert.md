@@ -59,7 +59,7 @@ Legal experts play a critical role in ensuring that research practices, particul
 
 ## Background Assumptions
 
-### Main Activities:
+### Main Activities
 
 - Promote and support open access and other OS-related legal and ethical principles
 
@@ -79,7 +79,7 @@ Legal experts play a critical role in ensuring that research practices, particul
 
 - The organization will be equipped with policies, contracts and other instruments necessary to the realization of the legal rules and ethical principles concerning OS
 
-## Further Information - Open Science Skills Terms
+### Further Information - Open Science Skills Terms
 
 OS skills terms match the essential skills in this MVS to competence definitions from relevant taxonomies. Terms are selected to add further information and to aid discovery of this MVS (an extended list is added at the foot of this document).  Sources: European Skills, Competences and Occupations ontology ([ESCO](https://esco.ec.europa.eu/en/classification/skill_main "https://esco.ec.europa.eu/en/classification/skill_main")), [ResearchComp](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en "https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en"), [terms4FAIRskills](https://obofoundry.org/ontology/t4fs.html "https://obofoundry.org/ontology/t4fs.html"), [Center Scientific Collaboration and Community Engagement](https://www.cscce.org/resources/glossary/ "https://www.cscce.org/resources/glossary/").
 
@@ -93,7 +93,7 @@ Terms4FAIRskills: [Assessment on FAIR data criteria](https://www.ebi.ac.uk/ols4/
 
 CSCCE:  [Strategy development](https://www.cscce.org/glossary/strategy-development/ "https://www.cscce.org/glossary/strategy-development/"); [Content planning](https://www.cscce.org/glossary/content-planning/ "https://www.cscce.org/glossary/content-planning/"); [Operational planning and implementation](https://www.cscce.org/glossary/operational-planning-and-implementation/); [Speaking and presenting](https://www.cscce.org/glossary/speaking-and-presenting/ "https://www.cscce.org/glossary/speaking-and-presenting/"); [Consultation and listening](https://www.cscce.org/glossary/consultation-and-listening/ "https://www.cscce.org/glossary/consultation-and-listening/"); [Collaboration](https://www.cscce.org/glossary/collaboration/ "https://www.cscce.org/glossary/collaboration/").
 
-## Contributors
+### Contributors
 
 Luca Schirru, Valentina Colcelli, Sabrina Brizioli, Sara Casati, Thomas Margoni, Angus Whyte, Laurence Horton, Dominique Green, Karolina Dostatnia, Emma Lazzeri.
 
