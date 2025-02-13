@@ -145,4 +145,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-[@whyte2018] [@whyte2017] [@diosi2022] [@ocarroll2017] [@manola2021] [@brinkman2023] [@mccaffrey2020] [@kathawalla2021] [@norcam2021] [@demchenko2017] [@demchenko2016]
+[@whyte2018deliverable] [@d71_2017] [@diosi2022] [@doi102777121253] [@european_commission_2021] [@brinkman2023] [@mccaffrey2020] [@kathawalla2021] [@norway2021nor] [@demchenko2017] [@demchenko2016]
