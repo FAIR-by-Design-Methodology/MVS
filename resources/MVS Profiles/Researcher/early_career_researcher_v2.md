@@ -107,7 +107,7 @@ By adopting the Open Science (OS) approach in their work, the early career resea
 - Improvement of the reproducibility of scientific findings
 
 
-## Further information -- Open Science skills terms
+### Further information -- Open Science skills terms
 
 OS skills terms match the essential skills in this MVS to competence definitions from relevant taxonomies. Terms are selected to add further information and to aid discovery of this MVS (an extended list is added at the foot of this document).  Sources: European Skills, Competences and Occupations ontology ([ESCO](https://esco.ec.europa.eu/en/classification/skill_main "https://esco.ec.europa.eu/en/classification/skill_main")), [ResearchComp](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en "https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en"), [terms4FAIRskills](https://obofoundry.org/ontology/t4fs.html "https://obofoundry.org/ontology/t4fs.html"), [Center Scientific Collaboration and Community Engagement](https://www.cscce.org/resources/glossary/ "https://www.cscce.org/resources/glossary/").
 
