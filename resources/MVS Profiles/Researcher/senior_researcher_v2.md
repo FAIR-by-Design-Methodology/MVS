@@ -68,7 +68,7 @@ The main objective of the Senior Researcher is to conduct and oversee high quali
 - Promoting education and training about open science skills, resources and solutions amongst other researchers and students
 - Integrating Open Science knowledge into their own teaching and research practices
 
-## Further Information - Open Science Skills Terms
+### Further Information - Open Science Skills Terms
 
 OS skills terms match the essential skills in this MVS to competence definitions from relevant taxonomies. Terms are selected to add further information and to aid discovery of this MVS (an extended list is added at the foot of this document).  Sources: European Skills, Competences and Occupations ontology ([ESCO](https://esco.ec.europa.eu/en/classification/skill_main "https://esco.ec.europa.eu/en/classification/skill_main")), [ResearchComp](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en "https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en"), [terms4FAIRskills](https://obofoundry.org/ontology/t4fs.html "https://obofoundry.org/ontology/t4fs.html"), [Center Scientific Collaboration and Community Engagement](https://www.cscce.org/resources/glossary/ "https://www.cscce.org/resources/glossary/").
 
@@ -83,7 +83,7 @@ OS skills terms match the essential skills in this MVS to competence definitions
 **CSCCE:** Strategy development; Content creation and curation;Content planning; Record keeping;Landscape analysis; Speaking and presenting; Proposal development; Advancement, growth and sustainability; Collaboration; Data analysis; Advancement, growth and sustainability; Engagement; Evaluation and assessment.## Related MVS
 Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
-## Contributors
+### Contributors
 
 Saba Sharma, Dominique Green, Irakleitos Souyioultzoglou, Gabriela Torres-Ramos, Claire Sowinski, Karolina Dostatnia, Luca Schirru, Angus Whyte
 
