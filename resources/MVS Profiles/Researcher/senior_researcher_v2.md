@@ -93,4 +93,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-[@demchenko_edison_2020] [@eosc_pilot_2018] [@european_commission_2021] [@european_commission_2017] [@kowalczyk_senior_2022] [@leru_2018] [@oberred_undated] [@oecd_2020] [@vitae_2012] [@whyte_2017]
+[@demchenko_edison_2020] [@whyte2018deliverable] [@european_commission_2021] [@doi102777121253] [@Kowalczyk2022] [@leru_2018] [@oberred_undated] [@oecd_building_2020] [@vitae_2012] [@d71_2017]
