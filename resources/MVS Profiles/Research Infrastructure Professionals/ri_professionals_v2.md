@@ -67,9 +67,9 @@ Research Infrastructure (RI) professionals contribute to open science developmen
 
 - Proactiveness and responsiveness
 
-## Main activities
+### Main activities
 
-### Service
+**Service**
 
 - Provide knowledge-related facilities and resources such as collections, archives or scientific data infrastructures; computing systems, communication networks, and any other infrastructure
 
@@ -79,7 +79,7 @@ Research Infrastructure (RI) professionals contribute to open science developmen
 
 - Ensure technical policy consistency throughout projects and activities of the RI
 
-### Support
+**Support**
 
 - Coordinate and engage the research community's relevant stakeholders with a special attention to young generation
 
@@ -91,7 +91,7 @@ Research Infrastructure (RI) professionals contribute to open science developmen
 
 - Instruct researchers on open licensing and open software according the legislation on the reuse of public funded research data
 
-### Coordination
+**Coordination**
 
 - Foster new partnerships and innovative services through internal and external collaboration
 
@@ -102,7 +102,7 @@ Research Infrastructure (RI) professionals contribute to open science developmen
 - Identify and negotiate with potential funders; identify new funding tools (private-public partnerships, special projects, commercial funding, fee for service, consultancy)
 
 
-## Contributes to which Open Science outcomes?
+### Contributes to which Open Science outcomes?
 
 The European Commission describes the main objectives of RIs and these represent OS outcomes provided by the RI professionals:
 
@@ -118,11 +118,11 @@ The European Commission describes the main objectives of RIs and these represent
 
 - Facilitate cross-disciplinarity and cooperation with industry
 
-## Further information
+### Further information
 
 **Contributors:** Karla Avanço, Arnaud Gingold, Irakleitos Souyioultzoglou, Elena Sokolova, Angus Whyte
 
-## Open Science skills terms
+**Open Science skills terms**
 
 OS skills terms match the essential skills in this MVS to competence definitions from relevant taxonomies. The selected terms offer further information to help identify the learning objectives for skills development.  Sources: European Skills, Competences and Occupations ontology ([ESCO](https://esco.ec.europa.eu/en/classification/skill_main "https://esco.ec.europa.eu/en/classification/skill_main")), [ResearchComp](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en "https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en"), [terms4FAIRskills](https://obofoundry.org/ontology/t4fs.html "https://obofoundry.org/ontology/t4fs.html"), [Center Scientific Collaboration and Community Engagement](https://www.cscce.org/resources/glossary/ "https://www.cscce.org/resources/glossary/").
 
