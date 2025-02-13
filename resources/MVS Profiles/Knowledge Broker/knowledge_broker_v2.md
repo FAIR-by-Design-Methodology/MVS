@@ -154,4 +154,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-[@jessani2016] [@rantala2017] [@duncan2020] [@gluckman2021] [@whyte2028] [@conklin2013] [@rfii2019] [@peng2016] [@topp2018] [@zhang2012] [@turing2021]
+[@Jessani2016] [@doi1010800894192020171331484] [@Duncan2020] [@Gluckman2021] [@eoscpilot_2018] [@Conklin2013] [@RfII2019] [@peng2016] [@Topp2018] [@doi10108015236803201212001677] [@community_turing_2023]
