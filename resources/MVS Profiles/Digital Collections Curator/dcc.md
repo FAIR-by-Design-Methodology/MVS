@@ -112,4 +112,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-[@ayres2022rda] [@demchenko2021d73] [@dpc2024roles] [@embl2023competency] [@eosc2021digital] [@eosc2019glossary] [@feng2018review] [@forstner2023data] [@jetten2021professionalising] [@molloy2014digcurv] [@scholtens2022fair] [@semeler2019data] [@verheul2019stewardship] [@wildgaard2022gaps] [@wildgaard2020coordination]
+[@ayres2022rda] [@demchenko2021fair] [@dpc2024roles] [@embl2023competency] [@european_commission_2021] [@EOSC_2019] [@feng2018review] [@forstner2023data] [@jetten2021professionalising] [@molloy2014digcurv] [@scholtens2022final] [@doi1011770961000617742465] [@verheul2019map] [@wildgaard2022gaps] [@wildgaard2020coordination]
