@@ -87,7 +87,7 @@ Digital Collections Curators activities include the following:
 
 
 
-## Further Information - Open Science Skills Terms
+### Further Information - Open Science Skills Terms
 
 OS skills terms match the essential skills in this MVS to competence definitions from relevant taxonomies. Terms are selected to add further information and to aid discovery of this MVS (an extended list is added at the foot of this document).  Sources: European Skills, Competences and Occupations ontology ([ESCO](https://esco.ec.europa.eu/en/classification/skill_main "https://esco.ec.europa.eu/en/classification/skill_main")), [ResearchComp](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en "https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en"), [terms4FAIRskills](https://obofoundry.org/ontology/t4fs.html "https://obofoundry.org/ontology/t4fs.html"), [Center Scientific Collaboration and Community Engagement](https://www.cscce.org/resources/glossary/ "https://www.cscce.org/resources/glossary/").
 
@@ -101,7 +101,7 @@ OS skills terms match the essential skills in this MVS to competence definitions
 
 **CSCCE:**  Consultation and listening; Advocacy; Landscape analysis.
 
-## Contributors
+### Contributors
 
 Nikos Gänsdorfer, Angus Whyte, Clara Lines
 
