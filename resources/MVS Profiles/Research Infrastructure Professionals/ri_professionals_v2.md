@@ -141,4 +141,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-[@coordination2021] [@demchenko2021] [@eosc2021] [@esfri2018] [@ec2018] [@egi2020] [@oecd2016] [@prandner2022] [@ritrain] [@milano] [@verhulst2023] [@wildgaard2020]
+[@nykyri2021open] [@demchenko2021fair] [@european_commission_2021] [@european2018innovation] [@ec2018] [@EOSC_2019] [@oecd2016] [@prandner2022] [@ritrain] [@universita_milano_bicocca_executive_nodate] [@verhulst2023] [@wildgaard2020coordination]
