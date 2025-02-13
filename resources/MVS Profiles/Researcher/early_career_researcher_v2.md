@@ -130,5 +130,5 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-[@green2022] [@sharma2022] [@souyioultzoglou2022] [@torresramos2022] [@sowinski2022] [@dostatnia2022] [@schirru2022] [@whyte2022] [@mendez2022] [@whyte2018] [@whyte2017] [@berti2022] [@manola2021] [@ocarroll2017] [@gatto2017] [@janicko2022] [@leru2018] [@norcam2021] [@demchenko2017] [@demchenko2016]
+[@whyte2018deliverable] [@d71_2017] [@berti2022] [@european_commission_2021] [@doi102777121253] [@gatto2017] [@janicko2022] [@LERU2018] [@norway2021nor] [@demchenko2017] [@demchenko2016]
 
