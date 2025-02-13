@@ -30,7 +30,7 @@ Each requires understanding of the context, the processes required to perform th
 - Ability to apply FAIR principles to collections, and to other digital objects they interoperate with, including software. This includes the capability to apply standards, ontologies, infrastructure and tools for (meta)data publishing and sharing, and for managing the associated workflows. It also includes the capability to provide open access to collections.
 
 - Ability to establish governance processes to handle ethical and legal/ regulatory aspects of managing digital open collections in the GLAM sector. This requires understanding of processes to handle intellectual property rights, deal with personal data, and ensure the responsible reuse of digital objects, including through the decolonisation of collections. It also requires familiarity with sustainable business modeling approaches relevant to the sector, including appropriate levels of resource pooling and service coordination.
--   
+  
 ### Soft/ transversal skills
 
 - Ability to interact positively and productively with others, e.g.when addressing audiences, moderating discussions, or collaborating in teams and networks. This includes abilities to effect agreements, reconcile, resolve problems, and provide improvement strategies with a patient, empathetic approach.
@@ -43,7 +43,7 @@ Each requires understanding of the context, the processes required to perform th
 
 ## Background Assumptions
 
--**Organisational context:** Digital Collection Curators serve research teams and departments in institutions that are directly involved in the publication of collection objects or the production of research results, such as:-
+**Organisational context:** Digital Collection Curators serve research teams and departments in institutions that are directly involved in the publication of collection objects or the production of research results, such as:-
 
 - Museums that conduct research
 
