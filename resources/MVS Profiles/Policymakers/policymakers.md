@@ -92,5 +92,5 @@ Arnaud Gingold, Karla Avanço, Gabriela Torres-Ramos, Claire Sowinski, Angus Why
 Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
-[@oecd2020digital] [@engelhardt2022fair] [@eosc2021digital] [@eosc2020glossary] [@topp2018knowledge] [@unesco2022building]
+[@oecd_building_2020] [@gup-1915] [@doi10277759065] [@EOSC_2019] [@Topp2018] [@unesco2022building]
 
