@@ -103,4 +103,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-[@whyte2017skills] [@whyte2018framework] [@ec2021digital] [@demchenko2017profiles] [@demchenko2017framework]
+[@d71_2017] [@whyte2018deliverable] [@european_commission_2021] [@demchenko2017] [@demchenko2016]
