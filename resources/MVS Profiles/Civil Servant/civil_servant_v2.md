@@ -70,7 +70,7 @@ Civil Servant, Public Policy Advisor, Government Analyst, Administrative Officer
 - Promoting open science practices through training and education, and engaging with stakeholders to understand their needs and priorities
 - Ensuring the appropriate re-use of data produced and shared by research actions in decision-making contexts
 
-## Further Information - Open Science Skills Terms
+### Further Information - Open Science Skills Terms
 
 OS skills terms match the essential skills in this MVS to competence definitions from relevant taxonomies. The selected terms offer further information to help identify the learning objectives for skills development.  Sources: European Skills, Competences and Occupations ontology ([ESCO](https://esco.ec.europa.eu/en/classification/skill_main "https://esco.ec.europa.eu/en/classification/skill_main")), [ResearchComp](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en "https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en"), [terms4FAIRskills](https://obofoundry.org/ontology/t4fs.html "https://obofoundry.org/ontology/t4fs.html"), [Center Scientific Collaboration and Community Engagement](https://www.cscce.org/resources/glossary/ "https://www.cscce.org/resources/glossary/").
 
