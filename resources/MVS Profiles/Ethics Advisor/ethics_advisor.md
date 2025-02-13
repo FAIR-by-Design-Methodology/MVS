@@ -102,4 +102,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## References
 
-[@whyte2017skills] [@whyte2018framework] [@cscce2021skills] [@cessda2020guide] [@ec2021digital] [@fit4rri2020ethics] [@oecd2008integrity] [@sparceurope2019integrity] [@demchenko2017profiles] [@demchenko2017framework]
+[@d71_2017] [@eoscpilot_2018] [@cscce2021skills] [@cessda2020guide] [@doi10277759065] [@fit4rri2020ethics] [@oecd2008integrity] [@sparceurope2019integrity] [@demchenko2017] [@demchenko2016]
