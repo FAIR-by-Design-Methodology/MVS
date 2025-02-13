@@ -129,4 +129,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-[@avanco_fairifying_2022] [@federer_medical_2020] [@mccaffrey_open_2021]
+[@avanco_fairifying_2022] [@federer_medical_2020] [@mccaffrey2020]
