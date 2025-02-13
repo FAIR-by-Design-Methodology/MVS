@@ -1,0 +1,132 @@
+---
+title: "Scholarly Communications Professional MVS"
+author: "Skills4EOSC T2.1"
+tags: 
+    - Minimum Viable Skillset
+    - Scholarly Communication Professional
+---
+
+# Minimum Viable Skills for **Scholarly Communication Professional**
+
+## Introduction: Open Science mission for this role
+
+According to UNESCO, "Scholarly communication is the process of sharing, disseminating and publishing research findings of academics and researchers so that the generated academic contents are made available to the global academic communities"[[1]](#_ftn1). The Minimum Viable Skillset for Scholarly Communication Professionals describes the Open Science and Data Management skills required for those roles contributing to the creation, curation, and dissemination of scholarly outputs, with a particular attention to publications. Publications and scholarly outputs in general are not only the result of scientific activities, but a component of the open science  ecosystem and therefore requiring the same OS and RDM skills as other OS products.
+
+* * * * *
+
+[[1]](#_ftnref1) <https://unesdoc.unesco.org/ark:/48223/pf0000231938.>
+
+## Scholarly Communication Professional 
+The Scholarly Communication Professional (SCP) deals with Scholarly Communication Artifacts, which entail, but are not limited to: articles, books, posts, annotations. SCPs engaged in Open Science ensure open access to the Scholarly Communication Artifacts, and more broadly their full integration into the OS environment. SCPs not only apply OS and RDM principles to the traditional and innovative forms of Scholarly Communication Artifacts, but they also address OS aspects beyond RDM best practices.
+ 
+In that prospect, the SCP designs and/or implements OS policies and recommendations and applies methods and standards to ensure high-quality, accessible and reproducible research outputs.
+ 
+**Associated function titles**: Publisher, Editor, Librarian. 
+
+**Organisational context**: Libraries, Research Performing Organizations (learned societies, universities, research centers), Scientific publishers, Research Infrastructures. 
+
+### Essential skills and competences
+
+- Expertise in data literacy both as a practitioner and a trainer
+
+- Knowledge of repositories and aggregators types, scope, and requirements
+
+- Capacity to generate and/or understand bibliometrics, altmetrics, and usage metrics
+
+- Knowledge of open publication models(green, gold, diamond)
+
+- Expertise in persistent identification of contents
+
+- Good knowledge of discipline-specific output types and standards
+
+- Expertise in standard metadata generation and storage
+
+- Capacity to apply FAIR principles to a variety of scholarly outputs
+
+- Knowledge about Linked Open Data and semantic interoperability
+
+- Knowledge about legal aspects related to IP/copyright/privacy, as well as the use of data and information which may be considered sensitive, balance data protection requirements with open science/FAIR principles (taken from Senior Researcher MVS)
+
+- Capacity to understand and apply Responsible Research and Innovation (RRI) and the CARE (Collective benefit, Authority to control, Responsibility, Ethics) principles
+
+- Ability to organize, and manage physical and digital events
+
+- Ability to design, organize, and manage physical and digital trainings
+
+### Soft/ transversal skills
+
+- Team management and project management (results-oriented planning and organising)
+
+- Stakeholder engagement and networking to translate and bridge needs
+
+- Creativity, curiosity and openness (willingness to learn)
+
+- Critical and analytical thinking
+
+- Conflict management/mediation (with a patient, empathic approach)
+
+### Main activities
+
+- Maintains and/or uses a publishing platform or a repository providing interoperable contents
+
+- Guides and supports users in disseminating standardized and FAIRified scholarly communication artifacts
+
+- Guides and supports users in enhancing their data literacy skills and  working effectively with various types of data
+
+- Negotiates with publishers for open access publishing
+
+- Curates and enriches the data to ensure semantic and technical interoperability with a range of aggregators' specifications
+
+- Uses tools and follows procedures to achieve sustainability of published resources
+
+- Ensures compliance of published output with ethical and legal recommendations
+
+- Organises and monitors processes of content creation, review and dissemination
+
+- Integrates the aspects of diversity, inclusiveness and integrity in the process of information sharing
+
+- Participates and contributes in trans-professional networks (including librarians, publishers, IT experts, legal experts, etc.)
+
+### Contributes to which Open Science outcomes?
+
+The SCP manages Scholarly Communication Artifacts as research data, following OS and RDM principles, including the FAIR principles, both for the contents (e.g. using interoperable standard structured formats), and for their metadata (e.g., using PIDs and standard metadata schemas). The SCP ensures this way that Scholarly Communication Artifacts are not only disseminated as research results, but made available as reusable research data.
+
+LIBER (Association of European Research Libraries) identifies the following contributions to OS proper to librarians that also characterize any SCP's activity:
+
+- Scholarly publishing
+
+- Research integrity
+
+- Citizen Science
+
+- FAIR data
+
+- Metrics and Awards
+
+
+### Further information
+
+**Contributors:** Karla Avanço, Arnaud Gingold, Irakleitos Souyioultzoglou, Elena Sokolova, Angus Whyte
+
+**Open Science skills terms**
+
+OS skills terms match the essential skills in this MVS to competence definitions from relevant taxonomies. The selected terms offer further information to help identify the learning objectives for skills development.  Sources: European Skills, Competences and Occupations ontology ([ESCO](https://esco.ec.europa.eu/en/classification/skill_main "https://esco.ec.europa.eu/en/classification/skill_main")), [ResearchComp](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en "https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en"), [terms4FAIRskills](https://obofoundry.org/ontology/t4fs.html "https://obofoundry.org/ontology/t4fs.html"), [Center Scientific Collaboration and Community Engagement](https://www.cscce.org/resources/glossary/ "https://www.cscce.org/resources/glossary/").
+
+**ESCO Research Skills**: [Apply for research funding](http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6 "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6"); [Apply research ethics and scientific integrity principles in research activities](http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8 "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8"); [Cope with stress](http://data.europa.eu/esco/skill/7a147904-22b3-498a-b4d9-7bceeb86b45d "http://data.europa.eu/esco/skill/7a147904-22b3-498a-b4d9-7bceeb86b45d"); [Develop professional network with researchers and scientists](http://data.europa.eu/esco/skill/cc61f9e5-d4fc-470e-8606-1ce865ff8386 "http://data.europa.eu/esco/skill/cc61f9e5-d4fc-470e-8606-1ce865ff8386"); [Interact professionally in research and professional environments](http://data.europa.eu/esco/skill/20a8fe89-d4eb-4698-8521-8881c13377e0 "http://data.europa.eu/esco/skill/20a8fe89-d4eb-4698-8521-8881c13377e0"); [Manage findable accessible interoperable and reusable data](http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11 "http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11"); [Manage open publications](http://data.europa.eu/esco/skill/da930e2f-6047-4616-a598-bba8ecef3039 "http://data.europa.eu/esco/skill/da930e2f-6047-4616-a598-bba8ecef3039"); [Manage research data](http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d"); [Negotiate compromises](http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74 "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"); [Operate open-source software](http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6 "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6"); [Perform project management](http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68 "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68"); [Plan](http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a "http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a"); [Promote the transfer of knowledge](http://data.europa.eu/esco/skill/988f4ac3-a37c-4b0a-a40f-4e0e56b5919e "http://data.europa.eu/esco/skill/988f4ac3-a37c-4b0a-a40f-4e0e56b5919e"); [Solve problems](http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869 "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869"); [Teach in academic or vocational contexts](http://data.europa.eu/esco/skill/4cd85845-f31c-4306-994d-e12d45114d83 "http://data.europa.eu/esco/skill/4cd85845-f31c-4306-994d-e12d45114d83"); [Think abstractly](http://data.europa.eu/esco/skill/9a58cd26-58eb-4a1c-b1b6-64037fe9cfa1 "http://data.europa.eu/esco/skill/9a58cd26-58eb-4a1c-b1b6-64037fe9cfa1"); [Think analytically](http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137 "http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137"); [Work in teams](http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0 "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0").
+
+**ESCO Transversal Skills:** [Adapt to change](http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4 "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4"); [Advise others](http://data.europa.eu/esco/skill/045f71e6-0699-4169-8a54-9c6b96f3174d "http://data.europa.eu/esco/skill/045f71e6-0699-4169-8a54-9c6b96f3174d"); [Apply basic programming skills](http://data.europa.eu/esco/skill/bf4d884f-c848-402a-b130-69c266b04164 "http://data.europa.eu/esco/skill/bf4d884f-c848-402a-b130-69c266b04164"); [Apply digital security measures](http://data.europa.eu/esco/skill/f4346299-e22a-4686-8e61-2c9b0cd51c7d "http://data.europa.eu/esco/skill/f4346299-e22a-4686-8e61-2c9b0cd51c7d"); [Apply knowledge of science, technology and engineering](http://data.europa.eu/esco/skill/5c3ab99d-a3f1-4620-9602-d12d2151a03d "http://data.europa.eu/esco/skill/5c3ab99d-a3f1-4620-9602-d12d2151a03d"); [Build networks](http://data.europa.eu/esco/skill/bf983f2a-e941-4646-811d-cc81060cb53f "http://data.europa.eu/esco/skill/bf983f2a-e941-4646-811d-cc81060cb53f"); [Build team spirit](http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3 "http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3"); [Comply with regulations](http://data.europa.eu/esco/skill/b618584f-6bdf-4d8f-89a7-f28c2c95afc2 "http://data.europa.eu/esco/skill/b618584f-6bdf-4d8f-89a7-f28c2c95afc2"); [Cope with stress](http://data.europa.eu/esco/skill/7a147904-22b3-498a-b4d9-7bceeb86b45d "http://data.europa.eu/esco/skill/7a147904-22b3-498a-b4d9-7bceeb86b45d"); [Delegate responsibilities;](http://data.europa.eu/esco/skill/b00e948c-19be-4951-8cff-60f88f1046e9 "http://data.europa.eu/esco/skill/b00e948c-19be-4951-8cff-60f88f1046e9")  [Demonstrate curiosity](http://data.europa.eu/esco/skill/A1.6 "http://data.europa.eu/esco/skill/A1.6"); [Demonstrate willingness to learn](http://data.europa.eu/esco/skill/A1.8.0 "http://data.europa.eu/esco/skill/A1.8.0"); [Instruct others](http://data.europa.eu/esco/skill/699e7c26-6502-4e78-a823-3656ff5a5b8b "http://data.europa.eu/esco/skill/699e7c26-6502-4e78-a823-3656ff5a5b8b"); [Keep an open mind](http://data.europa.eu/esco/skill/fd89f784-88dc-4d35-abd7-86aa073cab12 "http://data.europa.eu/esco/skill/fd89f784-88dc-4d35-abd7-86aa073cab12"); [Lead others](http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207 "http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207"); [Manage frustration](http://data.europa.eu/esco/skill/1d1fedcb-4995-44ac-90f5-f31a157ce512 "http://data.europa.eu/esco/skill/1d1fedcb-4995-44ac-90f5-f31a157ce512"); [Manage quality](http://data.europa.eu/esco/skill/35ebe444-9ece-4fbc-a55d-e99ea37267ae "http://data.europa.eu/esco/skill/35ebe444-9ece-4fbc-a55d-e99ea37267ae"); [Manage time](http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8 "http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8"); [Meet commitments](http://data.europa.eu/esco/skill/113b4428-0a31-4199-8496-070af7854b91 "http://data.europa.eu/esco/skill/113b4428-0a31-4199-8496-070af7854b91"); [Motivate others](http://data.europa.eu/esco/skill/e2d44a9b-f28c-489e-9861-b654b5ded507 "http://data.europa.eu/esco/skill/e2d44a9b-f28c-489e-9861-b654b5ded507"); [Negotiate compromises](http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74 "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"); [Organize information, objects and resources](http://data.europa.eu/esco/skill/6b305973-8993-475f-bd8a-daf037c61401 "http://data.europa.eu/esco/skill/6b305973-8993-475f-bd8a-daf037c61401"); [Plan](http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a "http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a"); [Promote ideas, products, services](http://data.europa.eu/esco/skill/df5e3d02-9f0f-44ee-91c2-85c62f161868 "http://data.europa.eu/esco/skill/df5e3d02-9f0f-44ee-91c2-85c62f161868"); [Resolve conflicts](http://data.europa.eu/esco/skill/96de2e86-e287-41f2-88ab-15a2343afc6f "http://data.europa.eu/esco/skill/96de2e86-e287-41f2-88ab-15a2343afc6f"); [Respect the diversity of cultural values and norms](http://data.europa.eu/esco/skill/5ca953f7-541d-4f67-bc55-7721348366cf "http://data.europa.eu/esco/skill/5ca953f7-541d-4f67-bc55-7721348366cf"); [Show empathy](http://data.europa.eu/esco/skill/77b636e8-fab3-41a8-8022-1e0a354059dc "http://data.europa.eu/esco/skill/77b636e8-fab3-41a8-8022-1e0a354059dc"); [Show initiative](http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"); [Solve problems](http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869 "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869"); [Think analytically](http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137 "http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137"); [Think creatively](http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41 "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41"); [Think critically](http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9 "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9"); [Use communication and collaboration software](http://data.europa.eu/esco/skill/b080a008-a35d-4bd0-92e9-edf3773bb2b7 "http://data.europa.eu/esco/skill/b080a008-a35d-4bd0-92e9-edf3773bb2b7"); [Work in teams](http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0 "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0").
+
+**ResearchComp:** Abstract thinking; Analytical thinking; Apply research ethics and integrity principles; Cope with pressure; Creativity; Critical thinking; Develop networks; Disseminate results to the research community; Ensure wellbeing at work; Interact professionally; Manage projects; Manage research data; Mobilise resources; Negotiate; Operate open-source software; Problem solving; Promote open access publishing; Promote the transfer of knowledge; Strategic thinking; Teach in academic or vocational context; Work in teams.
+
+**Terms4FAIRskills**: Adapt to change; Assessment on FAIR data criteria; Change management; Community building; Creativity; Data access risk assessment and mitigation; Data archiving; Data categorisation; Data curation; Data driven decision management; Data governance; Data policy; Data quality assessment & review; Digital archiving; Evaluating repositories for data deposit/sharing; Information security; Knowledge to contextualize FAIR principles to domain; Meeting/conference organization; Mentoring on open and FAIR methods; Metadata creation; Metadata exposure; Open access publishing; Open innovation; Preservation; Privacy governance; Project management; Research integrity, attribution, impact awareness; Research management; Stakeholder engagement on societal impact; Training in open and FAIR methods; User acceptance testing.
+
+**CSCCE:** Adapt to change; Advocacy; Change management; Collaboration; Community governance; Consultation and listening; Cultural competence; Emotional integration; Engagement; Event planning; Knowledge brokering; Landscape analysis; Media production; Meeting facilitation; Mentoring; Moderation, mediation and intervention; Networking; Operational planning and implementation; Outreach; Project/programme design; Record-keeping; Speaking and presenting; Teaching and training.
+
+
+
+## Related MVS
+Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
+
+## Reference sources
+
+[@avanco_fairifying_2022] [@federer_medical_2020] [@mccaffrey_open_2021]
