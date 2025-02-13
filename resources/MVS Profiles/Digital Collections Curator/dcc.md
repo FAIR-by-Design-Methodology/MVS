@@ -95,9 +95,9 @@ OS skills terms match the essential skills in this MVS to competence definitions
 
 **ESCO Transversal Skills:**  Negotiate compromises; Respect the diversity of cultural values and norms; Maintain psychological well-being; Think critically; Think analytically; Advise others; Participate actively in civic life; Demonstrate curiosity; Approach challenges positively; Adapt to change; Lead others; Work in teams; Meet commitments; Organise information, objects and resources.
 
-**ResearchComp****:**  Manage research data; Develop networks; Teach in academic or vocational contexts; Promote open innovation; Promote the transfer of knowledge; Build mentor-mentee relationships.
+**ResearchComp:**  Manage research data; Develop networks; Teach in academic or vocational contexts; Promote open innovation; Promote the transfer of knowledge; Build mentor-mentee relationships.
 
-**Terms4FAIRskills**: Data policy; knowledge to contextualise fair principles to domain; Service level management; Data curation; Preservation ; Open access publishing; Data access risk assessment and mitigation; Information security; Securing sustainable funding; Software preservation; Metadata exposure;
+**Terms4FAIRskills**: Data policy; knowledge to contextualise fair principles to domain; Service level management; Data curation; Preservation; Open access publishing; Data access risk assessment and mitigation; Information security; Securing sustainable funding; Software preservation; Metadata exposure;
 
 **CSCCE:**  Consultation and listening; Advocacy; Landscape analysis.
 
