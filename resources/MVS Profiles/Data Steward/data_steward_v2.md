@@ -56,7 +56,7 @@ In the EOSC specifically, in their roles as practitioners and champions of Open 
 |                                                                                                                                                                                                  | • Provides ongoing support and guidance to researchers in following best practices for data management, ensuring ethical considerations and compliance are met. |
 |                                                                                                                                                                                                  | • Encourages collaboration across departments and institutions to share knowledge and improve research data management practices. |
 
-## Contributes to which Open Science outcomes?
+### Contributes to which Open Science outcomes?
 
 - Digital research objects are as FAIR and open as possible and as closed as necessary.
 - Opportunities are identified for creating or connecting with professional Open Science networks at institutional, cross-institutional, regional, national, or international levels.
@@ -65,11 +65,11 @@ In the EOSC specifically, in their roles as practitioners and champions of Open 
 - Research data and other digital objects are effectively managed to ensure their suitability for archiving and sharing, and advancement of research methods appropriate to the discipline(s).
 
 
-## Further information -
+### Further information -
 
 **Contributors:** **Nida van Leersum, Päivi Rauste, Bojana Koteska, Laurence Horton,** **Karsten** **Kryger** **Hansen,** **Angus Whyte**
 
-## Open Science Skills Terms 
+**Open Science Skills Terms**
 
 OS skills terms match the essential skills in this MVS to competence definitions from relevant taxonomies. The selected terms offer further information to help identify the learning objectives for skills development. Sources: European Skills, Competences and Occupations ontology ([ESCO](https://esco.ec.europa.eu/en/classification/skill_main "https://esco.ec.europa.eu/en/classification/skill_main")), [ResearchComp](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en "https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en"), [terms4FAIRskills](https://obofoundry.org/ontology/t4fs.html "https://obofoundry.org/ontology/t4fs.html"), [Center Scientific Collaboration and Community Engagement](https://www.cscce.org/resources/glossary/ "https://www.cscce.org/resources/glossary/").
 
@@ -82,6 +82,9 @@ OS skills terms match the essential skills in this MVS to competence definitions
 **Terms4FAIRskills**: [Data policy](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000333 "https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000333"); [knowledge to contextualise fair principles to domain](http://purl.obolibrary.org/obo/T4FS_0000296 "http://purl.obolibrary.org/obo/T4FS_0000296"); [Service level management](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000466?lang=en "https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000466?lang=en"); [Data curation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000132?lang=en "https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000132?lang=en"); [Preservation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000017?lang=en "https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000017?lang=en"); [Open access publishing](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000193?lang=en "https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000193?lang=en"); [Data access risk assessment and mitigation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000209?lang=en "https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000209?lang=en"); [Information security](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000107?lang=en "https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000107?lang=en"); [Securing sustainable funding](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000426?lang=en "https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000426?lang=en"); [Software preservation](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000004?lang=en "https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000004?lang=en"); [Metadata exposure](https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000160?lang=en "https://www.ebi.ac.uk/ols4/ontologies/t4fs/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FT4FS_0000160?lang=en");
 
 **CSCCE**: [Consultation and listening](https://www.cscce.org/glossary/consultation-and-listening/ "https://www.cscce.org/glossary/consultation-and-listening/"); [Advocacy](https://www.cscce.org/glossary/advocacy/ "https://www.cscce.org/glossary/advocacy/"); [Landscape analysis](https://www.cscce.org/glossary/analysis/ "https://www.cscce.org/glossary/analysis/").
+
+## Related MVS
+Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 
 ## References
