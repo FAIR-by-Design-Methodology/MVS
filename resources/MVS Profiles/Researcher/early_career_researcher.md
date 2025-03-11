@@ -67,7 +67,7 @@ OS can be facilitated via data sharing, exploring and reusing data and, data pub
 
 - Critical thinking
 
- ## Background assumptions
+## Background assumptions
 
 ### Main activities
 
