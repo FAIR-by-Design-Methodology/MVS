@@ -43,7 +43,7 @@ plugins:
         - "*.gz"
         - "*.pptx"
         - "*old.md"
-        - "*-old/"
+        - "*-old/*"
       regex:
         - '.*\.(tmp|bin|tar)$'
 extra:
