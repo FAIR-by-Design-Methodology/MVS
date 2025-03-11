@@ -120,4 +120,4 @@ Link to any other MVS that this MVS is based on (from those in Skills4EOSC D2.1)
 
 ## Reference sources
 
-[@eosc2021digital] [@ocarroll2017] [@lifescied2023] [@kjelvik2019getting] [@mccaffrey2020] [@oecd_building_2020] [@passport2023]
+[@eosc2021digitalskills] [@ocarroll2017] [@lifescied2023] [@kjelvik2019getting] [@mccaffrey2020] [@oecd_building_2020] [@passport2023]
